@@ -1,0 +1,14 @@
+story images:
+road1.jpg, trail3.jpg by Sgt. Groovy
+village.jpg, forestpath5.jpg by Heindal
+
+units:
+Woodswoman by SFault
+Gold Mage by SomeOneNamedMe
+dragon by pixelmind
+Vampire Lady by Blarumyrran
+Prophet (Crusader) and Celestial Messenger from Legend of the Invincibles
+
+portraits:
+dragon by pixelmind
+James by Eternal
