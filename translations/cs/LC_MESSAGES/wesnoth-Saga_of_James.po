@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: Saga_of_James-1.12\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: James_The_Invisible <jakub.konecny2@seznam.cz>\n"
+"Last-Translator: Jakub Konečný <jakub.konecny2@centrum.cz>\n"
 "Language-Team: \n"
 "Language: cs_CZ\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 1.7.4\n"
+"X-Generator: Poedit 1.8.7.1\n"
 
 #. [hides]: id = guerrilla warfare;
 #: add-ons/Saga_of_James/macros/abilities.cfg:6
@@ -33,7 +33,7 @@ msgstr ""
 #. [leadership]: id = guerrilla inspire;
 #: add-ons/Saga_of_James/macros/abilities.cfg:26
 msgid "inspire"
-msgstr ""
+msgstr "inspirace"
 
 #. [leadership]: id = guerrilla inspire;
 #: add-ons/Saga_of_James/macros/abilities.cfg:29
@@ -336,6 +336,8 @@ msgid ""
 "&$recall_list[$i].image=$recall_list[$i].name - $recall_list[$i]."
 "language_name"
 msgstr ""
+"&$recall_list[$i].image=$recall_list[$i].name - $recall_list[$i]."
+"language_name"
 
 #. [scenario]: id = 01_Prison_Break;
 #: add-ons/Saga_of_James/test/scenarios/01_Prison_Break.cfg:5
@@ -833,13 +835,11 @@ msgstr "rychlejší"
 
 #. [unit_type]: id = Elemental Wizard;
 #: add-ons/Saga_of_James/units/heroes/Elementalist.cfg:26
-#, fuzzy
 msgid "Elemental Wizard"
 msgstr "Elementální čaroděj"
 
 #. [unit_type]: id = Elemental Wizard;
 #: add-ons/Saga_of_James/units/heroes/Elementalist.cfg:40
-#, fuzzy
 msgid ""
 "A master of elemental magic. In addition to fire and cold attacks, elemental "
 "wizards seeks to bind earth, water, wind and fire magic to themselves and "
@@ -940,7 +940,7 @@ msgstr "lepší s pavučinkou"
 #. [advancement]: id = faerie touch;
 #: add-ons/Saga_of_James/units/heroes/Elvish_Avatar.cfg:92
 msgid "better at melee combat"
-msgstr ""
+msgstr "lepší v souboji na blízko"
 
 #. [unit_type]: id = Guiscard Elder Mage;
 #: add-ons/Saga_of_James/units/heroes/Mage_Elder.cfg:40
@@ -1415,6 +1415,9 @@ msgid ""
 "attack at all. We'll plunder their little village quickly and deserve our "
 "place in the wood."
 msgstr ""
+"Koukněte se na tu vesnici, chlapy. Její obyvatelé se právě probudili a vůbec "
+"neočekávají náš útok. Snadno vypleníme jejich malou vesničku a zasloužíme si "
+"své místo v lese."
 
 #. [message]: speaker = Rubryn;
 #: add-ons/Saga_of_James/volume1/scenarios/01_A_Raid.cfg:137
@@ -1660,7 +1663,7 @@ msgstr ""
 #. [message]: speaker = James;
 #: add-ons/Saga_of_James/volume1/scenarios/01_A_Raid.cfg:371
 msgid "I am always glad to be of help."
-msgstr ""
+msgstr "Vždy rád pomohu."
 
 #. [message]: speaker = Ligwyn;
 #: add-ons/Saga_of_James/volume1/scenarios/01_A_Raid.cfg:375
@@ -1688,7 +1691,7 @@ msgstr ""
 #. [message]: speaker = Ligwyn;
 #: add-ons/Saga_of_James/volume1/scenarios/01_A_Raid.cfg:422
 msgid "More bandits are coming from the wood. Everything is lost now."
-msgstr ""
+msgstr "Další banditi přicházejí z lesa. Všechno je ztraceno."
 
 #. [message]: speaker = James;
 #: add-ons/Saga_of_James/volume1/scenarios/01_A_Raid.cfg:460
@@ -1702,6 +1705,9 @@ msgid ""
 "bandits, there is no one left to repair damaged buildings and work on the "
 "fields. Everything is lost now."
 msgstr ""
+"Příliš mnoho vesničanů dnes ztratilo život. I když se nám podaří porazit "
+"tyto bandity, není tu nikdo, kdo by opravil poškozené budovy a pracoval na "
+"polích. Vše je ztraceno."
 
 #. [scenario]: id = 02_In_the_Woods;
 #: add-ons/Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:5
@@ -1737,7 +1743,7 @@ msgstr "a přesuň James rozcestníku"
 #. [message]: speaker = James;
 #: add-ons/Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:127
 msgid "We just entered the wood and I already have a strange feeling."
-msgstr ""
+msgstr "Jen jsme vstoupili do lesa a už mám divný pocit."
 
 #. [message]: role = Supporter;
 #: add-ons/Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:131
@@ -1796,12 +1802,15 @@ msgstr ""
 
 #. [message]: speaker = narrator;
 #: add-ons/Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:180
+#, fuzzy
 msgid ""
 "Hmm, they look like some of the village folks to me. But if they're here, it "
 "means my brother failed in our simple mission. Those simple minds killed "
 "him! But we'll avenge you, my brother! Boys, come out and get rid of these "
 "stupid peasants who killed your boss!"
 msgstr ""
+"Hmm, připadají mi jako nějací vesničani. Ale když jsou tady, znamená to, že "
+"můj bratr selhal v naší jednoduché misi. "
 
 #. [message]: speaker = James;
 #: add-ons/Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:184
@@ -1838,6 +1847,7 @@ msgid ""
 "Some coins are lying on the ground. We should take them before the bandits "
 "do so."
 msgstr ""
+"Nějaké mince leží na zemi. Měli bysme je sebrat, než to udělají banditi."
 
 #. [message]: speaker = unit;
 #: add-ons/Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:246
@@ -1856,7 +1866,7 @@ msgstr ""
 #. [message]: speaker = unit;
 #: add-ons/Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:254
 msgid "Very well."
-msgstr ""
+msgstr "Dobře."
 
 #. [message]: speaker = unit;
 #: add-ons/Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:268
@@ -1999,6 +2009,8 @@ msgid ""
 "Yes! The footprints continue here. They aren't so visible but it's clear to "
 "me they head to the north-east."
 msgstr ""
+"Ano! Tady pokračují stopy. Nejsou moc viditelné, ale je mi jasné, že "
+"směřovali na severovýchod."
 
 #. [message]: speaker = James;
 #: add-ons/Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:212
@@ -2006,6 +2018,8 @@ msgid ""
 "Good job, I really could not find them without your help. Very well, let us "
 "go to the north-east."
 msgstr ""
+"Dobrá práce, bez tvé pomoci bych je opravdu nenašel. Dobrá tedy, pojďme na "
+"severovýchod."
 
 #. [message]: speaker = Belinda;
 #: add-ons/Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:220
@@ -2021,7 +2035,7 @@ msgstr ""
 #: add-ons/Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:228
 msgid ""
 "I'm Belinda. I live in this wood for ... well, I have no idea for how long."
-msgstr ""
+msgstr "Jsem Belinda. Žiju v tomhle lese už ... no, nemám ponětí jak dlouho."
 
 #. [message]: speaker = James;
 #: add-ons/Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:232
@@ -2031,7 +2045,7 @@ msgstr ""
 #. [message]: speaker = Belinda;
 #: add-ons/Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:236
 msgid "Hm, it's a very unusual name but I like it."
-msgstr ""
+msgstr "Hm, to je hodně neobvyklé jméno, ale líbí se mi."
 
 #. [message]: speaker = James;
 #: add-ons/Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:240
@@ -2563,12 +2577,12 @@ msgstr ""
 #. [message]: speaker = hunter1;
 #: add-ons/Saga_of_James/volume1/scenarios/04_Resistance.cfg:459
 msgid "Free at last!"
-msgstr ""
+msgstr "Konečně volný!"
 
 #. [message]: speaker = hunter2;
 #: add-ons/Saga_of_James/volume1/scenarios/04_Resistance.cfg:463
 msgid "Great! But who killed the guards?"
-msgstr ""
+msgstr "Skvělé! Ale kdo zabil stráže?"
 
 #. [message]: speaker = hunter1;
 #: add-ons/Saga_of_James/volume1/scenarios/04_Resistance.cfg:471
@@ -2622,7 +2636,7 @@ msgstr ""
 #: add-ons/Saga_of_James/volume1/scenarios/06_Freedom.cfg:223
 msgid ""
 "Come out and help us fight the orcs! It's time to drive them out of here!"
-msgstr ""
+msgstr "Vylez ven a pomož nám bojovat se skřety! Přišel čas vyhnat je odtud!"
 
 #. [message]: speaker = unit;
 #: add-ons/Saga_of_James/volume1/scenarios/06_Freedom.cfg:246
@@ -2642,7 +2656,7 @@ msgstr ""
 #. [message]: (unit) type = Huntress;
 #: add-ons/Saga_of_James/volume1/scenarios/06_Freedom.cfg:261
 msgid "Sure! We're ready to fight."
-msgstr ""
+msgstr "Jasně! Jsme připravení bojovat."
 
 #. [message]: speaker = unit;
 #: add-ons/Saga_of_James/volume1/scenarios/06_Freedom.cfg:309
@@ -2698,7 +2712,7 @@ msgstr "Sbohem, má lásko."
 #. [message]: speaker = James;
 #: add-ons/Saga_of_James/volume1/utils/deaths.cfg:46
 msgid "Belinda, please, do not leave me. Anyone, heal her."
-msgstr ""
+msgstr "Belindo, prosím, neopouštěj mě. Kdokoliv, uzdravte jí."
 
 #. [message]: (unit) type = Abbot,Mage of Light,White Mage;
 #: add-ons/Saga_of_James/volume1/utils/deaths.cfg:51
@@ -2724,6 +2738,8 @@ msgid ""
 "We have failed to protect all our hunters. Our village will surely fall to "
 "our enemies in next battle."
 msgstr ""
+"Nedokázali jsme ochránit všechny naše lovce. Naše vesnice jistě podlehne "
+"nepřátelům v další bitvě."
 
 #. [message]: speaker = unit;
 #: add-ons/Saga_of_James/volume1/utils/deaths.cfg:121
@@ -2764,6 +2780,11 @@ msgid ""
 "stronger and battle-hardened. So this attacks are becoming less and less "
 "frequent."
 msgstr ""
+"Ani Severní země nejsou tak bezpečným místem pro život. Místní hrabství "
+"nejsou příliš silná a skřeti často testují její obranu. A jako by to "
+"nestačilo, lidští psanci často podnikají nájezdy na malé osady. Ve většině "
+"případů několik členů domobrany přijde o život, ale většina z nich se stává "
+"silnějšími a bitvou protřelí. Takže tyto útoky jsou stále méně častější."
 
 #. [story]: [part]
 #: add-ons/Saga_of_James/volume1/utils/story.cfg:14
@@ -2915,9 +2936,8 @@ msgstr "Pokračování příště ..."
 
 #. [message]: speaker = James_The_Invisible;
 #: add-ons/Saga_of_James/volume2/utils/deaths.cfg:25
-#, fuzzy
 msgid "Belinda, please, do not leave me. Cateline, heal her, please."
-msgstr "Belindo, prosím, neopuštěj mě. "
+msgstr "Belindo, prosím, neopouštěj mě. Katalíno, prosím, uzdrav jí."
 
 #. [message]: speaker = Cateline;
 #: add-ons/Saga_of_James/volume2/utils/deaths.cfg:29
@@ -2937,7 +2957,7 @@ msgstr ""
 #. [message]: speaker = James_The_Insivible;
 #: add-ons/Saga_of_James/volume2/utils/deaths.cfg:51
 msgid "Cateline, no! I cannot accomplish it without your help."
-msgstr ""
+msgstr "Katalíno, ne! Nemohu to dokázat bez tvé pomoci."
 
 #. [campaign]: id = SagaII;
 #: add-ons/Saga_of_James/volume2/_main.cfg:5
