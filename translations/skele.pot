@@ -1,0 +1,2440 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Saga_of_James-1.12\n"
+"POT-Creation-Date: 2017-05-26 16:03 UTC\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [scenario]: id=03_Elves_Wood
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:5
+msgid "Elves' Wood"
+msgstr ""
+
+#. [side]: type=Plain_Mage, id=James
+#. [side]: type=Lieutenant, id=Ligwyn
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:20
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:21
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:45
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:21
+msgid "team_name^Villagers"
+msgstr ""
+
+#. [side]: type=Plain_Mage, id=James
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:24
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:47
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:33
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:25
+#: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:24
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:25
+msgid "James"
+msgstr ""
+
+#. [unit]: type=Woodswoman, id=Belinda
+#. [message]: speaker=narrator
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:47
+#: Saga_of_James/test/utils/misc.cfg:6
+msgid "Belinda"
+msgstr ""
+
+#. [side]: type=Elvish Captain, id=elf
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:63
+msgid "team_name^Elves"
+msgstr ""
+
+#. [side]: type=Orcish Warrior, id=orc
+#. [side]: type=Orcish Warlord, id=orc
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:98
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:56
+msgid "team_name^Orcs"
+msgstr ""
+
+#. [objective]: condition=win
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:122
+msgid "Reach norhern edge of the map"
+msgstr ""
+
+#. [objective]: condition=win
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:132
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:167
+msgid "Defeat orcs' leader"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:142
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:138
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:171
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:109
+#: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:72
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:105
+#: Saga_of_James/test/scenarios/01_Prison_Break.cfg:118
+msgid "Death of James"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:152
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:142
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:175
+#: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:76
+msgid "Death of Belinda"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:162
+msgid "Death of elves' leader"
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:190
+msgid "Are you sure that they followed this road?"
+msgstr ""
+
+#. [message]: role=Supporter
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:194
+msgid "Yes, I am. Look at these footprints. They're clearly from humans and about a week old. And also their amount matches the number of hunters we're missing."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:198
+msgid "Very well, I believe you as I am not educated about such things. But do you have an idea where they went next? I cannot see more of the footprints."
+msgstr ""
+
+#. [message]: role=Supporter
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:202
+msgid "They probably know how to walk without leaving too much signs of their journey but we can look a bit farther if we'll see something else."
+msgstr ""
+
+#. [message]: role=Supporter
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:208
+msgid "Yes! The footprints continue here. They aren't so visible but it's clear to me they head to the north-east."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:212
+msgid "Good job, I really could not find them without your help. Very well, let us go to the north-east."
+msgstr ""
+
+#. [message]: speaker=Belinda
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:220
+msgid "No! You can't go there!"
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:224
+msgid "Who are you and why we shall not march there?"
+msgstr ""
+
+#. [message]: speaker=Belinda
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:228
+msgid "I'm Belinda. I live in this wood for ... well, I have no idea for how long."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:232
+msgid "I am pleased to meet you, Belinda. My name is James."
+msgstr ""
+
+#. [message]: speaker=Belinda
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:236
+msgid "Hm, it's a very unusual name but I like it."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:240
+msgid "Thank you. Well but can you tell me what so dangerous lies before us, why we should not continue in our march?"
+msgstr ""
+
+#. [message]: speaker=Belinda
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:244
+msgid "There is nothing dangerous as far as I know. But this wood is a home to some elves and they don't welcome humans or any other race here friendly  at all. They barely tolerate my presence here. Whatever you seek here, you should leave this place ... quickly."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:248
+msgid "Thank you for your warning but we cannot just go back."
+msgstr ""
+
+#. [message]: role=Supporter
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:252
+msgid "Right. Our village's hunting party is gone for too long time. We were sent to find them and bring them back to the village. We would need their help if another bandits decide to attack us."
+msgstr ""
+
+#. [message]: speaker=Belinda
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:256
+msgid "Well, that's indeed a bad situation. But I think I could help you a bit in your search, James. I know this wood pretty wood. Oh and I saw some humans looking like hunters going around here a few days ago. I might be able to find them if you don't mind me accompanying you of course."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:260
+msgid "Not at all. But I think that we shall start our march right now. Not that I do not enjoy talking with you but ..."
+msgstr ""
+
+#. [message]: speaker=Belinda
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:264
+msgid "No problem, I understand. Ok, let's go. Oh and try to avoid the elves."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:293
+msgid "Oh no! I can see these elves."
+msgstr ""
+
+#. [message]: role=ranger
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:307
+msgid "Sir! I can see someone trying to sneak through our wood!"
+msgstr ""
+
+#. [message]: speaker=elf
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:319
+msgid "Intruders! Get out of our wood right now! Your kind already caused lot of damage here."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:323
+msgid "We are really sorry to disturb you, lord but we are not here to cause damage. We are just looking for our village's hunting party. They were out for too much time so we were sent to look for them. They were going trough this place a week ago and continued towards north-east."
+msgstr ""
+
+#. [message]: speaker=elf
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:327
+msgid "You may tell the truth and you did not come to cause harm here but we do not want you to roam our home. So, please, leave us."
+msgstr ""
+
+#. [message]: role=ranger
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:331
+msgid "I sense a group of people coming from the north-west, sir. ... It is a warband of orcs and they are heading directly to us! ... Oh no! They are cutting down trees in their way and making a pile of them. I hope that are not about to do what I have in my mind."
+msgstr ""
+
+#. [message]: speaker=orc
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:357
+msgid "Nice big pile of wood you gathered, grunts. I'm sure it caught the elves' attention. And now ignite it! ... Good! <b>Listen to my words, puny elves: now this forest belongs to my chieftain. Surrender and you may serve him. Oppose and we'll kill you all without mercy!</b>"
+msgstr ""
+
+#. [message]: speaker=elf
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:361
+msgid "There are too much of them to fight but we may not give up. They would not stop then, they would just want more. To arms, everyone! Drive those beasts off our place!"
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:365
+msgid "I agree with him that they shall not surrender but this is ... Many of them will lose their lives for sure even if they somehow manage to defeat their enemies. We must aid them."
+msgstr ""
+
+#. [message]: role=Supporter
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:369
+msgid "Why would we bother? They weren't nice towards us, they even didn't want to let us just pass through their wood."
+msgstr ""
+
+#. [message]: speaker=Belinda
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:373
+msgid "They may let you if you help them ..."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:377
+msgid "You are right but ... I just feel that this is right."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:377
+msgid "Me and my fellow ... villagers shall help you with these orcs if you permit us to do so, elven lord."
+msgstr ""
+
+#. [message]: role=ranger
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:381
+msgid "If I may, sir, I would advise you to accept their help. Yes, they are just a bunch of peasants and they have obviously little to no experience with fighting but they could attract the orcs' attention and our archers can easily sneak to them and slay those wretched creatures. I suppose that many of these humans will lose their lives but this does not have to grieve us. They are just humans after all, only a little better than orcs."
+msgstr ""
+
+#. [message]: speaker=elf
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:385
+msgid "Wise words indeed. I will do just like you say."
+msgstr ""
+
+#. [message]: speaker=elf
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:385
+msgid " Thank you very much for your helping hand. I believe that with your help we can defeat these orcs. Oh, I nearly forgot - look there. Our fathers built a small castle there about three centuries ago during first attacks of the orcs but we no longer need it. But at the other hand, it could serve you as your base until we together defeat these attackers."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:402
+msgid "Thank you very much for your offer. We will leave it after battle. Very well, everyone, let us go there. Uhm, and Belinda, please, try to stay out of the fighting. I would not like to see you get hurt."
+msgstr ""
+
+#. [message]: speaker=Belinda
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:406
+msgid "It's really nice of you, James but I'm not a rookie when it comes to combat. Yes, I only hunt some animals to feed myself but I had to defend myself from ... ehm bad people a few times. I know where and how to strike."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:410
+msgid "You do not cease to amaze me. But in any case, please stay with us others."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:440
+msgid "Curses on you, elves and humans! You may kill <i>me</i> but don't think it's over! There are much more of us and they'll seize your lands one day."
+msgstr ""
+
+#. [message]: speaker=elf
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:448
+msgid "Their leader is dead at last and our wood is safe once again. But we could not make it without help of these humans. Please, accept our warm thanks."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:452
+msgid "It is nothing. We just did what was right."
+msgstr ""
+
+#. [message]: speaker=elf
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:456
+msgid "By the way, if I recall correctly, you said that you are seeking some hunters. Well, some humans looking like hunters went through this wood a week ago. But we do not know what happend to them. We did not see them going back."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:460
+msgid "We already know all of that. Well, some of them made it back to our village but many of them not. They are somewhere to north-east from here."
+msgstr ""
+
+#. [message]: speaker=elf
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:464
+msgid "I am sorry, I did not pay so much attention to your words firstly. Well then, do not hesitate and go to them. Now, as you greatly helped us, we do not mind your presence here ... as long as you cause no harm here."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:468
+msgid "Very well. Let us move on, everyone."
+msgstr ""
+
+#. [message]: speaker=Belinda
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:472
+msgid "You see? I told you."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:476
+msgid "Yes, you did and you were right."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:488
+msgid "Along me, fall also the whole Northlands into hands of the orcs."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:499
+msgid "He was right. With their leader dead, the elves are no longer willing to fight againts the orcs and we cannot handle them at our own. Everything is lost now."
+msgstr ""
+
+#. [scenario]: id=04_Resistance
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:27
+msgid "Resistance"
+msgstr ""
+
+#. [side]: type=Plain_Mage, id=James
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:43
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:29
+#: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:20
+msgid "team_name^Humans"
+msgstr ""
+
+#. [side]
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:70
+msgid "team_name^Occupiers"
+msgstr ""
+
+#. [objective]: condition=win
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:119
+msgid "Defeat all enemies"
+msgstr ""
+
+#. [objective]: condition=win
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:128
+msgid "Rescue the hunters"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:146
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:179
+#: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:80
+msgid "Death of Aleixo"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:150
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:183
+#: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:84
+msgid "Death of any village hunter"
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:174
+msgid "Have you made any progress on locating their steps?"
+msgstr ""
+
+#. [message]: role=Supporter
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:178
+msgid "Unfortunately no. It's very hard as there are too many footprints on the ground. It seems this place is pretty frequently visited but all the footprints aren't from humans. Some of them seem to be from orcish foots."
+msgstr ""
+
+#. [message]: speaker=Belinda
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:182
+msgid "Orcish you say? Well, it's not that surprising. We've seen and fought some orcs not so far from here."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:186
+msgid "That is indeed true but those orcs came from north-west, not east."
+msgstr ""
+
+#. [message]: speaker=Belinda
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:190
+msgid "Oh, yes, I forgot about that. It's not good, I guess ..."
+msgstr ""
+
+#. [message]: role=Supporter
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:194
+msgid "It were probably the orcs who damaged some buildings in this settlement. I wonder what exactly happened here ..."
+msgstr ""
+
+#. [message]: speaker=Belinda
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:205
+msgid "Silence! Someone's moving in the forest. Get ready - just in case."
+msgstr ""
+
+#. [unit]: type=Guerrilla Leader, id=Aleixo
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:224
+msgid "Aleixo"
+msgstr ""
+
+#. [message]: speaker=Aleixo
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:245
+msgid "What are you doing here, strangers? This place isn't the best one for a walk."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:249
+msgid "We are not just rambling around. We are looking for our village hunters who are missing."
+msgstr ""
+
+#. [message]: role=Supporter
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:253
+msgid "We followed their footprints and they took us here but I can't tell where they continue."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:257
+msgid "Can you provide us with any information about their next steps please? They followed this path about a week ago."
+msgstr ""
+
+#. [message]: speaker=Aleixo
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:261
+msgid "Hmm, let me think ... I think some hunters visited this place at that time but the orcs captured them."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:265
+msgid "Do you have an idea where they are drag them?"
+msgstr ""
+
+#. [message]: speaker=Aleixo
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:269
+msgid "To the prison, probably. I suppose you haven't heard of it but the orcs occupied this area some time ago. We had no militia at that time so we were an easy target for them. The orcs behaved really badly to us so we, hunters decide to fight them back. But our numbers are very low, we can't fight them regularly so adopted some alternative methods. We were successful, they're scared of they don't know what but they're not going to leave."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:273
+msgid "It is a very dire situation. We are too very few in numbers but I believe that we have to help you to drive the orcs out of here. Only then we can save our fellows."
+msgstr ""
+
+#. [message]: speaker=Aleixo
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:277
+msgid "Well, thanks for your offer ..."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:281
+msgid "My name is James."
+msgstr ""
+
+#. [message]: speaker=Aleixo
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:285
+msgid "... James but are you sure you'll be of any help in a battle? You seem just like a bunch of peasants, no offense."
+msgstr ""
+
+#. [message]: speaker=Belinda
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:289
+msgid "I thought the same when I've met them but they're doing pretty well in battle under James' command. By the way, I'm Belinda."
+msgstr ""
+
+#. [message]: speaker=Aleixo
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:293
+msgid "Nice to meet you, I'm called Aleixo. Well, maybe we could defeat the orcs with your help but a few days ago they brought some trolls and nagas here, probably to help them fight us. We can't fight them all at once, even with your support. We need to separate the orcs from their allies and fight each group individually, with the orcs as last as they're most numerous."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:297
+msgid "That makes sense. How do you think that we should proceed?"
+msgstr ""
+
+#. [message]: speaker=Aleixo
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:301
+msgid "I guess orcs won't call nagas to aid them if we don't march towards them with our all forces. So we should get rid of trolls and their wolves riders who wander this place at first and go to fight nagas."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:305
+msgid "Once the orcs are alone they will not pose much of a threat, right?"
+msgstr ""
+
+#. [message]: speaker=Aleixo
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:309
+msgid "Actually no. They have many strong warriors but it doesn't matter for now. Now we should deal with their wolves and trolls. Some trolls are near but most of them are near the mountain to the north-east. The riders should be to south from them. On the path to the east we have our headquarters, you should drop by there, some of our men are there, they'll help us. And before I forget, the prison where you hunters are being captive is to north-west from here."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:313
+msgid "All right. Let us start."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:339
+msgid "Hey, the humans are attacking me! Help me, guys!"
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:352
+msgid "So here are located your headquarters?"
+msgstr ""
+
+#. [message]: speaker=Aleixo
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:356
+msgid "Right. The orcs would never think we're having meetings here. It's a ruin but it serves us well. Anyhow, can you see anyone there, James?"
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:360
+msgid "Yes, there are 3 people here."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:379
+msgid "Wait! One of them is wearing dark clothes and has knives!"
+msgstr ""
+
+#. [message]: speaker=Aleixo
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:383
+msgid "Don't worry, James, he's with us. He can poison the toughest orcs and then we other can finish them."
+msgstr ""
+
+#. [message]: speaker=Aleixo
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:402
+msgid "Here is the prison. If I remember correctly, two orcs should guard it. One of them have a key for sure. With it, we can open a lock and free your hunters."
+msgstr ""
+
+#. [message]: speaker=Aleixo
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:431
+msgid "Well done. Now, search his clothes, the key has to be somewhere."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:435
+msgid "On it. ... Yes, here we go. I will try it. ... It fits in."
+msgstr ""
+
+#. [message]: speaker=Aleixo
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:447
+msgid "Look if he has a key with him."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:451
+msgid "Let me check ... no. The other one should have it."
+msgstr ""
+
+#. [message]: speaker=hunter1
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:476
+msgid "Free at last!"
+msgstr ""
+
+#. [message]: speaker=hunter2
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:480
+msgid "Great! But who killed the guards?"
+msgstr ""
+
+#. [message]: speaker=hunter1
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:488
+msgid "I think it's one of the locals."
+msgstr ""
+
+#. [message]: speaker=hunter1
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:494
+msgid "I think it's someone from our village."
+msgstr ""
+
+#. [message]: speaker=hunters_leader
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:500
+msgid "Thank you, anyway."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:504
+msgid "You are welcome."
+msgstr ""
+
+#. [message]: speaker=hunters_leader
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:508
+msgid "Oh, who are you? Hmm, your face looks familiar to me but I cannot recall your name ..."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:512
+msgid "I am James."
+msgstr ""
+
+#. [message]: speaker=hunters_leader
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:516
+msgid "James? ... Yeah, the weird mage! ... Oh, sorry, I was thinking aloud. Anyway, thanks for saving us. Now we can return to the village. Unfortunately, we have no food with us, the orcs have taken it all."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:520
+msgid "That is not a problem. However we cannot just go back yet, this area is still occupied by the orcs. We have to defeat them before we can leave."
+msgstr ""
+
+#. [message]: speaker=hunters_leader
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:524
+msgid "Is that so? Fine, we have some unfinished business actually."
+msgstr ""
+
+#. [message]: speaker=hunter2
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:528
+msgid "That's right! We'll help you with them, they're going to feel our wrath."
+msgstr ""
+
+#. [message]: speaker=Aleixo
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:570
+msgid "Well done, in the final battle the orcs will be weaker without their troll and goblin allies. It was a good decision to let you lead the action, James. You're a quite good tactician. Well, now we should head towards the river on the east. We need to deal with the nagas before we start fighting the orcs directly."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:582
+msgid "Farewell, the world."
+msgstr ""
+
+#. [message]: speaker=Belinda
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:586
+msgid "James, no! I think ... I'll miss you."
+msgstr ""
+
+#. [scenario]: id=06_Freedom
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:13
+msgid "Freedom"
+msgstr ""
+
+#. [message]: speaker=Aleixo
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:200
+msgid "We should also visit every house to let everyone know the final battle has begun. And by the way, the prison where you hunters are being captive is to north-west here. ... <b>Let's fight! For our freedom!</b>"
+msgstr ""
+
+#. [message]: speaker=Aleixo
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:213
+msgid "Come out and help us fight the orcs! It's time to drive them out of here!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:236
+msgid "Anyone here?"
+msgstr ""
+
+#. [message]: type=Huntress
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:243
+msgid "Yes, what's up?"
+msgstr ""
+
+#. [message]: speaker=Aleixo
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:247
+msgid " Are you in?"
+msgstr ""
+
+#. [message]: type=Huntress
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:251
+msgid "Sure! We're ready to fight."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:297
+msgid "Chief, chief! The humans have rebelled!"
+msgstr ""
+
+#. [message]: speaker=orc
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:301
+msgid "That's nothing new. The human worms are pestering us for quite some time yet we can't discover who exactly is doing it. Now return to your post, you coward!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:305
+msgid "You don't understand me, chief. They united with some outsiders, they brought even some mages with them and are marching towards your castle. I think they want to force us to leave this land."
+msgstr ""
+
+#. [message]: speaker=orc
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:315
+msgid "Curse the humans! We can't let this happen! Men, to arms! Show them what fate awaits those who dare to rebel against the orcs!"
+msgstr ""
+
+#. [message]: speaker=orc
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:324
+msgid "Bah, I've been already informed of it! Go back and fight them!"
+msgstr ""
+
+#. [message]: speaker=Aleixo
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:380
+msgid "James! Don't die yet, we need still you."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:384
+msgid "I am ... sorry."
+msgstr ""
+
+#. [scenario]: id=01_A_Raid
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:5
+msgid "A Raid"
+msgstr ""
+
+#. [side]: type=Lieutenant, id=Ligwyn
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:49
+msgid "Ligwyn"
+msgstr ""
+
+#. [side]: type=Bandit, id=Rubryn
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:73
+msgid "team_name^Raiders"
+msgstr ""
+
+#. [side]: type=Bandit, id=Rubryn
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:77
+msgid "Rubryn"
+msgstr ""
+
+#. [objective]: condition=win
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:105
+msgid "Defeat Rubryn"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:113
+msgid "Death of Ligwyn"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:118
+msgid "More than 6 villagers die"
+msgstr ""
+
+#. [message]: speaker=Rubryn
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:134
+msgid "Look at the village, boys. Its inhabitans just woke up and don't expect our attack at all. We'll plunder their little village quickly and deserve our place in the wood."
+msgstr ""
+
+#. [message]: speaker=Rubryn
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:134
+msgid "<b>To arms!</b>"
+msgstr ""
+
+#. [message]: type=Peasant
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:138
+msgid "Another day of working on the fields is before me. I sometimes wish ... Wait, something is going on. ... Oh no! The bandits are attacking us again!"
+msgstr ""
+
+#. [message]: speaker=Ligwyn
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:142
+msgid "And our hunting party haven't returned yet. They're already gone for seven days. I wonder what could happen to them."
+msgstr ""
+
+#. [message]: type=Peasant
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:146
+msgid "It isn't good at all. What shall we do?"
+msgstr ""
+
+#. [message]: speaker=Ligwyn
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:150
+msgid "We can't let them raid our village even though we're weaker without hunters now. We will fight them."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:154
+msgid "I will help to defend our village. They have no chance against my spells."
+msgstr ""
+
+#. [message]: speaker=Ligwyn
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:158
+msgid "Bah! Can you see how many of them are here? They could kill you pretty quickly as you aren't so tough. At the other hand, I really appreciate this gesture. If you want to help there is something else you can do."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:162
+msgid "What do you have in your mind, Captain?"
+msgstr ""
+
+#. [message]: speaker=Ligwyn
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:166
+msgid "As you know, we don't have so many soldiers and now even our hunters are gone. We need every able-bodied man to fight. And this is when you come in. I want you to open the armoury, gather villagers and equip them with some weapons."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:170
+msgid "Well, I do not like it but I know that we can do nothing else. I will do as you say."
+msgstr ""
+
+#. [message]: speaker=Ligwyn
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:174
+msgid "And keep an eye on them. You know we can't lose too many villagers."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:178
+msgid "Yes, I know. I will do my best."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:185
+msgid "In addition to peasants and woodsmen, you can recruit two mages in this scenario. Try to recruit as many of them as you can because you may not later have an opportunity to do it. Silver Mages can advance to level 4 in this campaign. This applies to Mages of Light too but they have a choice between 2 different unit types."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:190
+msgid "The protagonist of this campaign advances into a Silver Mage a then into an unique level 4 unit. He may seem weaker than your other units but at his maximum level he will be able to take quite a lot of advancements which will improve his stats and learn his new abilities and attacks (though some of them will become available in later chapters). The abilities and spells what he can learn are very various and some of them may be useful only under certain circumstances."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:196
+msgid "On this difficulty level, only 6 peasants and woodsmen can die else you lose. To make their survival a bit easier, they get back all their movement after their every performed attack."
+msgstr ""
+
+#. [message]: speaker=Ligwyn
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:247
+msgid "Ha, you're finally back! Wait, where is the rest of the party? ... Well, it doesn't matter for now. Help us to finish this scum."
+msgstr ""
+
+#. [message]: speaker=hunter
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:251
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:375
+msgid "As you say, Captain."
+msgstr ""
+
+#. [message]: speaker=Rubryn
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:276
+msgid "Heh, this seemed to be a pretty simple task and yet ... I'm dying. But I'll be avenged, you stupid village folks! Remember my words!"
+msgstr ""
+
+#. [message]: speaker=Ligwyn
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:284
+msgid "Yes, we made it!"
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:288
+msgid "Yes, we did but I think that we should be concerned about his last words, Captain."
+msgstr ""
+
+#. [message]: speaker=Ligwyn
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:292
+msgid "Don't take him so seriously, James. I believe he just wanted to scare us a bit."
+msgstr ""
+
+#. [message]: speaker=Ligwyn
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:304
+msgid "Anyhow tell me right now where is the rest of the party."
+msgstr ""
+
+#. [message]: speaker=Ligwyn
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:310
+msgid "But where is the hunting party, by the way?"
+msgstr ""
+
+#. [message]: speaker=Ligwyn
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:317
+msgid "Ha, you're finally back! Wait, where is the rest of the party?"
+msgstr ""
+
+#. [message]: speaker=hunter
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:323
+msgid "Well, I don't know where exactly they are. They only said they wanted to bring more food."
+msgstr ""
+
+#. [message]: speaker=Ligwyn
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:327
+msgid "So where did they go?"
+msgstr ""
+
+#. [message]: speaker=hunter
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:331
+msgid "To the north, I suppose. They say there live more animals than in the area where we usually hunt but they never went with us at that place."
+msgstr ""
+
+#. [message]: speaker=hunter
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:335
+msgid "We were waiting for them for about two days. After that we wanted to look for them but the wood was swarming with bandits. We're glad we made it back to the village at least."
+msgstr ""
+
+#. [message]: speaker=Ligwyn
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:339
+msgid "Well, it isn't a news some bandits inhabit the wood. But from what you say it seems to me that their ranks increased from newcomers, many newcomers. And maybe they attacked us. I have never seen these bandits before."
+msgstr ""
+
+#. [message]: speaker=hunter
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:343
+msgid "That might be true. In that case, we should be able to find our comrades without troubles. Do you want us to go to look for them tomorrow, Captain?"
+msgstr ""
+
+#. [message]: speaker=Ligwyn
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:347
+msgid "No. I think it would be too simple task for you. James will do it."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:351
+msgid "Why me, Captain? I am just a ..."
+msgstr ""
+
+#. [message]: speaker=Ligwyn
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:355
+msgid "I were watching you during the fight and you were doing well. It was amazing to watch you throwing missiles at enemies and leading the villagers. The mages taught you really well. I would like to apologize to you for my previous words. I wouldn't do it better, being at your place."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:359
+msgid "There is no need to apologize, really."
+msgstr ""
+
+#. [message]: speaker=Ligwyn
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:363
+msgid "Well and I also think you should spend some time out of this village. I mean, as far as I know, you spend too much time locked in your cottage, with probably studying magic. But you should go out and breathe the fresh air and in near woods the air is quite good. And you help your village once again as well. So, will you help us, please?"
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:367
+msgid "I am always glad to be of help."
+msgstr ""
+
+#. [message]: speaker=Ligwyn
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:371
+msgid "Excellent! But now go to rest for a while. And when the sun rises, take some villagers and start looking for our hunters."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:393
+msgid "I am done ... but you others must keep fighting. The village must hold out!"
+msgstr ""
+
+#. [message]: speaker=Ligwyn
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:397
+msgid "No, James, we can't manage it without you!"
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:409
+msgid "Without the Captain, we all are as good as dead."
+msgstr ""
+
+#. [message]: speaker=Ligwyn
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:418
+msgid "More bandits are coming from the wood. Everything is lost now."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:456
+msgid "Yes and now run!"
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:479
+msgid "Too many villagers lost their lives today. Even if we manage to defeat these bandits, there is no one left to repair damaged buildings and work on the fields. Everything is lost now."
+msgstr ""
+
+#. [scenario]: id=05_Hostile_Waters
+#: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:5
+msgid "Hostile Waters"
+msgstr ""
+
+#. [side]: type=Naga Warden, id=naga
+#: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:47
+msgid "team_name^Nagas"
+msgstr ""
+
+#. [objective]: condition=win
+#: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:68
+msgid "Defeat nagas' leader"
+msgstr ""
+
+#. [scenario]: id=02_In_the_Woods
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:5
+msgid "In the Woods"
+msgstr ""
+
+#. [side]: type=Bandit, id=Ryddry
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:49
+msgid "team_name^Bandits"
+msgstr ""
+
+#. [side]: type=Bandit, id=Ryddry
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:53
+msgid "Ryddry"
+msgstr ""
+
+#. [objective]: condition=win
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:75
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:305
+msgid "Move James to the signpost"
+msgstr ""
+
+#. [objective]: condition=win
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:85
+msgid "Defeat Ryddry"
+msgstr ""
+
+#. [objective]: condition=win
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:95
+msgid "and move James to the signpost"
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:127
+msgid "We just entered the wood and I already have a strange feeling."
+msgstr ""
+
+#. [message]: role=Supporter
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:131
+msgid "Yes, I was a bit worried too when I came here for the first time but it quickly faded away. Believe me, there is nothing you must be scared of. Animals aren't agressive and the bandits, well, we can avoid them pretty easy."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:135
+msgid "No, I did not mean this at all. I feel ... that I am destined to be in this wood right now. Something will happen here what will change my whole life. I just do not know what is it and how it will change the things. Anyway, I am going to go to face it."
+msgstr ""
+
+#. [message]: role=Supporter
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:139
+msgid "Very well then. Just keep in mind we should head to the north. Our hunters shall be somewhere there."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:143
+msgid "Yes, I remember that. Let us continue in our march."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:148
+msgid "In this scenario you can recruit only one new Mage. In the following scenarios it will be impossible (as you are getting too far from your village and will not have time to train them)."
+msgstr ""
+
+#. [message]: role=Supporter
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:161
+msgid "If I remember correctly there should lie some ruined castle here. Hold on! It seems someone is occupying it."
+msgstr ""
+
+#. [message]: speaker=Ryddry
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:172
+msgid "Ha! Who goes there? Are you friend or foe?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:176
+msgid "Err ..."
+msgstr ""
+
+#. [message]: speaker=Ryddry
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:180
+msgid "Hmm, they look like some of the village folks to me. But if they're here, it means my brother failed in our simple mission. Those simple minds killed him! But we'll avenge you, my brother! Boys, come out and get rid of these stupid peasants who killed your boss!"
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:184
+msgid "Eh, this is not good at all. I did not really expect that some bandits could attack us and we are not properly armed. But we cannot just leave them behind as they would attack our village again. Well, but what shall we do?"
+msgstr ""
+
+#. [message]: role=Supporter
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:188
+msgid "Ehm, James, look a bit further to the north. There lies a small castle there. Well, it's ruined but maybe we should move there. We can use it a temporary base. We can shoot the bandits from its towers with our bows. When they come too close to the castle, peasants will fight them with their pitchforks while we'll support them with bows and missiles."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:192
+msgid "I think that it might work. Very well, hurry up, everyone and move there."
+msgstr ""
+
+#. [message]: speaker=Ryddry
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:196
+msgid "Running away, hehe? Okay boys, get ready to hunt them."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:240
+msgid "Some coins are lying on the ground. We should take them before the bandits do so."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:246
+msgid "What is it on the ground? Gold! ... 1, 2, 3 pieces ... I can't count it, there is too much of them here. Shall we pick them up?"
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:250
+msgid "We do not need them so badly but it would be better if we take them rather than those bandits."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:254
+msgid "Very well."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:268
+msgid "No! This can't happen to ... I'm sorry, brother. They're just a bunch of peasants but that guy in a mage's robe ... there is something behind him ..."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:279
+msgid "I do not have the slightest idea what he is talking about, I am not exceptional at all."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:289
+msgid "Anyhow this group of bandits will not cause troubles anymore. We can continue our march to the north."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:300
+msgid "Anyhow we should hurry and leave this place."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:332
+msgid "I think that we should not proceed further yet. There is something here what troubles my mind but I am not sure what it is. We should explore this area carefully before we continue in our search."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:359
+msgid "Well, these bandits no longer pose a threat so we can advance. I hope that we will not have to fight again. We have had a good luck now and this will not have to be repeated. Well, follow me, everyone."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:370
+msgid "I do not think that we should continue in our search before we are done with these bandits. They could attack our village."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:394
+msgid "I got him!"
+msgstr ""
+
+#. [message]: speaker=Ryddry
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:398
+msgid "Awesome! Now no one can prevent us from razing their village and avenging my brother!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:402
+msgid "No! I have let everyone down."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Saga_of_James/volume1/utils/deaths.cfg:11
+msgid "No! I'm not ready ..."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/utils/deaths.cfg:22
+msgid "Without her, we are lost in this wood. And I think that ... I will miss such a person like her."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Saga_of_James/volume1/utils/deaths.cfg:36
+#: Saga_of_James/volume2/utils/deaths.cfg:21
+msgid "Farewell, my love."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/utils/deaths.cfg:46
+msgid "Belinda, please, do not leave me. Anyone, heal her."
+msgstr ""
+
+#. [message]: type=Abbot,Mage of Light,White Mage
+#: Saga_of_James/volume1/utils/deaths.cfg:51
+msgid "I am sorry, James but I cannot help her. Her wounds are too heavy."
+msgstr ""
+
+#. [message]: speaker=James
+#. [message]: speaker=James_The_Invisible
+#: Saga_of_James/volume1/utils/deaths.cfg:55
+#: Saga_of_James/volume2/utils/deaths.cfg:33
+msgid "No! I cannot continue without you."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/utils/deaths.cfg:61
+msgid "Belinda! No! I cannot continue without you."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/utils/deaths.cfg:107
+msgid "We have failed to protect all our hunters. Our village will surely fall to our enemies in next battle."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Saga_of_James/volume1/utils/deaths.cfg:121
+msgid "With me die also our dreams about our freedom."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Saga_of_James/volume1/utils/deaths.cfg:135
+msgid "I shouldn't have joined this expedition."
+msgstr ""
+
+#. [part]
+#: Saga_of_James/volume1/utils/story.cfg:6
+msgid "The year is 362. Haldric IV., king of Wesnoth has died a few years ago and left no heir and various noblemen started to fight each other to claim the throne for themselves. Yet no one of them managed to secure it for good so the kingdom is burned with the civil war. The orcs feel an opportunity to their rise and domination all over the Great Continent. They are attacking the kingdom of Wesnoth relentlessly and numerously. Their attacks are always repelled but with huge losses on both sides."
+msgstr ""
+
+#. [part]
+#: Saga_of_James/volume1/utils/story.cfg:10
+msgid "The Northlands are not either so safe to live in. Local earldoms are not very strong and the orcs frequently test their defenses. As if that was not enough, human outlaws often make raids on small settlements. In most cases, a few militiamen lose their lives, though the rest of them are growing stronger and battle-hardened. So this attacks are becoming less and less frequent."
+msgstr ""
+
+#. [part]
+#: Saga_of_James/volume1/utils/story.cfg:14
+msgid "In one such village about three decades years ago, a boy named James was born. He was not exceptional in any way, just an average child. Well, he was quiet and not very gregarious. He spent a lot of time closed in his room, thinking about mysteries and reading books instead of playing outside with children of the same age. His parents, smaller traders, were a bit concern about it at first but later they decided to send their youngest descendant study magic at the Great Academy on the Isle of Alduin."
+msgstr ""
+
+#. [part]
+#: Saga_of_James/volume1/utils/story.cfg:18
+msgid "He did not belong to the best students at the island, his grades were just passing. Though he studied hard and at the end successfully graduated. After that he decided not to serve as an advisor of an earl but to return to his village and help its inhabitants with his newly gained knowledge and skills. Slowly, he was becoming a bit respected but was still lacking any real friend. The village was rather peaceful."
+msgstr ""
+
+#. [part]
+#: Saga_of_James/volume1/utils/story.cfg:22
+msgid "But one day, when their hunting party was gone, a bigger group of bandits decided to plunder the village."
+msgstr ""
+
+#. [part]
+#: Saga_of_James/volume1/utils/story.cfg:31
+msgid "The following night was rather peaceful for James. Unlike usually, he have not read a book before going to his bed. He was thinking what could happen to their hunting party. Images of some horrible scenes was coming to the mage's mind. But after half an hour he came to conclusion that they are just fine. That they just do not know that way back is safe now. He quickly fell asleep after that."
+msgstr ""
+
+#. [part]
+#: Saga_of_James/volume1/utils/story.cfg:34
+msgid "Next day, James woke up an hour before the sun rose. He quickly dressed up his mage's robe and had a breakfast. After that he decided to go to see his elder brother. He have not seen him since he went to the Isle of Alduin. After he returned to his home village, his parents told him that their eldest descendant proved himself to be a great help to their militia and after a few years he was recruited to the Earl's army. He was very busy but now he was set free of duty and he decided to visit his family. He praised James' behavior during the battle and wished him good luck in his task."
+msgstr ""
+
+#. [part]
+#: Saga_of_James/volume1/utils/story.cfg:37
+msgid "When the sun rose, James met the villagers by whose side he fought the bandits, to go with them to the woods to search for their hunting party."
+msgstr ""
+
+#. [part]
+#: Saga_of_James/volume1/utils/story.cfg:46
+msgid "The next day of their journey went without any conflict. The few bandits who saw the party going through the wood tried to avoid them because they heard about the recent battle."
+msgstr ""
+
+#. [part]
+#: Saga_of_James/volume1/utils/story.cfg:50
+msgid "The party found a few signs confirming that their village's hunting party was going through this area but they themselves were nowhere to see. But at the other hand, a woman, who seemed to live in the wilderness for a longer period of time, crossed their way."
+msgstr ""
+
+#. [part]
+#: Saga_of_James/volume1/utils/story.cfg:59
+msgid "After defeating the orcs, the party traveled to north-east to continue in their search. For some time, footprints of the village hunters were very clear but later, they just vanished. It was near some smaller human settlement."
+msgstr ""
+
+#. [part]
+#: Saga_of_James/volume1/utils/story.cfg:63
+msgid "It looked quite similar to their home village but some of the buildings bore signs of being damaged recently and its inhabitants were nowhere to see. It was an evening when they saw it but even for that time of day it was a bit unusual. The party decided to ignore it and rather look to the ground to find out where next steps of their hunters led."
+msgstr ""
+
+#. [campaign]: id=SagaI
+#. [campaign]: id=SagaII
+#. [campaign]: id=SagaII, type=hybrid
+#: Saga_of_James/volume1/_main.cfg:5
+#: Saga_of_James/volume2/_main.cfg:5
+#: Saga_of_James/volume4/_main.cfg:5
+#: Saga_of_James/test/_main.cfg:5
+#: Saga_of_James/volume3/_main.cfg:5
+msgid "Saga of James of Penrhyn"
+msgstr ""
+
+#. [campaign]: id=SagaI
+#: Saga_of_James/volume1/_main.cfg:6
+msgid "  Volume I:"
+msgstr ""
+
+#. [campaign]: id=SagaI
+#: Saga_of_James/volume1/_main.cfg:7
+msgid " Old and New Force"
+msgstr ""
+
+#. [campaign]: id=SagaI
+#. [campaign]: id=SagaII
+#. [campaign]: id=SagaII, type=hybrid
+#: Saga_of_James/volume1/_main.cfg:8
+#: Saga_of_James/volume2/_main.cfg:8
+#: Saga_of_James/volume4/_main.cfg:8
+#: Saga_of_James/test/_main.cfg:7
+#: Saga_of_James/volume3/_main.cfg:8
+msgid "SoJ"
+msgstr ""
+
+#. [campaign]: id=SagaI
+#: Saga_of_James/volume1/_main.cfg:13
+msgid "Wizard's apprentice"
+msgstr ""
+
+#. [campaign]: id=SagaI
+#. [campaign]: id=SagaII
+#. [campaign]: id=SagaII, type=hybrid
+#: Saga_of_James/volume1/_main.cfg:13
+#: Saga_of_James/volume2/_main.cfg:13
+#: Saga_of_James/volume4/_main.cfg:13
+#: Saga_of_James/test/_main.cfg:12
+#: Saga_of_James/volume3/_main.cfg:13
+msgid "(Easy)"
+msgstr ""
+
+#. [campaign]: id=SagaI
+#: Saga_of_James/volume1/_main.cfg:13
+msgid "Wizard"
+msgstr ""
+
+#. [campaign]: id=SagaI
+#. [campaign]: id=SagaII
+#. [campaign]: id=SagaII, type=hybrid
+#: Saga_of_James/volume1/_main.cfg:13
+#: Saga_of_James/volume2/_main.cfg:13
+#: Saga_of_James/volume4/_main.cfg:13
+#: Saga_of_James/test/_main.cfg:12
+#: Saga_of_James/volume3/_main.cfg:13
+msgid "(Normal)"
+msgstr ""
+
+#. [campaign]: id=SagaI
+#. [campaign]: id=SagaII, type=hybrid
+#. [unit_type]: id=Mystic, race=human
+#: Saga_of_James/volume1/_main.cfg:13
+#: Saga_of_James/volume4/_main.cfg:13
+#: Saga_of_James/units/heroes/Mystic.cfg:87
+msgid "Mystic"
+msgstr ""
+
+#. [campaign]: id=SagaI
+#. [campaign]: id=SagaII
+#. [campaign]: id=SagaII, type=hybrid
+#: Saga_of_James/volume1/_main.cfg:13
+#: Saga_of_James/volume2/_main.cfg:13
+#: Saga_of_James/volume4/_main.cfg:13
+#: Saga_of_James/test/_main.cfg:12
+#: Saga_of_James/volume3/_main.cfg:13
+msgid "(Hard)"
+msgstr ""
+
+#. [campaign]: id=SagaI
+#: Saga_of_James/volume1/_main.cfg:21
+msgid ""
+"Let me tell you the tale of the greatest sage of the Northlands, James of Penrhyn. It began in his home village which lied near the frontiers of the earldom and was often threatened by bandits. But much stronger and darker enemies were about to leave the shadows and start performing their schemes. Also powers of past times should be awaken from their slumber ... James may just completed his studies of magic arts but he was the only one who could save his fellow villagers from all these dangers ... Watch his great battles and his path to power and wisdom.\n"
+"  \n"
+"6 scenarios are present at the moment out of (?) 18 planned"
+msgstr ""
+
+#. [campaign]: id=SagaI
+#. [campaign]: id=SagaII
+#. [campaign]: id=SagaII, type=hybrid
+#: Saga_of_James/volume1/_main.cfg:27
+#: Saga_of_James/volume2/_main.cfg:25
+#: Saga_of_James/volume4/_main.cfg:29
+#: Saga_of_James/volume3/_main.cfg:25
+msgid "To be continued ..."
+msgstr ""
+
+#. [about]
+#: Saga_of_James/volume1/_main.cfg:29
+#: Saga_of_James/volume2/_main.cfg:27
+#: Saga_of_James/volume4/_main.cfg:31
+#: Saga_of_James/test/_main.cfg:20
+#: Saga_of_James/volume3/_main.cfg:27
+msgid "Campaign Design"
+msgstr ""
+
+#. [message]: speaker=James_The_Invisible
+#: Saga_of_James/volume2/utils/deaths.cfg:25
+msgid "Belinda, please, do not leave me. Cateline, heal her, please."
+msgstr ""
+
+#. [message]: speaker=Cateline
+#: Saga_of_James/volume2/utils/deaths.cfg:29
+msgid "I am really sorry, James but I cannot help her. Her wounds are too heavy."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Saga_of_James/volume2/utils/deaths.cfg:47
+msgid "I am going to join the Lords of Light now, James. You must continue in your mission without me."
+msgstr ""
+
+#. [message]: speaker=James_The_Insivible
+#: Saga_of_James/volume2/utils/deaths.cfg:51
+msgid "Cateline, no! I cannot accomplish it without your help."
+msgstr ""
+
+#. [campaign]: id=SagaII
+#: Saga_of_James/volume2/_main.cfg:6
+msgid "  Volume II:"
+msgstr ""
+
+#. [campaign]: id=SagaII
+#: Saga_of_James/volume2/_main.cfg:7
+msgid " Troubles in undeground channels"
+msgstr ""
+
+#. [campaign]: id=SagaII
+#: Saga_of_James/volume2/_main.cfg:13
+#: Saga_of_James/test/_main.cfg:12
+#: Saga_of_James/volume3/_main.cfg:13
+msgid "Tourist"
+msgstr ""
+
+#. [campaign]: id=SagaII
+#: Saga_of_James/volume2/_main.cfg:13
+#: Saga_of_James/test/_main.cfg:12
+#: Saga_of_James/volume3/_main.cfg:13
+msgid "Traveller"
+msgstr ""
+
+#. [campaign]: id=SagaII
+#: Saga_of_James/volume2/_main.cfg:13
+#: Saga_of_James/test/_main.cfg:12
+#: Saga_of_James/volume3/_main.cfg:13
+msgid "Adventurer"
+msgstr ""
+
+#. [campaign]: id=SagaII
+#. [campaign]: id=SagaII, type=hybrid
+#: Saga_of_James/volume2/_main.cfg:21
+#: Saga_of_James/volume4/_main.cfg:20
+#: Saga_of_James/test/_main.cfg:16
+msgid "."
+msgstr ""
+
+#. [campaign]: id=SagaII, type=hybrid
+#: Saga_of_James/volume4/_main.cfg:6
+msgid "  Volume IV:"
+msgstr ""
+
+#. [campaign]: id=SagaII, type=hybrid
+#: Saga_of_James/volume4/_main.cfg:7
+msgid " The Elven Princess"
+msgstr ""
+
+#. [campaign]: id=SagaII, type=hybrid
+#: Saga_of_James/volume4/_main.cfg:13
+msgid "Acolyte"
+msgstr ""
+
+#. [campaign]: id=SagaII, type=hybrid
+#: Saga_of_James/volume4/_main.cfg:13
+msgid "Ascetic"
+msgstr ""
+
+#. [unit_type]: id=Guerrilla Fighter
+#: Saga_of_James/units/human-outlaws/guerrilla.cfg:5
+msgid "Guerrilla Fighter"
+msgstr ""
+
+#. [unit_type]: id=Guerrilla Fighter
+#: Saga_of_James/units/human-outlaws/guerrilla.cfg:18
+msgid "When the orcs came into humans' lands, not all people gave up. Some ones, originally mainly hunters, decided to fight orcs back but with using the element of surprise. They usually strike from hills or woods and then they disappear. They are good in it but when they are forced to fight in open space, they rather fail as they are not as hardy as the orcs are. Nevertheless their actions prevents the orcs from conquering more land."
+msgstr ""
+
+#. [unit_type]: id=Guerrilla Warrior
+#: Saga_of_James/units/human-outlaws/guerrilla.cfg:43
+msgid "Guerrilla Warrior"
+msgstr ""
+
+#. [unit_type]: id=Guerrilla Warrior
+#: Saga_of_James/units/human-outlaws/guerrilla.cfg:50
+msgid "All around the world, a sword is an expensive luxury what most of the people cannot afford and this is not different in wilderness of the Northlands. Because of this fact, only the strongest partisans who gained enough experiences are given this weapon."
+msgstr ""
+
+#. [attack]: type=impact
+#: Saga_of_James/units/human-outlaws/guerrilla.cfg:74
+msgid "bolas"
+msgstr ""
+
+#. [unit_type]: id=Guerrilla Assassin
+#: Saga_of_James/units/human-outlaws/guerrilla.cfg:88
+msgid "Slayer"
+msgstr ""
+
+#. [unit_type]: id=Guerrilla Assassin
+#: Saga_of_James/units/human-outlaws/guerrilla.cfg:101
+msgid "Some partisans found themselves liking fighting under mask of night and striking their enemies from behind. They replaced their bows with knives impregnated with poison. Their task is to poison strong orcs and run away."
+msgstr ""
+
+#. [unit_type]: id=Guerrilla Leader
+#: Saga_of_James/units/human-outlaws/guerrilla.cfg:131
+msgid "Guerrilla Leader"
+msgstr ""
+
+#. [unit_type]: id=Guerrilla Leader
+#: Saga_of_James/units/human-outlaws/guerrilla.cfg:149
+msgid "Leaders of partisans do not raise from the strongest ones, rather from the wisest ones with natural ability to lead. And this is their task - they plan raids on the orcs and coordinate the actions. If a commander falls, the war is lost."
+msgstr ""
+
+#. [unit_type]: id=Guerrilla Leader
+#: Saga_of_James/units/human-outlaws/guerrilla.cfg:149
+msgid " The leadership of this unit enables adjacent units of the same side to deal more damage in combat, though this only applies to fellow partisans."
+msgstr ""
+
+#. [unit_type]: id=Troll Mystic, race=troll
+#: Saga_of_James/units/trolls/Mystic.cfg:5
+msgid "Troll Mystic"
+msgstr ""
+
+#. [unit_type]: id=Troll Mystic, race=troll
+#: Saga_of_James/units/trolls/Mystic.cfg:26
+msgid "Troll Mystics are trolls, who are gifted with the ability to use magic. Though weak than other trolls, their considerable skill with their fire magic is not to be underestimated."
+msgstr ""
+
+#. [attack]: type=impact
+#: Saga_of_James/units/trolls/Mystic.cfg:33
+msgid "fist"
+msgstr ""
+
+#. [attack]: type=fire
+#: Saga_of_James/units/trolls/Mystic.cfg:43
+msgid "flame blast"
+msgstr ""
+
+#. [attack]: type=impact
+#: Saga_of_James/units/monsters/Dragon_Lord.cfg:26
+msgid "snap"
+msgstr ""
+
+#. [unit_type]: id=Demon Warrior, race=demon
+#: Saga_of_James/units/demons/Fighter_Warrior.cfg:5
+msgid "Demon Warrior"
+msgstr ""
+
+#. [unit_type]: id=Demon Warrior, race=demon
+#: Saga_of_James/units/demons/Fighter_Warrior.cfg:28
+msgid "The few natives of Irdya who have dared underestimate the might of these demonic warriors have invariably suffered horrific deaths at the hands of these blood-thirsty behemoths. The power of the armies of Chaos largely depends on the Lorekeepers’ wisdom in selecting the best fighters to serve them with their undying loyalty to Uria’s cause. But in time, a legendary warrior might rise from the ranks of servility and dethrone a mighty Demon Lord—even their own—and become him or herself a great vassal of Uria."
+msgstr ""
+
+#. [female]
+#: Saga_of_James/units/demons/Fighter_Warrior.cfg:128
+msgid "female^Demoness Warrior"
+msgstr ""
+
+#. [unit_type]: id=Demon Grunt, race=demon
+#: Saga_of_James/units/demons/Fighter_Grunt.cfg:5
+msgid "Demon Grunt"
+msgstr ""
+
+#. [unit_type]: id=Demon Grunt, race=demon
+#: Saga_of_James/units/demons/Fighter_Grunt.cfg:26
+msgid "The best demon fighters are renowned for their unrivaled strength and performance under any environmental conditions. They obtain and craft new weapons and armor using whatever they can salvage from defeated foes, and learn new combat skills as they adapt to the land to which they are sent by their overlords."
+msgstr ""
+
+#. [female]
+#: Saga_of_James/units/demons/Fighter_Grunt.cfg:122
+msgid "female^Demoness Grunt"
+msgstr ""
+
+#. [unit_type]: id=Demon Zephyr, race=demon
+#: Saga_of_James/units/demons/Fighter_Zephyr.cfg:5
+msgid "Demon Zephyr"
+msgstr ""
+
+#. [unit_type]: id=Demon Zephyr, race=demon
+#: Saga_of_James/units/demons/Fighter_Zephyr.cfg:24
+msgid "Some demons go through a different maturing process and grow large webbed wings, which allow them to use their enormous strength to fly across great distances. As weapons and armor could only hinder them in flight, they must rely on their species’ strong build, long and sharp claws, and their limited control of fire to strike at their prey from above."
+msgstr ""
+
+#. [female]
+#: Saga_of_James/units/demons/Fighter_Zephyr.cfg:109
+msgid "female^Demoness Zephyr"
+msgstr ""
+
+#. [unit_type]: id=Demon, race=demon
+#: Saga_of_James/units/demons/Fighter_Demon.cfg:5
+msgid "Demon"
+msgstr ""
+
+#. [unit_type]: id=Demon, race=demon
+#: Saga_of_James/units/demons/Fighter_Demon.cfg:22
+msgid ""
+"Legend has it that at the beginning of time, powerful creatures called ‘demons’ governed all that existed. The Lords of Light and Darkness, seeing the danger they posed for the balance of nature, banished them to a separate plane of existence, trapped with no means of escape from inside. It would take eons before the combined effort of foolish sorcerers and the most dreadful Demon Lord to ever exist would allow Uria unleash her hordes on a ravaged land.\n"
+"\n"
+"These fighter demons are nimble and sturdy creatures who have largely forgone the need for armor or clothing to protect themselves from physical damage. Although their sharp claws and unnatural strength allow them to tear opponents apart with ease, they usually prefer wielding crude blade weapons to appear even more intimidating in combat."
+msgstr ""
+
+#. [female]
+#: Saga_of_James/units/demons/Fighter_Demon.cfg:110
+msgid "female^Demoness"
+msgstr ""
+
+#. [unit_type]: id=Cateline_Celestial_Messenger, race=human
+#: Saga_of_James/units/heroes/Celestial_Messenger.cfg:29
+msgid "female^Celestial Messenger"
+msgstr ""
+
+#. [unit_type]: id=Cateline_Celestial_Messenger, race=human
+#: Saga_of_James/units/heroes/Celestial_Messenger.cfg:58
+msgid ""
+"Elves are known to walk occasionally the path of faerie, that transforms their bodies and gives them power. Humans have a similar heritage, tied to the powers of life of this world, but only a very few of them reach it. This path of ultimate light can be followed only by those who never harmed any living being except if it was for the sake of preserving the life of other living beings.\n"
+"\n"
+"Thanks to the feathered wings on their backs, they can travel much faster through difficult terrains than others."
+msgstr ""
+
+#. [advancement]: id=lightbeam
+#. [advancement]: id=magic
+#: Saga_of_James/units/heroes/Celestial_Messenger.cfg:199
+#: Saga_of_James/units/heroes/Mystic.cfg:397
+msgid "better with magic"
+msgstr ""
+
+#. [advancement]: id=mace
+#: Saga_of_James/units/heroes/Celestial_Messenger.cfg:214
+msgid "better with mace"
+msgstr ""
+
+#. [advancement]: id=health
+#: Saga_of_James/units/heroes/Celestial_Messenger.cfg:229
+#: Saga_of_James/units/heroes/Mage_Elder.cfg:153
+#: Saga_of_James/units/heroes/Elvish_Avatar.cfg:95
+#: Saga_of_James/units/heroes/Mystic.cfg:686
+msgid "more healthy"
+msgstr ""
+
+#. [advancement]: id=shield
+#: Saga_of_James/units/heroes/Celestial_Messenger.cfg:243
+msgid ""
+"female^able to make allies resist damage better\n"
+"(15% to resistances)"
+msgstr ""
+
+#. [advancement]: id=shield2
+#: Saga_of_James/units/heroes/Celestial_Messenger.cfg:260
+msgid ""
+"female^able to make allies resist damage better\n"
+"(20% to resistances)"
+msgstr ""
+
+#. [advancement]: id=healing
+#: Saga_of_James/units/heroes/Celestial_Messenger.cfg:283
+msgid "female^able to heal allies more"
+msgstr ""
+
+#. [advancement]: id=movement
+#: Saga_of_James/units/heroes/Celestial_Messenger.cfg:305
+#: Saga_of_James/units/heroes/Mage_Elder.cfg:167
+#: Saga_of_James/units/heroes/Elvish_Avatar.cfg:109
+#: Saga_of_James/units/heroes/Woodswoman.cfg:551
+#: Saga_of_James/units/heroes/Mystic.cfg:747
+msgid "faster"
+msgstr ""
+
+#. [unit_type]: id=Guiscard Elder Mage
+#: Saga_of_James/units/heroes/Mage_Elder.cfg:41
+msgid "Great Magi spread rumours that only several mages per century are given the title of a great mage, but the truth is quite different. They are speaking about Elder Magi, and misuse the similarity of the rarity of them. Elder Magi are the real masters of magic, the ones who make new spells and truly understand the magic. Even if they are not trained for battle, their powerful magic can destroy most enemies."
+msgstr ""
+
+#. [advancement]: id=fireball
+#: Saga_of_James/units/heroes/Mage_Elder.cfg:108
+msgid "better with fireball"
+msgstr ""
+
+#. [advancement]: id=lightning
+#: Saga_of_James/units/heroes/Mage_Elder.cfg:123
+msgid "better with lightning"
+msgstr ""
+
+#. [advancement]: id=staff
+#: Saga_of_James/units/heroes/Mage_Elder.cfg:138
+#: Saga_of_James/units/heroes/Mystic.cfg:521
+msgid "better with staff"
+msgstr ""
+
+#. [advancement]: id=ethereal storm
+#: Saga_of_James/units/heroes/Elvish_Avatar.cfg:50
+msgid "better with ethereal storm"
+msgstr ""
+
+#. [advancement]: id=gossamer
+#: Saga_of_James/units/heroes/Elvish_Avatar.cfg:65
+msgid "better with gossamer"
+msgstr ""
+
+#. [advancement]: id=faerie touch
+#: Saga_of_James/units/heroes/Elvish_Avatar.cfg:80
+msgid "better at melee combat"
+msgstr ""
+
+#. [unit_type]: id=Woodswoman, race=human
+#: Saga_of_James/units/heroes/Woodswoman.cfg:25
+msgid "Woodswoman"
+msgstr ""
+
+#. [unit_type]: id=Woodswoman, race=human
+#: Saga_of_James/units/heroes/Woodswoman.cfg:40
+msgid "Either too rebellious or too adventurous, some women leave their villages and settle down in nearby woods. But they just cannot stay at one place all the time, so they often wander woods and hunt animals for food with daggers and bows what they made themselves."
+msgstr ""
+
+#. [unit_type]: id=Hunteress, race=human
+#: Saga_of_James/units/heroes/Woodswoman.cfg:150
+msgid "Hunteress"
+msgstr ""
+
+#. [unit_type]: id=Master_Hunteress, race=human
+#: Saga_of_James/units/heroes/Woodswoman.cfg:278
+msgid "Master Hunteress"
+msgstr ""
+
+#. [advancement]: id=bow
+#: Saga_of_James/units/heroes/Woodswoman.cfg:429
+msgid "better with bow"
+msgstr ""
+
+#. [advancement]: id=bow_speed
+#: Saga_of_James/units/heroes/Woodswoman.cfg:444
+msgid "faster with bow"
+msgstr ""
+
+#. [advancement]: id=bow_precision
+#: Saga_of_James/units/heroes/Woodswoman.cfg:459
+msgid "more precise with bow"
+msgstr ""
+
+#. [advancement]: id=sword
+#: Saga_of_James/units/heroes/Woodswoman.cfg:477
+msgid "better with sword"
+msgstr ""
+
+#. [advancement]: id=sword_speed
+#: Saga_of_James/units/heroes/Woodswoman.cfg:492
+msgid "faster with sword"
+msgstr ""
+
+#. [advancement]: id=hardy
+#: Saga_of_James/units/heroes/Woodswoman.cfg:508
+msgid "more hardy"
+msgstr ""
+
+#. [advancement]: id=block
+#: Saga_of_James/units/heroes/Woodswoman.cfg:521
+msgid "better at defending"
+msgstr ""
+
+#. [unit_type]: id=Elemental Wizard, race=human
+#: Saga_of_James/units/heroes/Elementalist.cfg:26
+msgid "Elemental Wizard"
+msgstr ""
+
+#. [unit_type]: id=Elemental Wizard, race=human
+#: Saga_of_James/units/heroes/Elementalist.cfg:40
+msgid "A master of elemental magic. In addition to fire and cold attacks, elemental wizards seeks to bind earth, water, wind and fire magic to themselves and are able to add attributes to themselves after research."
+msgstr ""
+
+#. [attack]: type=fire
+#: Saga_of_James/units/heroes/Elementalist.cfg:59
+#: Saga_of_James/units/heroes/Elementalist.cfg:332
+msgid "infernal fire"
+msgstr ""
+
+#. [heal_on_hit]: id=fire_heal_on_hit
+#: Saga_of_James/units/heroes/Elementalist.cfg:69
+#: Saga_of_James/units/heroes/Elementalist.cfg:342
+msgid "heal on hit"
+msgstr ""
+
+#. [heal_on_hit]: id=fire_heal_on_hit
+#: Saga_of_James/units/heroes/Elementalist.cfg:70
+#: Saga_of_James/units/heroes/Elementalist.cfg:343
+msgid "Whenever this attack hits, the attacker heals himself for 3 hitpoints."
+msgstr ""
+
+#. [attack]: type=cold
+#: Saga_of_James/units/heroes/Elementalist.cfg:79
+#: Saga_of_James/units/heroes/Elementalist.cfg:352
+msgid "arctic tempest"
+msgstr ""
+
+#. [attack]: type=arcane
+#. [effect]: type=arcane
+#: Saga_of_James/units/heroes/Elementalist.cfg:92
+#: Saga_of_James/units/heroes/Elementalist.cfg:365
+#: Saga_of_James/units/heroes/Mystic.cfg:840
+msgid "ethereal storm"
+msgstr ""
+
+#. [advancement]: id=skinofrock
+#: Saga_of_James/units/heroes/Elementalist.cfg:194
+msgid "Skin of the Rock (more resistant to physical damage)"
+msgstr ""
+
+#. [advancement]: id=speedofwind
+#: Saga_of_James/units/heroes/Elementalist.cfg:220
+msgid "Speed of the Wind"
+msgstr ""
+
+#. [advancement]: id=waterhome
+#: Saga_of_James/units/heroes/Elementalist.cfg:234
+msgid "Water Home (better movement and defense in water terrains)"
+msgstr ""
+
+#. [advancement]: id=fireprotection
+#: Saga_of_James/units/heroes/Elementalist.cfg:271
+msgid "Fire Protection (more resistant to fire magic)"
+msgstr ""
+
+#. [dummy]: id=fire_claws
+#: Saga_of_James/units/heroes/Elementalist.cfg:285
+msgid "fire claws"
+msgstr ""
+
+#. [dummy]: id=fire_claws
+#: Saga_of_James/units/heroes/Elementalist.cfg:286
+msgid "Any unit that attacks this unit suffers two points of fire damage."
+msgstr ""
+
+#. [unit_type]: id=Dark Elementalist, race=human
+#: Saga_of_James/units/heroes/Elementalist.cfg:300
+msgid "Dark Elementalist"
+msgstr ""
+
+#. [unit_type]: id=Dark Elementalist, race=human
+#: Saga_of_James/units/heroes/Elementalist.cfg:313
+msgid "This man have mastered elemental magic but decided to use his powers in services of an evil master. He is his most trusted servant and now was asked to get the artifact. He tricked you and made you do his task for him using the knowledge what he passed to you. You must defeat him to make sure that the artifact will not fall to the wrong hands."
+msgstr ""
+
+#. [unit_type]: id=Mystic, race=human
+#. [unit_type]: id=Crusader, race=human
+#. [unit_type]: id=Abbot, race=human
+#: Saga_of_James/units/heroes/Mystic.cfg:106
+#: Saga_of_James/units/human-mages/Crusader.cfg:27
+#: Saga_of_James/units/human-mages/Abbot.cfg:26
+msgid "TODO."
+msgstr ""
+
+#. [unit_type]: id=Mystic, race=human
+#: Saga_of_James/units/heroes/Mystic.cfg:106
+msgid "SPECIAL_NOTE^Mystics are well-attuned to their magical natures and are highly resistant to non-physical damage."
+msgstr ""
+
+#. [advancement]: id=magic_speed
+#: Saga_of_James/units/heroes/Mystic.cfg:415
+msgid "faster with magic"
+msgstr ""
+
+#. [advancement]: id=magic_theory
+#: Saga_of_James/units/heroes/Mystic.cfg:434
+msgid ""
+"more familiar with magical theories\n"
+"(allows learning new spells and\n"
+"some improvements to them)"
+msgstr ""
+
+#. [advancement]: id=magic_theory2
+#: Saga_of_James/units/heroes/Mystic.cfg:446
+msgid "even more familiar with magical theories"
+msgstr ""
+
+#. [advancement]: id=fireball
+#: Saga_of_James/units/heroes/Mystic.cfg:456
+#: Saga_of_James/units/heroes/Mystic.cfg:957
+msgid "able to cast fireball"
+msgstr ""
+
+#. [advancement]: id=fireball_range
+#: Saga_of_James/units/heroes/Mystic.cfg:470
+msgid "using fireballs with explosive range"
+msgstr ""
+
+#. [advancement]: id=chill
+#: Saga_of_James/units/heroes/Mystic.cfg:488
+#: Saga_of_James/units/heroes/Mystic.cfg:905
+msgid "able to cast chill tempest"
+msgstr ""
+
+#. [advancement]: id=chill_slow
+#: Saga_of_James/units/heroes/Mystic.cfg:502
+msgid "slowing enemies with chill tempest"
+msgstr ""
+
+#. [advancement]: id=staff_precision
+#: Saga_of_James/units/heroes/Mystic.cfg:536
+msgid "more habituated to his staff"
+msgstr ""
+
+#. [advancement]: id=staff_speed
+#: Saga_of_James/units/heroes/Mystic.cfg:554
+msgid "faster with staff"
+msgstr ""
+
+#. [advancement]: id=elven_path1
+#: Saga_of_James/units/heroes/Mystic.cfg:570
+msgid ""
+"friend of the elves\n"
+"(better defense in forests\n"
+"allows learning faerie fire)"
+msgstr ""
+
+#. [advancement]: id=faerie_fire
+#: Saga_of_James/units/heroes/Mystic.cfg:589
+msgid "capable to use faerie fire"
+msgstr ""
+
+#. [advancement]: id=faerie_fire2
+#. [advancement]: id=faerie_fire3
+#: Saga_of_James/units/heroes/Mystic.cfg:612
+#: Saga_of_James/units/heroes/Mystic.cfg:627
+msgid "better with faerie fire"
+msgstr ""
+
+#. [advancement]: id=forests
+#: Saga_of_James/units/heroes/Mystic.cfg:642
+msgid ""
+"more attuned to the woods\n"
+"(better defense and movement in forests)"
+msgstr ""
+
+#. [advancement]: id=dwarven_path1
+#: Saga_of_James/units/heroes/Mystic.cfg:667
+msgid ""
+"friend of the dwarves\n"
+"(better defense in caves\n"
+"unlocks more health related advancements)"
+msgstr ""
+
+#. [advancement]: id=steadfast
+#: Saga_of_James/units/heroes/Mystic.cfg:700
+msgid "able to take more physical damage in defense"
+msgstr ""
+
+#. [advancement]: id=regeneration
+#: Saga_of_James/units/heroes/Mystic.cfg:716
+msgid "able to heal own wounds during a battle"
+msgstr ""
+
+#. [advancement]: id=drakes_path1
+#: Saga_of_James/units/heroes/Mystic.cfg:732
+msgid ""
+"friend of the drakes\n"
+"(unlocks more movement related advancements)"
+msgstr ""
+
+#. [advancement]: id=movement2
+#: Saga_of_James/units/heroes/Mystic.cfg:761
+msgid "faster in mountains and water"
+msgstr ""
+
+#. [advancement]: id=fire_resistance
+#: Saga_of_James/units/heroes/Mystic.cfg:781
+msgid "more resistant to fire"
+msgstr ""
+
+#. [advancement]: id=elementals_repairing
+#: Saga_of_James/units/heroes/Mystic.cfg:798
+msgid "able to heal elementals"
+msgstr ""
+
+#. [advancement]: id=elemental_resistance
+#: Saga_of_James/units/heroes/Mystic.cfg:814
+msgid "more resistant to all kinds of magic"
+msgstr ""
+
+#. [advancement]: id=ethereal_storm
+#: Saga_of_James/units/heroes/Mystic.cfg:833
+msgid "able to cast ethereal storm"
+msgstr ""
+
+#. [variation]
+#: Saga_of_James/units/heroes/Mystic.cfg:866
+msgid "Fireball"
+msgstr ""
+
+#. [variation]
+#: Saga_of_James/units/heroes/Mystic.cfg:918
+msgid "Chill"
+msgstr ""
+
+#. [variation]
+#: Saga_of_James/units/heroes/Mystic.cfg:970
+msgid "Fireball + Chill"
+msgstr ""
+
+#. [unit_type]: id=Gold Mage, race=human
+#: Saga_of_James/units/human-mages/Mage_Gold.cfg:5
+msgid "Gold Mage"
+msgstr ""
+
+#. [unit_type]: id=Gold Mage, race=human
+#: Saga_of_James/units/human-mages/Mage_Gold.cfg:25
+msgid ""
+"Amongst the various Magi orders, the Silver one is certain the most enigmatic, surpassed in its mysteriousity only by the Gold order. Only the best Silver Magi could aspire to become Gold Magi, and being one of them is perhaps an even greater honor than being a Great Mage.\n"
+"Instead of focusing their studies on the brute force of their missiles, they follow a secret path of training, that leads them to learning better protection spells and improving their fighting technique, not forgetting their teleport spells.\n"
+"Seeing one of them on the battlefield is an extremely rare event, that even most Wesnoth Kings  never witnessed. But when one of them appears, usually in times of dire need, their only presence is enough to panic the enemy troops; and, after having enlightened the field with their shining robes and their magic missiles, they vanish into aether, without leaving any trace of their presence, except in the memories and in the tales of the few people that seen them in action.\n"
+"\n"
+"Gold magi are often more physically adept than other magi, and their skills are of undeniable use on the battlefield, if one can manage to induce the mage to apply them."
+msgstr ""
+
+#. [unit_type]: id=Gold Mage, race=human
+#: Saga_of_James/units/human-mages/Mage_Gold.cfg:29
+msgid "SPECIAL_NOTE^ Gold Magi are well-attuned to their magical natures and are highly resistant to non-physical damage."
+msgstr ""
+
+#. [female]
+#: Saga_of_James/units/human-mages/Mage_Gold.cfg:273
+msgid "female^Gold Mage"
+msgstr ""
+
+#. [unit_type]: id=Crusader, race=human
+#: Saga_of_James/units/human-mages/Crusader.cfg:5
+msgid "Crusader"
+msgstr ""
+
+#. [unit_type]: id=Crusader, race=human
+#: Saga_of_James/units/human-mages/Crusader.cfg:27
+msgid " The leadership of this unit enables adjacent lafwul units of the same side to deal more damage in combat."
+msgstr ""
+
+#. [attack]: type=fire
+#: Saga_of_James/units/human-mages/Crusader.cfg:62
+msgid "sacred fire"
+msgstr ""
+
+#. [female]
+#: Saga_of_James/units/human-mages/Crusader.cfg:218
+msgid "female^Crusader"
+msgstr ""
+
+#. [unit_type]: id=Abbot, race=human
+#: Saga_of_James/units/human-mages/Abbot.cfg:5
+msgid "Abbot"
+msgstr ""
+
+#. [unit_type]: id=Abbot, race=human
+#: Saga_of_James/units/human-mages/Abbot.cfg:26
+msgid " Adjacent units of the same allegiance have their resistances increased by the sole presence of this unit."
+msgstr ""
+
+#. [female]
+#: Saga_of_James/units/human-mages/Abbot.cfg:105
+msgid "Abbess"
+msgstr ""
+
+#. [unit_type]: id=Vampire Lady, race=undead
+#: Saga_of_James/units/undead/Vampire_Lady.cfg:4
+msgid "female^Vampire Lady"
+msgstr ""
+
+#. [unit_type]: id=Vampire Lady, race=undead
+#: Saga_of_James/units/undead/Vampire_Lady.cfg:20
+msgid "Cold and beautiful, she maintains her eternal youthful appearance drinking the blood of the living."
+msgstr ""
+
+#. [attack]: type=blade
+#: Saga_of_James/units/undead/Vampire_Lady.cfg:24
+msgid "blood kiss"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Saga_of_James/units/undead/Vampire_Lady.cfg:36
+msgid "curse"
+msgstr ""
+
+#: Saga_of_James/units/demons.cfg:26
+msgid "Abalam,Abbadon,Abigor,Adanor,Aderius,Adramalech,Agaliarept,Agares,Aim,Akvan,Alastar,Aldebaran,Alocer,Amducious,Amdusias,Amon,Ananiel,Andhaka,Andras,Andrealphus,Andromalius,Antares,Apep,Arael,Araqiel,Arioch,Arkanthor,Armaros,Asael,Asag,Asb'el,Ash,Asmodeus,Astaroth,Azazel,Baal,Baalberith,Balam,Balberith,Babeal,Baphomet,Baraqel,Barbas,Barbatos,Batariel,Bathin,Beball,Beelzebub,Behamoth,Behemoth,Beleth,Belial,Beliel,Belphegore,Belthazor,Belzebuth,Beowulf,Berith,Beur,Bezaliel,Bifrons,Botis,Buer,Bune,Caim,Calan,Camal,Carniveau,Caror,Castor,Cerberus,Chamos,Chazaqiel,Chul,Corson,Daalberith,Dagon,Daniel,Dantalion,Decarabia,Deimos,Delchor,Demogorgon,Devan,Dubhor,Dumah,Dun,Edan,Edoru,El,Elan,Eligos,Espro,Espreon,Eurynomous,Fomalhaut,Flauros,Flereous,Focalor,Foras,Forcas,Forneus,Furcas,Furfur,Gaap,Gader'el,Glasya-Labolas,Gusion,Gwiti,Haagenti,Hal,Hade,Hades,Humbaba,Hyperion,Iblis,Idoru,Ivan,Ixthal,Izilen,Ipos,Jetral,Jetrel,Jevan,Jevyan,Jutas,Juvart,Kabhanda,Kain,Kairus,Kakko,Kari,Kariel,Karo,Kasadya,Kasdaye,Kimaris,Kobal,Kokabiel,Kri,Krin,Kuno,Kuro,Landar,Lasaroth,Legion,Lempo,Lenthar,Lenvan,Leonard,Leraje,Lix Tetrax,Lor,Lorath,Loriel,Lorez,Lucifer,Lucifuge Rofocale,Maeglhir,Maeglhor,Magnus,Malal,Malphas,Malthus,Mammon,Marchocias,Maricha,Mastema,Melchom,Melchor,Mephisto,Mephistopholes,Mesphito,Merihim,Merloc,Moloch,Morax,Murdoc,Mulciber,Murmur,Naberius,Nale,Name,Nate,Nati,Nebiros,Neqa'el,Nergal,Nisroch,Noy,Noyga,Noyra,Noyze,Oeillet,Olivier,Optimus,Orcus,Orias,Ornias,Orobas,Ose,Oulotep,Pan,Paimon,Pazuzu,Penemue,Phlegathon,Phenex,Phobos,Pinem'e,Pithius,Piru,Pluto,Procell,Pruflas,Purson,Pytho,Python,Pythos,Rahab,Rahovart,Ramiel,Raum,Ravanal,Raven,Razakel,Regent,Regulus,Rimmon,Rhotomago,Ronove,Ronwe,Rosier,Sabnock,Sahaqel,Saleos,Samael,Samigina,Samyaza,Santa,Sariel,Satan,Satanachia,Satariel,Seir,Sephiroth,Sephit,Shaitan,Shamsiel,Shax,Shezmu,Sid,Sidragasum,Sin,Sith,Sitri,Sonnillon,Sorum,Soufflet,Spar,Stolas,Surgat,Tabaet,Taliz,Tamiel,Tan,Tannin,Tar,Taurus,Teeraal,Temeluchus,Thammuz,Theracar,Thor,Thorin,Thurin,Triel,Troy,Turiel,Turin,Turon,Umbriel,Urobach,Val,Valac,Valefar,Vapula,Vassago,Verrine,Vine,Vual,Xan,Xandros,Xaphan,Xen,Yael,Yanqui,Yeqon,Yeter'el,Yhangor,Yomiel,Yuki,Zagan,Zama,Zaqiel,Zepar,Zet,Zeth,Zhan,Zhangor,Zhunol,Zort,Zorg,Zudo,Zuno"
+msgstr ""
+
+#: Saga_of_James/units/demons.cfg:27
+msgid "Aba,Ada,Aderi,Agiel,Agrat-bat-mahlaht,Alie,Aly,Alya,Ammit,Amy,Ania,Analia,Anadea,Anadya,Anna,Ariel,Ashtaroth,Astarte,Astoreth,Azura,Bellatrix,Beryla,Bruxe,Charis,Charybdis,Charon,Charusse,Chi,Chia,Dana,Dane,Dara,Darma,Dela,Delepitore,Delirya,Deluna,Demona,Deth,Devila,Devira,Devyan,Drama,Dul,Duna,Eisheth Zenunil,Elandra,Elenia,Elestria,Eloh,Elyna,Elynea,Elynia,Elyra,Elyria,Elyssa,Elyza,Empusa,Enea,Eryssa,Ethea,Euryale,Evila,Evira,Fae,Faira,Fania,Faria,Gaia,Gremory,Gresil,Hecate,Ira,Irda,Irdya,Irene,Iridya,Iril,Iruel,Isa,Issyl,Ivana,Ivyel,Izara,Jarla,Jevyan,Juno,Kaia,Kalah,Kalari,Kaleh,Kali,Kana,Karma,Kazen,Kendria,Kia,Kindite,Kuna,Kyrah,Lamashtu,Lamia,Lara,Leliel,Leviathan,Lilia,Lilim,Lilin,Lilith,Lilitu,Lilya,Listra,Liza,Lua,Lucia,Lucile,Luna,Lyda,Lyla,Lyra,Magna,Maia,Mara,Medusa,Melia,Melchiresa,Melusine,Midara,Mir,Mir Kaleh,Mistra,Moira,Moria,Musah,Myria,Naamah,Nadia,Naia,Nala,Nara,Narya,Nebula,Neura,Neuralger,Nidia,Nika,Nirvana,Nirvenia,Nora,Norma,Nyada,Nystra,Nyxa,Onoskelis,Pia,Prosperpine,Rangda,Rusalka,Sabata,Satana,Sela,Shar,Share,Sharael,Sheol,Selene,Shia,Sonnielion,Stheno,Sul,Summa,Sunna,Sycorax,Syl,Sylestria,Sylin,Sylith,Symia,Syn,Synara,Synestria,Tada,Talah,Talam,Taweret,Thanadria,Thea,Thia,Thiana,Thiara,Tial,Tora,Tundra,Turen,Tzitzimime,Uma,Umbria,Unarya,Unia,Unsere,Uzza,Vena,Verna,Verrier,Vepar,Vulpecula,Xandar,Xana,Xandria,Xeth,Xia,Xindra,Xindar,Yuki,Yun,Yuna,Yuni,Zana,Zephyr,Zhul,Zidya,Zilla,Zuna,Zynara,Zythara"
+msgstr ""
+
+#. [race]: id=demon
+#: Saga_of_James/units/demons.cfg:32
+msgid "race^Demon"
+msgstr ""
+
+#. [race]: id=demon
+#: Saga_of_James/units/demons.cfg:33
+msgid "race+female^Demoness"
+msgstr ""
+
+#. [race]: id=demon
+#: Saga_of_James/units/demons.cfg:34
+msgid "race^Demons"
+msgstr ""
+
+#. [race]: id=demon
+#: Saga_of_James/units/demons.cfg:35
+msgid ""
+"Legend has it that at the beginning of time, powerful creatures called ‘demons’ governed all that existed. The Lords of Light and Darkness, seeing the danger they posed for the balance of nature, banished them to a separate plane of existence, trapped with no means of escape from inside. But time and time again, different versions of the legend have been told by different peoples in different places. Presumably, whatever small amount of truth there was in the original version of the story has since been lost forever.\n"
+"\n"
+"Either by ignorance, or in an attempt to make sense of the fractured stories gathered from Chaos prisoners, the peoples of Irdya refer more generally to all the vastly heterogeneous races of Inferno by this generic designation. Some go as far as to claim that normal Irdyan creatures may become ‘demonic’ in some form or another, pointing at the Chaos Lorekeepers’ powers and inscrutable nature."
+msgstr ""
+
+#. [scenario]: id=01_Prison_Break
+#: Saga_of_James/test/scenarios/01_Prison_Break.cfg:5
+msgid "Prison Break"
+msgstr ""
+
+#. [side]: type=Mystic, id=James
+#: Saga_of_James/test/scenarios/01_Prison_Break.cfg:16
+msgid "Good"
+msgstr ""
+
+#. [side]: type=Mystic, id=James
+#: Saga_of_James/test/scenarios/01_Prison_Break.cfg:20
+msgid "James The Invisible"
+msgstr ""
+
+#. [side]: type=Demon Grunt, id=demon
+#: Saga_of_James/test/scenarios/01_Prison_Break.cfg:77
+msgid "Demons"
+msgstr ""
+
+#. [event]
+#: Saga_of_James/test/scenarios/01_Prison_Break.cfg:103
+msgid "Oh, my love ... what have these monsters done to you? How did they dare?! ... Well, it doesn't matter actually. Your suffering is going to its end and they'll pay for it. You can escape this place and return to your world, you have the strenght for it. I'll guide you on your path to freedom, I can't just let you die here a misserable death. Just listen to me."
+msgstr ""
+
+#. [event]
+#: Saga_of_James/test/scenarios/01_Prison_Break.cfg:104
+msgid "First, stand up. I know it must be very painful for you but you can do this. You're James The Invisible! You did many times things that seemed impossible, you never ever consider giving up. ... Very well. Now, look around you. Can you see that demon? It's the only thing preventing you from leaving this cell but they don't really believe you could even try to escape. They shouldn't underestimate you like this. Approach him. Believe me. I know you can't kill him so quickly in your current state but you have learnt a spell to slow your enemies, right? Use it on him right now."
+msgstr ""
+
+#. [objective]: condition=win
+#: Saga_of_James/test/scenarios/01_Prison_Break.cfg:114
+msgid "Defeat demons' leader"
+msgstr ""
+
+#. [event]
+#: Saga_of_James/test/scenarios/01_Prison_Break.cfg:164
+msgid "Excellent. Now he can't escape your wrath nor even notice his superiors about your escape. It won't be hard for you to kill him."
+msgstr ""
+
+#. [event]
+#: Saga_of_James/test/scenarios/01_Prison_Break.cfg:172
+msgid "Very well. Now, your next steps should lead to the east, that way you can leave this horrible place. There are more demons on the path but they don't expect you there at all. They don't roam this place in bigger groups so they won't pose so much of a threat for you. But you need to kill their leader before you move on else he would tell other demons about you and they all would pursue you. You don't want this. But now go and don't worry. I'm still with you."
+msgstr ""
+
+#. [event]
+#: Saga_of_James/test/scenarios/01_Prison_Break.cfg:177
+msgid "Well done, my love. I knew you could do this. But don't rest on your laurels, this was just a first step on your way. You'll encounter much more of these demons."
+msgstr ""
+
+#. [set_menu_item]: id=debug_decrease_debuff_1
+#. [set_menu_item]: id=debug_decrease_debuff_2
+#: Saga_of_James/test/scenarios/01_Prison_Break.cfg:185
+#: Saga_of_James/test/scenarios/01_Prison_Break.cfg:222
+msgid "Remove some bad effects"
+msgstr ""
+
+#. [set_menu_item]: id=debug_decrease_debuff_3
+#: Saga_of_James/test/scenarios/01_Prison_Break.cfg:264
+msgid "Remove all bad effects"
+msgstr ""
+
+#. [campaign]: id=SagaII
+#: Saga_of_James/test/_main.cfg:6
+msgid " Stucked in Inferno"
+msgstr ""
+
+#: Saga_of_James/macros/1.13_compatibility.cfg:16
+msgid " This unit has a defense cap on certain terrain types — it cannot achieve a higher defense rating on mixed terrains with such terrain types."
+msgstr ""
+
+#. [unstore_unit]
+#: Saga_of_James/macros/abilities_events.cfg:150
+#: Saga_of_James/macros/abilities_events.cfg:180
+msgid "poisoned"
+msgstr ""
+
+#. [unstore_unit]
+#: Saga_of_James/macros/abilities_events.cfg:216
+#: Saga_of_James/macros/abilities_events.cfg:249
+msgid "$damage_dealt"
+msgstr ""
+
+#. [set_menu_item]: id=summoning1
+#: Saga_of_James/macros/summoning.cfg:9
+msgid "Summon an elemental"
+msgstr ""
+
+#. [set_menu_item]: id=summoning2
+#: Saga_of_James/macros/summoning.cfg:28
+msgid "Recall an elemental"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Saga_of_James/macros/summoning.cfg:58
+msgid "What kind of elemental would you like to summon? You have $mana mana left."
+msgstr ""
+
+#. [option]
+#: Saga_of_James/macros/summoning.cfg:61
+msgid "&units/elementals/wisp.png=Wisp (level 0 unit) for 1 mana"
+msgstr ""
+
+#. [option]
+#: Saga_of_James/macros/summoning.cfg:64
+msgid "&units/elementals/brazier-whelpling.png=Brazier Whelpling (level 0 fire elemental) for 1 mana"
+msgstr ""
+
+#. [option]
+#: Saga_of_James/macros/summoning.cfg:67
+msgid "&units/elementals/brazier-imp.png=Brazier Imp (fire elemental) for 2 mana"
+msgstr ""
+
+#. [option]
+#: Saga_of_James/macros/summoning.cfg:70
+msgid "&units/elementals/kobold.png=Kobold (earth elemental) for 2 mana"
+msgstr ""
+
+#. [option]
+#: Saga_of_James/macros/summoning.cfg:73
+msgid "&units/elementals/thunderbird.png=Razorbird for 2 mana"
+msgstr ""
+
+#. [option]
+#: Saga_of_James/macros/summoning.cfg:76
+msgid "&units/elementals/sylph.png=Sylph (air elemental) for 2 mana"
+msgstr ""
+
+#. [option]
+#: Saga_of_James/macros/summoning.cfg:79
+msgid "&units/elementals/tidal.png=Tidal (water elemental) for 2 mana"
+msgstr ""
+
+#. [option]
+#: Saga_of_James/macros/summoning.cfg:82
+msgid "&units/elementals/vine-beast.png=Vine Beast for 2 mana"
+msgstr ""
+
+#. [option]
+#: Saga_of_James/macros/summoning.cfg:85
+msgid "None"
+msgstr ""
+
+#. [literal]: speaker=narrator
+#: Saga_of_James/macros/summoning.cfg:104
+msgid "Which unit would you like to recall?"
+msgstr ""
+
+#. [event]
+#: Saga_of_James/macros/summoning.cfg:107
+msgid "unit_to_recall^None"
+msgstr ""
+
+#. [value]
+#: Saga_of_James/macros/summoning.cfg:113
+msgid "&$recall_list[$i].image=$recall_list[$i].name - $recall_list[$i].language_name"
+msgstr ""
+
+#. [hides]: id=guerrilla warfare
+#: Saga_of_James/macros/abilities.cfg:6
+#: Saga_of_James/macros/abilities.cfg:7
+msgid "guerrilla warfare"
+msgstr ""
+
+#. [hides]: id=guerrilla warfare
+#: Saga_of_James/macros/abilities.cfg:8
+#: Saga_of_James/macros/abilities.cfg:11
+msgid ""
+"This unit can hide in forests, hills and mountains, and remain undetected by its enemies.\n"
+"    \n"
+"Enemy units cannot see this unit while it is in forests, hills and mountains, except if they have units next to it. Any enemy unit that first discovers this unit immediately loses all its remaining movement."
+msgstr ""
+
+#. [leadership]: id=guerrilla inspire
+#: Saga_of_James/macros/abilities.cfg:26
+msgid "inspire"
+msgstr ""
+
+#. [leadership]: id=guerrilla inspire
+#: Saga_of_James/macros/abilities.cfg:29
+msgid "This unit can inspire its fellow fighters that are next to it, making them fight better. Adjacent partisans will do 25% more damage."
+msgstr ""
+
+#. [dummy]: id=temptation
+#: Saga_of_James/macros/abilities.cfg:43
+msgid "temptation"
+msgstr ""
+
+#. [dummy]: id=temptation
+#: Saga_of_James/macros/abilities.cfg:44
+msgid "female^temptation"
+msgstr ""
+
+#. [dummy]: id=temptation
+#: Saga_of_James/macros/abilities.cfg:45
+msgid "This unit makes its enemies of opposite gender infatuated at the beginning of their turn, making them unable to attack, but able to break this charm by fleeing."
+msgstr ""
+
+#. [heals]: id=healing
+#: Saga_of_James/macros/abilities.cfg:52
+msgid "female^sustains +4"
+msgstr ""
+
+#. [heals]: id=healing
+#: Saga_of_James/macros/abilities.cfg:53
+msgid "sustains +4"
+msgstr ""
+
+#. [heals]: id=healing
+#: Saga_of_James/macros/abilities.cfg:54
+msgid ""
+"Allows the unit to heal adjacent allied elemental constructs at the beginning of our turn.\n"
+"\n"
+"A unit sustained by this elementalist may heal up to 4 HP per turn."
+msgstr ""
+
+#. [heals]: id=healing
+#: Saga_of_James/macros/abilities.cfg:72
+msgid "sustains +8"
+msgstr ""
+
+#. [heals]: id=healing
+#: Saga_of_James/macros/abilities.cfg:73
+msgid "female^sustains +8"
+msgstr ""
+
+#. [heals]: id=healing
+#: Saga_of_James/macros/abilities.cfg:74
+msgid ""
+"Allows the unit to heal adjacent allied elemental constructs at the beginning of our turn.\n"
+"\n"
+"A unit sustained by this elementalist may heal up to 8 HP per turn."
+msgstr ""
+
+#. [resistance]: id=hardiness
+#: Saga_of_James/macros/abilities.cfg:92
+msgid "hardiness (10)"
+msgstr ""
+
+#. [resistance]: id=hardiness
+#: Saga_of_James/macros/abilities.cfg:93
+msgid "This unit's physical resistances are increased by 10%, up to a maximum of 50%, when defending."
+msgstr ""
+
+#. [heals]: id=healing
+#: Saga_of_James/macros/abilities.cfg:105
+msgid "heals +12"
+msgstr ""
+
+#. [heals]: id=healing
+#: Saga_of_James/macros/abilities.cfg:106
+msgid "female^heals +12"
+msgstr ""
+
+#. [heals]: id=healing
+#: Saga_of_James/macros/abilities.cfg:107
+msgid ""
+"This unit combines herbal remedies with magic to heal units more quickly than is normally possible on the battlefield.\n"
+"\n"
+"A unit cared for by this healer may heal up to 12 HP per turn, or stop poison from taking effect for that turn.\n"
+"A poisoned unit cannot be cured of its poison by a healer, and must seek the care of a village or a unit that can cure."
+msgstr ""
+
+#. [resistance]: id=shield
+#: Saga_of_James/macros/abilities.cfg:127
+msgid "shield "
+msgstr ""
+
+#. [resistance]: id=shield
+#: Saga_of_James/macros/abilities.cfg:128
+msgid "female^shield "
+msgstr ""
+
+#. [resistance]: id=shield
+#: Saga_of_James/macros/abilities.cfg:129
+msgid "This unit's presence is so glorious that all adjacent allies are honoured and inspired by them, increasing their resistances by "
+msgstr ""
+
+#. [leadership]: id=song_of_faith
+#: Saga_of_James/macros/abilities.cfg:144
+msgid "song of faith (15)"
+msgstr ""
+
+#. [leadership]: id=song_of_faith
+#: Saga_of_James/macros/abilities.cfg:145
+msgid "This unit can inspire own lawful units that are next to it, making them fight better. Adjacent own lawful units will do 15% more damage."
+msgstr ""
+
+#. [leadership]: id=song_of_hope
+#: Saga_of_James/macros/abilities.cfg:163
+msgid "song of hope"
+msgstr ""
+
+#. [leadership]: id=song_of_hope
+#: Saga_of_James/macros/abilities.cfg:164
+msgid "This unit can inspire allied units that are next to it, making them fight better. Adjacent allied units on level 2 and 3 will do 15% more damage, units on level 0 and 1 30% more damage."
+msgstr ""
+
+#. [dummy]: id=hit and run
+#: Saga_of_James/macros/abilities.cfg:198
+msgid "hit and run"
+msgstr ""
+
+#. [dummy]: id=hit and run
+#: Saga_of_James/macros/abilities.cfg:199
+msgid "When this attack is used, the unit gets back all its maximum movement."
+msgstr ""
+
+#. [damage]: id=explosive
+#: Saga_of_James/macros/abilities.cfg:206
+msgid "explosive"
+msgstr ""
+
+#. [damage]: id=explosive
+#: Saga_of_James/macros/abilities.cfg:207
+msgid "When this attack is used, all units adjacent to the target take 75% of the damage."
+msgstr ""
+
+#. [dummy]: id=poison_g
+#: Saga_of_James/macros/abilities.cfg:215
+msgid "This attack poisons not only the living but also the undead. Poisoned units lose 8 HP every turn until they are cured or are reduced to 1 HP. Poison cannot, of itself, kill a unit."
+msgstr ""
+
+#. [dummy]: id=leeches
+#: Saga_of_James/macros/abilities.cfg:222
+msgid "leeches"
+msgstr ""
+
+#. [dummy]: id=leeches
+#: Saga_of_James/macros/abilities.cfg:223
+msgid "This unit drains health from living units, healing itself for half the amount of damage it deals (rounded down). It can also leech the magic bound in the undeath of non-living foes."
+msgstr ""
+
+#. [damage]: id=burning light
+#: Saga_of_James/macros/abilities.cfg:230
+msgid "burning light"
+msgstr ""
+
+#. [damage]: id=burning light
+#: Saga_of_James/macros/abilities.cfg:231
+msgid "This attack does more damage on chaotic units."
+msgstr ""
+
+#. [campaign]: id=SagaII
+#: Saga_of_James/volume3/_main.cfg:6
+msgid "  Volume III:"
+msgstr ""
+
+#. [campaign]: id=SagaII
+#: Saga_of_James/volume3/_main.cfg:7
+msgid " The Artifact"
+msgstr ""
+
+#. [campaign]: id=SagaII
+#: Saga_of_James/volume3/_main.cfg:21
+msgid "Your arch enemy is about to steal an ancient artifact which could cause a cataclysm in wrong hands just like his. Master mighty elemental magic with help of a real master and prevent it from happening. But there is something more that cannot be seen for now ..."
+msgstr ""
+
