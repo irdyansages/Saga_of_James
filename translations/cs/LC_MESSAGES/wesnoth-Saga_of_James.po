@@ -405,12 +405,12 @@ msgstr "Vidíš, já ti to říkala."
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:476
 msgid "Yes, you did and you were right."
-msgstr "Ano, řekla a měla jsi pravdu."
+msgstr "Ano, říkala a měla jsi pravdu."
 
 #. [message]: speaker=unit
 #: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:488
 msgid "Along me, fall also the whole Northlands into hands of the orcs."
-msgstr ""
+msgstr "Společně se mnou padají i celé Severní země do rukou skřetů."
 
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:499
@@ -419,11 +419,13 @@ msgid ""
 "fight againts the orcs and we cannot handle them at our own. Everything is "
 "lost now."
 msgstr ""
+"Má pravdu. Když je jejich vůdce mrtvý, elfové už dále nebudou bojovat proti "
+"skřetům a my sami je nezvládneme. Vše je ztraceno."
 
 #. [scenario]: id=04_Resistance
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:27
 msgid "Resistance"
-msgstr ""
+msgstr "Odboj"
 
 #. [side]: type=Plain_Mage, id=James
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:43
@@ -633,7 +635,7 @@ msgstr ""
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:313
 msgid "All right. Let us start."
-msgstr ""
+msgstr "Dobrá, začněme tedy."
 
 #. [message]: speaker=second_unit
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:339
@@ -680,7 +682,7 @@ msgstr ""
 #. [message]: speaker=Aleixo
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:431
 msgid "Well done. Now, search his clothes, the key has to be somewhere."
-msgstr ""
+msgstr "Dobrá práce. Teď prohledej jeho šaty, ten klíč musí někde být."
 
 #. [message]: speaker=second_unit
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:435
@@ -720,12 +722,12 @@ msgstr "Myslím, že to byl někdo z naší vesnice."
 #. [message]: speaker=hunters_leader
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:500
 msgid "Thank you, anyway."
-msgstr ""
+msgstr "V každém případě, díky."
 
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:504
 msgid "You are welcome."
-msgstr ""
+msgstr "Nemáte za co."
 
 #. [message]: speaker=hunters_leader
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:508
@@ -733,6 +735,8 @@ msgid ""
 "Oh, who are you? Hmm, your face looks familiar to me but I cannot recall "
 "your name ..."
 msgstr ""
+"Ó, kdo jsi? Hmm, tvoje tvář je mi povědomá, ale nemůžu si vzpomenout na "
+"tvoje jméno ..."
 
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:512
@@ -905,7 +909,7 @@ msgid ""
 "Wait, something is going on. ... Oh no! The bandits are attacking us again!"
 msgstr ""
 "Čeká mě další den práce na polích. Někdy si přeju ... Počkat, něco se "
-"děj ... Ale né! Zase na nás útočí banditi."
+"děje ... Ale né! Zase na nás útočí banditi."
 
 #. [message]: speaker=Ligwyn
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:142
@@ -925,12 +929,14 @@ msgid ""
 "We can't let them raid our village even though we're weaker without hunters "
 "now. We will fight them."
 msgstr ""
+"Nemůže je nechat vyplenit naší vesnice, ikdyž jsme teď bez lovců slabší. "
+"Budeme bojovat."
 
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:154
 msgid ""
 "I will help to defend our village. They have no chance against my spells."
-msgstr ""
+msgstr "Pomohu s obranou naší vesnice. Nebudou mít šanci proti mým kouzlům."
 
 #. [message]: speaker=Ligwyn
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:158
@@ -1044,6 +1050,7 @@ msgid ""
 "Don't take him so seriously, James. I believe he just wanted to scare us a "
 "bit."
 msgstr ""
+"Neber ho tak vážně, Jamesi. Myslím si, že nás chtěl jenom trochu vystrašit."
 
 #. [message]: speaker=Ligwyn
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:304
@@ -1155,6 +1162,8 @@ msgstr ""
 msgid ""
 "I am done ... but you others must keep fighting. The village must hold out!"
 msgstr ""
+"Já už nemůžu ... ale vy ostatní musíte pokračovat v boji. Vesnice musí "
+"vydržet!"
 
 #. [message]: speaker=Ligwyn
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:397
@@ -1286,7 +1295,7 @@ msgstr ""
 #. [message]: speaker=Ryddry
 #: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:172
 msgid "Ha! Who goes there? Are you friend or foe?"
-msgstr ""
+msgstr "Ha! Kdo tam jde? Přítel nebo nepřítel?"
 
 #. [message]: speaker=unit
 #: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:176
@@ -1303,7 +1312,7 @@ msgid ""
 "stupid peasants who killed your boss!"
 msgstr ""
 "Hmm, připadají mi jako nějací vesničani. Ale když jsou tady, znamená to, že "
-"můj bratr selhal v naší jednoduché misi. "
+"můj bratr selhal v naší jednoduché misi."
 
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:184
@@ -1367,13 +1376,15 @@ msgid ""
 "No! This can't happen to ... I'm sorry, brother. They're just a bunch of "
 "peasants but that guy in a mage's robe ... there is something behind him ..."
 msgstr ""
+"Ne!  Tohle se mi nemůže stát ... Omlouvám se, bratře. Jsou jen banda "
+"sedláků, ale ten chlap v rouše mága ... něco za ním  je ..."
 
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:279
 msgid ""
 "I do not have the slightest idea what he is talking about, I am not "
 "exceptional at all."
-msgstr "Nemám nejmenší tušení, o čem mluví, nejsem vůbec výjimečný"
+msgstr "Nemám nejmenší tušení, o čem mluví, nejsem vůbec výjimečný."
 
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:289
@@ -1385,7 +1396,7 @@ msgstr ""
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:300
 msgid "Anyhow we should hurry and leave this place."
-msgstr ""
+msgstr "V každém případě by jsme si měli pospíšit a opustit toto místo."
 
 #. [message]: speaker=unit
 #: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:332
@@ -1409,6 +1420,8 @@ msgid ""
 "I do not think that we should continue in our search before we are done with "
 "these bandits. They could attack our village."
 msgstr ""
+"Nemyslím si, že bysme měli pokračovat v pátrání dokud si neporadíme s těmito "
+"bandity. Mohli by zaútočit na naší vesnici"
 
 #. [message]: speaker=second_unit
 #: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:394
@@ -1440,6 +1453,8 @@ msgid ""
 "Without her, we are lost in this wood. And I think that ... I will miss such "
 "a person like her."
 msgstr ""
+"Bez ní jsme v tomto lese ztraceni. A myslím si, že ... mi bude chybět někdo "
+"jako ona."
 
 #. [message]: speaker=unit
 #: Saga_of_James/volume1/utils/deaths.cfg:36
@@ -1487,7 +1502,7 @@ msgstr "Se mnou umírají i sny o naší svobodě."
 #. [message]: speaker=unit
 #: Saga_of_James/volume1/utils/deaths.cfg:135
 msgid "I shouldn't have joined this expedition."
-msgstr ""
+msgstr "Neměl jsem se připojit k téhle výpravě."
 
 #. [part]
 #: Saga_of_James/volume1/utils/story.cfg:6
@@ -1553,6 +1568,12 @@ msgid ""
 "Slowly, he was becoming a bit respected but was still lacking any real "
 "friend. The village was rather peaceful."
 msgstr ""
+"Nepatřil k nejlepším studentům na ostrově, jeho známky tak tak stačily na "
+"postup. Přesto hodně studoval a nakonec úspěšně promoval. Poté se rozhodl ne "
+"sloužit jako poradce hraběte, ale vrátit se do své vesnice a pomáhat jejím "
+"obyvatelům se svými nově nabytými znalostmi a dovednostmi. Ti jej pomalu "
+"začínali respektovat, avšak stále neměl opravdového přítele. Vesnice byla "
+"poklidná."
 
 #. [part]
 #: Saga_of_James/volume1/utils/story.cfg:22
@@ -1759,12 +1780,12 @@ msgstr "Katalíno, ne! Nemohu to dokázat bez tvé pomoci."
 #. [campaign]: id=SagaII
 #: Saga_of_James/volume2/_main.cfg:6
 msgid "  Volume II:"
-msgstr ""
+msgstr "Kapitola druhá:"
 
 #. [campaign]: id=SagaII
 #: Saga_of_James/volume2/_main.cfg:7
 msgid " Troubles in undeground channels"
-msgstr ""
+msgstr "Problémy v podzemních tunelech"
 
 #. [campaign]: id=SagaII
 #: Saga_of_James/volume2/_main.cfg:13 Saga_of_James/test/_main.cfg:12
@@ -1794,7 +1815,7 @@ msgstr "."
 #. [campaign]: id=SagaII, type=hybrid
 #: Saga_of_James/volume4/_main.cfg:6
 msgid "  Volume IV:"
-msgstr ""
+msgstr "Kapitola čtvrtá:"
 
 #. [campaign]: id=SagaII, type=hybrid
 #: Saga_of_James/volume4/_main.cfg:7
@@ -1896,7 +1917,7 @@ msgstr ""
 #. [attack]: type=impact
 #: Saga_of_James/units/trolls/Mystic.cfg:33
 msgid "fist"
-msgstr ""
+msgstr "pěst"
 
 #. [attack]: type=fire
 #: Saga_of_James/units/trolls/Mystic.cfg:43
@@ -2129,7 +2150,7 @@ msgstr "Lovkyně"
 #. [unit_type]: id=Master_Hunteress, race=human
 #: Saga_of_James/units/heroes/Woodswoman.cfg:278
 msgid "Master Hunteress"
-msgstr ""
+msgstr "Lovkyně Mistr"
 
 #. [advancement]: id=bow
 #: Saga_of_James/units/heroes/Woodswoman.cfg:441
@@ -2192,7 +2213,7 @@ msgstr "pekelný oheň"
 #: Saga_of_James/units/heroes/Elementalist.cfg:81
 #: Saga_of_James/units/heroes/Elementalist.cfg:366
 msgid "heal on hit"
-msgstr ""
+msgstr "léčení při zásahu"
 
 #. [heal_on_hit]: id=fire_heal_on_hit
 #: Saga_of_James/units/heroes/Elementalist.cfg:82
@@ -2217,17 +2238,17 @@ msgstr "éterická bouře"
 #. [advancement]: id=skinofrock
 #: Saga_of_James/units/heroes/Elementalist.cfg:206
 msgid "Skin of the Rock (more resistant to physical damage)"
-msgstr ""
+msgstr "Kamenná kůže (odolnější vůči fyzickému poškození)"
 
 #. [advancement]: id=speedofwind
 #: Saga_of_James/units/heroes/Elementalist.cfg:232
 msgid "Speed of the Wind"
-msgstr "rychlost větru"
+msgstr "Rychlost větru"
 
 #. [advancement]: id=waterhome
 #: Saga_of_James/units/heroes/Elementalist.cfg:246
 msgid "Water Home (better movement and defense in water terrains)"
-msgstr ""
+msgstr "Vodní domov (lepší pohyblivost a obrana ve vodních terénech)"
 
 #. [advancement]: id=fireprotection
 #: Saga_of_James/units/heroes/Elementalist.cfg:283
@@ -2288,11 +2309,14 @@ msgid ""
 "(allows learning new spells and\n"
 "some improvements to them)"
 msgstr ""
+"více obeznámený s magickými teoriemi\n"
+"(umožňuje učit se nová kouzla a\n"
+"nějaká vylepšení k nim)"
 
 #. [advancement]: id=magic_theory2
 #: Saga_of_James/units/heroes/Mystic.cfg:458
 msgid "even more familiar with magical theories"
-msgstr ""
+msgstr "ještě více obeznámený s magickými teoriemi"
 
 #. [advancement]: id=fireball
 #: Saga_of_James/units/heroes/Mystic.cfg:468
@@ -2370,7 +2394,7 @@ msgstr ""
 #. [advancement]: id=steadfast
 #: Saga_of_James/units/heroes/Mystic.cfg:712
 msgid "able to take more physical damage in defense"
-msgstr ""
+msgstr "schopný vydržet více fyzického poškození v obraně"
 
 #. [advancement]: id=regeneration
 #: Saga_of_James/units/heroes/Mystic.cfg:728
@@ -2487,6 +2511,8 @@ msgid ""
 " Adjacent units of the same allegiance have their resistances increased by "
 "the sole presence of this unit."
 msgstr ""
+"Sousední jednotky stejné příslušnosti mají své odolnosti zvýšené díky pouhé "
+"přítomnosti této jednotky."
 
 #. [female]
 #: Saga_of_James/units/human-mages/Abbot.cfg:117
@@ -2833,7 +2859,7 @@ msgstr ""
 #. [option]
 #: Saga_of_James/macros/summoning.cfg:85
 msgid "None"
-msgstr ""
+msgstr "Žádný"
 
 #. [literal]: speaker=narrator
 #: Saga_of_James/macros/summoning.cfg:104
@@ -3087,7 +3113,7 @@ msgstr "Tento útok způsobuje větší poškození chaotickým jednotkám."
 #. [campaign]: id=SagaII
 #: Saga_of_James/volume3/_main.cfg:6
 msgid "  Volume III:"
-msgstr ""
+msgstr "Kapitola třetí:"
 
 #. [campaign]: id=SagaII
 #: Saga_of_James/volume3/_main.cfg:7
@@ -3102,6 +3128,10 @@ msgid ""
 "help of a real master and prevent it from happening. But there is something "
 "more that cannot be seen for now ..."
 msgstr ""
+"Tvůj úhlavní nepřítel se chystá ukrást starodávný artefakt, který by mohl "
+"způsobit katastrofu ve špatných rukou, jako jsou ty jeho. Staň se mistrem "
+"mocné elementální magie s pomocí skutečného mistra a zabraň tomu. Avšak je "
+"tu něco více, co zatím nejde vidět ..."
 
 #~ msgid ""
 #~ "SPECIALNOTE^Mystics are well-attuned to their magical natures and are "
