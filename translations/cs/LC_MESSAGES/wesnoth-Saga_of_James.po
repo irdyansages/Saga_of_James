@@ -101,6 +101,8 @@ msgid ""
 "Yes, I am. Look at these footprints. They're clearly from humans and about a "
 "week old. And also their amount matches the number of hunters we're missing."
 msgstr ""
+"Ano, jsem. Podívej se na tyto stopy. Jsou zcela jistě od lidí a asi týden "
+"staré. Také jejich počet se shoduje s počtem ztracených lovců."
 
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:198
@@ -142,7 +144,7 @@ msgstr "Ne! Tam nemůžete jít!"
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:224
 msgid "Who are you and why we shall not march there?"
-msgstr ""
+msgstr "Kdo jsi a proč bychom tam neměli jít?"
 
 #. [message]: speaker=Belinda
 #: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:228
@@ -466,7 +468,7 @@ msgstr "Kterýkoliv vesnický lovec zemře"
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:174
 msgid "Have you made any progress on locating their steps?"
-msgstr ""
+msgstr "Pokročil jsi v lokalizování jejich stop?"
 
 #. [message]: role=Supporter
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:178
@@ -475,6 +477,9 @@ msgid ""
 "ground. It seems this place is pretty frequently visited but all the "
 "footprints aren't from humans. Some of them seem to be from orcish foots."
 msgstr ""
+"Bohužel ne. Je to velmi těžké, protože na zemi je příliš mnoho stop. Zdá se, "
+"že toto místo je velmi často navštěvováno, ale všechny stopy nejsou od lidí. "
+"Zdá se, že některé z nich jsou ze skřetích nohou."
 
 #. [message]: speaker=Belinda
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:182
@@ -482,16 +487,19 @@ msgid ""
 "Orcish you say? Well, it's not that surprising. We've seen and fought some "
 "orcs not so far from here."
 msgstr ""
+"Skřetí, říkáš? No, to není takové překvapení. Nedaleko odtud jsem viděli a "
+"bojovali s nějakými skřety."
 
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:186
 msgid "That is indeed true but those orcs came from north-west, not east."
 msgstr ""
+"To je samozřejmě pravda, ale ti skřeti přišli ze severozápadu, ne východu."
 
 #. [message]: speaker=Belinda
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:190
 msgid "Oh, yes, I forgot about that. It's not good, I guess ..."
-msgstr ""
+msgstr "Á, jasně, na to jsem zapomněla. To není dobré, myslím ..."
 
 #. [message]: role=Supporter
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:194
@@ -499,11 +507,13 @@ msgid ""
 "It were probably the orcs who damaged some buildings in this settlement. I "
 "wonder what exactly happened here ..."
 msgstr ""
+"Byli to pravděpodobně skřeti, kdo poničili nějaké budovy v téhle osadě. "
+"Zajímalo by mě, co přesně se tady stalo ..."
 
 #. [message]: speaker=Belinda
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:205
 msgid "Silence! Someone's moving in the forest. Get ready - just in case."
-msgstr ""
+msgstr "Ticho! Někdo se pohybuje v lese. Připravte se, pro jistotu"
 
 #. [unit]: type=Guerrilla Leader, id=Aleixo
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:224
@@ -515,6 +525,7 @@ msgstr "Aleixo"
 msgid ""
 "What are you doing here, strangers? This place isn't the best one for a walk."
 msgstr ""
+"Co tady děláte, cizinci? Toto není místo není to nejlepší na procházku."
 
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:249
@@ -529,6 +540,8 @@ msgid ""
 "We followed their footprints and they took us here but I can't tell where "
 "they continue."
 msgstr ""
+"Následovali jsme jejich stopy a ty nás zavedli sem, ale nedokážu říct, kam "
+"pokračovali."
 
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:257
@@ -543,6 +556,8 @@ msgid ""
 "Hmm, let me think ... I think some hunters visited this place at that time "
 "but the orcs captured them."
 msgstr ""
+"Hmmm, nechte mě přemýšlet ... Myslím, že nějací lovci to tu v té době "
+"navštívili, ale skřeti je zajali."
 
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:265
@@ -591,6 +606,8 @@ msgid ""
 "I thought the same when I've met them but they're doing pretty well in "
 "battle under James' command. By the way, I'm Belinda."
 msgstr ""
+"Já si myslela to samé, když jsem je potkala, ale vedou si docela dobře v "
+"bitvě pod Jamesovým velením. Mimochodem, jsem Belinda."
 
 #. [message]: speaker=Aleixo
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:293
@@ -640,12 +657,12 @@ msgstr "Dobrá, začněme tedy."
 #. [message]: speaker=second_unit
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:339
 msgid "Hey, the humans are attacking me! Help me, guys!"
-msgstr ""
+msgstr "Héj, lidi na mě útočí! Pomozte mi!"
 
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:352
 msgid "So here are located your headquarters?"
-msgstr ""
+msgstr "Takže tady se nachází vaše velitelství?"
 
 #. [message]: speaker=Aleixo
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:356
@@ -653,6 +670,8 @@ msgid ""
 "Right. The orcs would never think we're having meetings here. It's a ruin "
 "but it serves us well. Anyhow, can you see anyone there, James?"
 msgstr ""
+"Ano. Skřety by nikdy nenapadlo, že se tady scházíme. Je to ruina, ale nám "
+"slouží dobře. Každopádně, vidíš tam někoho, Jamesi?"
 
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:360
@@ -678,6 +697,8 @@ msgid ""
 "of them have a key for sure. With it, we can open a lock and free your "
 "hunters."
 msgstr ""
+"Tady je vězení. Pokud si pamatuji dobře, měli by jej hlídat dva skřeti. "
+"Jeden z nich má určitě klíč. S ním odemkneme zámek a osvobodíme vaše lovce."
 
 #. [message]: speaker=Aleixo
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:431
@@ -741,7 +762,7 @@ msgstr ""
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:512
 msgid "I am James."
-msgstr ""
+msgstr "Jmenuji se James."
 
 #. [message]: speaker=hunters_leader
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:516
@@ -778,6 +799,10 @@ msgid ""
 "the east. We need to deal with the nagas before we start fighting the orcs "
 "directly."
 msgstr ""
+"Velmi dobře, bez svých trolích a gobliních spojenců budou skřeti slabší v "
+"závěrečné bitvě. Bylo dobré nechat tě vést akci, Jamesi. Jsi docela dobrý "
+"taktik. No, teď bychom se měli vydat k řece na jihu. Musíme si nejdřív "
+"poradit s nagama, než začneme bojovat přímo se skřety."
 
 #. [scenario]: id=06_Freedom
 #: Saga_of_James/volume1/scenarios/06_Freedom.cfg:13
@@ -917,6 +942,8 @@ msgid ""
 "And our hunting party haven't returned yet. They're already gone for seven "
 "days. I wonder what could happen to them."
 msgstr ""
+"A naše lovecká parta se ještě nevrátila. Jsou pryč už sedm dní. Zajímalo by "
+"mě, co se jim stalo."
 
 #. [message]: type=Peasant
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:146
@@ -945,6 +972,9 @@ msgid ""
 "quickly as you aren't so tough. At the other hand, I really appreciate this "
 "gesture. If you want to help there is something else you can do."
 msgstr ""
+"Pché! Vidíš, kolik jich tu je? Snadno by tě zabili, protože nejsi příliš "
+"tvrdý. Na druhou stranu, vážně oceňuji toto gesto. Pokud chceš pomoct, je "
+"něco, co bys mohl udělat."
 
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:162
@@ -970,7 +1000,7 @@ msgstr ""
 #. [message]: speaker=Ligwyn
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:174
 msgid "And keep an eye on them. You know we can't lose too many villagers."
-msgstr ""
+msgstr "A dávej na ně pozor. Víš, že nemůže ztratit příliš mnoho vesničanů."
 
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:178
@@ -1031,6 +1061,8 @@ msgid ""
 "Heh, this seemed to be a pretty simple task and yet ... I'm dying. But I'll "
 "be avenged, you stupid village folks! Remember my words!"
 msgstr ""
+"Heh, vypadalo to jako jednoduchý úkol a přesto ... umírám. Ale někdo mě "
+"pomstí, vy hloupí vesničani! Pamatujte si moje slova!"
 
 #. [message]: speaker=Ligwyn
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:284
@@ -1085,6 +1117,8 @@ msgid ""
 "To the north, I suppose. They say there live more animals than in the area "
 "where we usually hunt but they never went with us at that place."
 msgstr ""
+"Hádám že na sever. Říkají, že tam žije víc zvířat než v oblasti, kde obvykle "
+"lovíme, ale s námi tam nikdy nešli."
 
 #. [message]: speaker=hunter
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:335
@@ -1093,6 +1127,8 @@ msgid ""
 "for them but the wood was swarming with bandits. We're glad we made it back "
 "to the village at least."
 msgstr ""
+"Čekali jsme na ně asi dva dny. Potom jsme je šli hledat, ale v lese se to "
+"hemžilo bandity. Jsme rádi, že jsme se aspoň dokázali vrátit do vesncie."
 
 #. [message]: speaker=Ligwyn
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:339
@@ -1108,6 +1144,8 @@ msgid ""
 "That might be true. In that case, we should be able to find our comrades "
 "without troubles. Do you want us to go to look for them tomorrow, Captain?"
 msgstr ""
+"Mohlo by to tam být. V tom případě bychom měli být schopní bez problému "
+"najít naše kolegy. Chcete, abychom je zítra šli hledat, kapitáne?"
 
 #. [message]: speaker=Ligwyn
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:347
@@ -1127,11 +1165,15 @@ msgid ""
 "mages taught you really well. I would like to apologize to you for my "
 "previous words. I wouldn't do it better, being at your place."
 msgstr ""
+"Sledoval jsem tě v boji a vedl sis dobře. Bylo úžasné sledovat tě vrhat "
+"střely na nepřátele a vést vesničany. Mágové tě učili velmi dobře. Chtěl "
+"bych se ti omluvit za svá předchozí slova. Já bych si nevedl lépe na tvém "
+"místě."
 
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:359
 msgid "There is no need to apologize, really."
-msgstr ""
+msgstr "Není třeba se omlouvat. Opravdu."
 
 #. [message]: speaker=Ligwyn
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:363
@@ -1173,7 +1215,7 @@ msgstr "Ne, Jamesi, bez tebe to nedokážeme!"
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:409
 msgid "Without the Captain, we all are as good as dead."
-msgstr ""
+msgstr "Bez kapitána jsme všichni mrtví."
 
 #. [message]: speaker=Ligwyn
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:418
@@ -1304,7 +1346,6 @@ msgstr "Ééé ..."
 
 #. [message]: speaker=Ryddry
 #: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:180
-#, fuzzy
 msgid ""
 "Hmm, they look like some of the village folks to me. But if they're here, it "
 "means my brother failed in our simple mission. Those simple minds killed "
@@ -1312,7 +1353,9 @@ msgid ""
 "stupid peasants who killed your boss!"
 msgstr ""
 "Hmm, připadají mi jako nějací vesničani. Ale když jsou tady, znamená to, že "
-"můj bratr selhal v naší jednoduché misi."
+"můj bratr selhal v naší jednoduché misi. Ti prosťáčci ho zabili! Ale mi tě "
+"pomstíme, bratře! Chlapy, vylezte a zbavte se těch hloupách sedláků, co "
+"zabili vašeho šéfa!"
 
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:184
@@ -1357,6 +1400,8 @@ msgid ""
 "What is it on the ground? Gold! ... 1, 2, 3 pieces ... I can't count it, "
 "there is too much of them here. Shall we pick them up?"
 msgstr ""
+"Co to je na zemi? Zlato! Jeden, tva, tři zlaťáky ... Nemůžu je spočítat, je "
+"jich tu příliš hodně.  Zvedneme je?"
 
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:250
@@ -1364,6 +1409,8 @@ msgid ""
 "We do not need them so badly but it would be better if we take them rather "
 "than those bandits."
 msgstr ""
+"Nepotřebujeme je tak nutně, ale bude lepší, když to uděláme my a ne tamti "
+"banditi."
 
 #. [message]: speaker=unit
 #: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:254
@@ -1581,6 +1628,8 @@ msgid ""
 "But one day, when their hunting party was gone, a bigger group of bandits "
 "decided to plunder the village."
 msgstr ""
+"Ale jednoho dne, když byla jejich lovecká parta pryč, se větší skupina "
+"banditů vyrabovat vesnici."
 
 #. [part]
 #: Saga_of_James/volume1/utils/story.cfg:31
@@ -2379,6 +2428,8 @@ msgid ""
 "more attuned to the woods\n"
 "(better defense and movement in forests)"
 msgstr ""
+"více chápající lesy\n"
+"(lepší obrana a pohyblivost v lesích)"
 
 #. [advancement]: id=dwarven_path1
 #: Saga_of_James/units/heroes/Mystic.cfg:679
