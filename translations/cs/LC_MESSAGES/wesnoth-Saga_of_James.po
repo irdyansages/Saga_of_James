@@ -178,7 +178,7 @@ msgstr ""
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:248
 msgid "Thank you for your warning but we cannot just go back."
-msgstr ""
+msgstr "Děkuji ti za varování, ale my se nemůžeme vrátit zpět."
 
 #. [message]: role=Supporter
 #: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:252
@@ -207,7 +207,7 @@ msgstr ""
 #. [message]: speaker=Belinda
 #: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:264
 msgid "No problem, I understand. Ok, let's go. Oh and try to avoid the elves."
-msgstr ""
+msgstr "V pořádku, rozumím. Dobrá, pojďme. Ó a pokuste se vyhnout elfům."
 
 #. [message]: speaker=second_unit
 #: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:293
@@ -282,11 +282,13 @@ msgid ""
 "Why would we bother? They weren't nice towards us, they even didn't want to "
 "let us just pass through their wood."
 msgstr ""
+"Proč bychom se měli obtěžovat? Nebyli k nám milí, ani nás něchtěli nechat "
+"projít jejich lesem."
 
 #. [message]: speaker=Belinda
 #: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:373
 msgid "They may let you if you help them ..."
-msgstr ""
+msgstr "Možná vás nechají, když jim pomůžete ..."
 
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:377
@@ -314,7 +316,7 @@ msgstr ""
 #. [message]: speaker=elf
 #: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:385
 msgid "Wise words indeed. I will do just like you say."
-msgstr ""
+msgstr "Hovoříš moudře. Udělám přesně jak říkáš."
 
 #. [message]: speaker=elf
 #: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:385
@@ -347,6 +349,8 @@ msgstr ""
 msgid ""
 "You do not cease to amaze me. But in any case, please stay with us others."
 msgstr ""
+"Ty mne nepřestáváš ohromovat. Ale v každém případě, prosím, zůstaň s námi "
+"ostatními."
 
 #. [message]: speaker=unit
 #: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:440
@@ -365,7 +369,7 @@ msgstr ""
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:452
 msgid "It is nothing. We just did what was right."
-msgstr ""
+msgstr "To nic nebylo. Jen jsme dělali, co je správné."
 
 #. [message]: speaker=elf
 #: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:456
@@ -382,6 +386,8 @@ msgid ""
 "We already know all of that. Well, some of them made it back to our village "
 "but many of them not. They are somewhere to north-east from here."
 msgstr ""
+"To vše již víme. No, někteří z nich se dostali zpět do vesnice, ale mnoho "
+"ne. Jsou někde na severovýchod odtud."
 
 #. [message]: speaker=elf
 #: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:464
@@ -809,7 +815,7 @@ msgstr ""
 #. [message]: speaker=Belinda
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:586
 msgid "James, no! I think ... I'll miss you."
-msgstr ""
+msgstr "Jamesi, ne! Myslím, ... že mi budeš chybět."
 
 #. [scenario]: id=06_Freedom
 #: Saga_of_James/volume1/scenarios/06_Freedom.cfg:13
@@ -853,7 +859,7 @@ msgstr "Jasně! Jsme připravení bojovat."
 #. [message]: speaker=unit
 #: Saga_of_James/volume1/scenarios/06_Freedom.cfg:297
 msgid "Chief, chief! The humans have rebelled!"
-msgstr ""
+msgstr "Šéfe, šéfe! Lidi se vzbouřili!"
 
 #. [message]: speaker=orc
 #: Saga_of_James/volume1/scenarios/06_Freedom.cfg:301
@@ -886,7 +892,7 @@ msgstr ""
 #. [message]: speaker=Aleixo
 #: Saga_of_James/volume1/scenarios/06_Freedom.cfg:380
 msgid "James! Don't die yet, we need still you."
-msgstr ""
+msgstr "Jamesi! Neumírej, ještě tě potřebujeme."
 
 #. [message]: speaker=unit
 #: Saga_of_James/volume1/scenarios/06_Freedom.cfg:384
@@ -1013,6 +1019,8 @@ msgid ""
 "Well, I do not like it but I know that we can do nothing else. I will do as "
 "you say."
 msgstr ""
+"No, nelíbí se mi to, ale vím, že je to to jediné, co můžeme udělat. Udělám, "
+"jak říkáte."
 
 #. [message]: speaker=Ligwyn
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:177
@@ -2792,7 +2800,7 @@ msgstr ""
 "Zraněná jednotka se může za jeden tah vyléčit až o 12 životů nebo zastavit "
 "na jeden tah průběh otravy.\n"
 "Léčitel nedokáže uzdravit otrávenou jednotku; taková jednotka musí vyhledat "
-"pomoc ve vesnici nebo u jednotky, která dokáže uzdravovat.\""
+"pomoc ve vesnici nebo u jednotky, která dokáže uzdravovat."
 
 #. [resistance]: id=shield
 #: Saga_of_James/macros/abilities.cfg:127
@@ -2857,6 +2865,8 @@ msgid ""
 "When this attack is used, all units adjacent to the target take 75% of the "
 "damage."
 msgstr ""
+"Když je tento útok použit, všechny jednotky sousedící s cílem utrží 75% "
+"poškození."
 
 #. [dummy]: id=poison_g
 #: Saga_of_James/macros/abilities.cfg:215
