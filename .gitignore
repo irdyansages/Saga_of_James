@@ -3,5 +3,6 @@
 /volume3/
 /volume4/
 Thumbs.db
-_server.*
+_server.pbl
 demon*
+.passphrase
