@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Saga_of_James-1.12\n"
-"POT-Creation-Date: 2017-10-11 10:55 UTC\n"
+"POT-Creation-Date: 2017-11-26 11:27 UTC\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1243,6 +1243,11 @@ msgstr ""
 #. [part]
 #: Saga_of_James/volume1/utils/story.cfg:63
 msgid "It looked quite similar to their home village but some of the buildings bore signs of being damaged recently and its inhabitants were nowhere to see. It was an evening when they saw it but even for that time of day it was a bit unusual. The party decided to ignore it and rather look to the ground to find out where next steps of their hunters led."
+msgstr ""
+
+#. [part]
+#: Saga_of_James/volume1/utils/story.cfg:72
+msgid "Once the trolls and wolf riders were defeated, the party wasted no time and moved towards the next enemy - nagas. Aleixo has led the party to the new home of these enemies, a nearby river. It was less than an hour of walking from the village. They were moving very carefully to not notify any enemies of their actions. They were successful and caught the nages unprepared for an attack."
 msgstr ""
 
 #. [campaign]: id=SagaI

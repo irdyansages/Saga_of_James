@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Saga_of_James-1.12\n"
-"POT-Creation-Date: 2017-10-11 12:56+0200\n"
+"POT-Creation-Date: 2017-11-26 12:28+0100\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Jakub Konečný <jakub.konecny2@centrum.cz>\n"
 "Language-Team: \n"
@@ -1417,7 +1417,7 @@ msgid ""
 "Some coins are lying on the ground. We should take them before the bandits "
 "do so."
 msgstr ""
-"Nějaké mince leží na zemi. Měli bysme je sebrat, než to udělají banditi."
+"Nějaké mince leží na zemi. Měli bychom je sebrat, než to udělají bandité."
 
 #. [message]: speaker=unit
 #: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:246
@@ -1691,6 +1691,9 @@ msgid ""
 "saw the party going through the wood tried to avoid them because they heard "
 "about the recent battle."
 msgstr ""
+"Další den jejich putování proběhl bez jakýchkoliv konfliktů. Těch pár "
+"banditů, kteří spatřili družinu procházet lesem, se snažili jim vyhnout, "
+"neboť slyšeli o nedávné bitvě."
 
 #. [part]
 #: Saga_of_James/volume1/utils/story.cfg:50
@@ -1700,6 +1703,10 @@ msgid ""
 "the other hand, a woman, who seemed to live in the wilderness for a longer "
 "period of time, crossed their way."
 msgstr ""
+"Družina našla několik stop, které potvrzovaly, že lovecká parta z jejich "
+"vesnice prošla touto oblastí, avšak samotní lovci nebyli k vidění. Ale na "
+"druhou stranu žena, která vypadala, že žije v divočině už delší dobu, jim "
+"zkřížila cestu."
 
 #. [part]
 #: Saga_of_James/volume1/utils/story.cfg:59
@@ -1709,6 +1716,9 @@ msgid ""
 "clear but later, they just vanished. It was near some smaller human "
 "settlement."
 msgstr ""
+"Po porážce skřetů družina cestovala na severovýchod, aby pokračovala ve svém "
+"pátrání. Nějakou dobu byly stopy vesnických lovců velmi jasné, ale později "
+"zničehonic zmizely. Bylo to poblíž menší lidské osady."
 
 #. [part]
 #: Saga_of_James/volume1/utils/story.cfg:63
@@ -1719,6 +1729,28 @@ msgid ""
 "unusual. The party decided to ignore it and rather look to the ground to "
 "find out where next steps of their hunters led."
 msgstr ""
+"Ta byla velmi podobná jejich domovské vesnici, ale některé budovy byly "
+"zjevně nedávno poškozeny a její obyvatelé nebyli nikde vidět. Sice byl "
+"večer, avšak i pro tuto část dne to bylo trochu nezvyklé. Družina se "
+"rozhodla to ignorovat a spíše hleděli k zemi, aby zjistili, kam vedly další "
+"kroky jejich lovců."
+
+#. [part]
+#: Saga_of_James/volume1/utils/story.cfg:72
+msgid ""
+"Once the trolls and wolf riders were defeated, the party wasted no time and "
+"moved towards the next enemy - nagas. Aleixo has led the party to the new "
+"home of these enemies, a nearby river. It was less than an hour of walking "
+"from the village. They were moving very carefully to not notify any enemies "
+"of their actions. They were successful and caught the nages unprepared for "
+"an attack."
+msgstr ""
+"Jakmile byli trollové a jezdci na vlcích poraženi, družina neztrácela čas a "
+"šla naproti dalšímu nepříteli - nagám. Aleixo vedl\n"
+" družinu k novému domovu těchto nepřátel, k nedaleké řece. Byla méně než "
+"hodinu chůze od vesnice. Pohybovali se velmi opatrně, aby neupozornili "
+"nepřátele na své kroky. To se jim podařilo a zastihli nagy nepřipravené na "
+"útok."
 
 #. [campaign]: id=SagaI
 #: Saga_of_James/volume1/_main.cfg:5
@@ -1877,6 +1909,9 @@ msgid ""
 "Though weak than other trolls, their considerable skill with their fire "
 "magic is not to be underestimated."
 msgstr ""
+"Trollí mystici jsou trollové, kteří byli obdarováni schopností používat "
+"magii. Přestože jsou slabší než ostatní trollové, jejich výrazná dovednost s "
+"ohnivou magií by neměla být podceňována."
 
 #. [attack]: type=impact
 #: Saga_of_James/units/trolls/Mystic.cfg:32
@@ -2688,6 +2723,12 @@ msgid ""
 "mountains, except if they have units next to it. Any enemy unit that first "
 "discovers this unit immediately loses all its remaining movement."
 msgstr ""
+"Jednotka se dokáže skrýt v lesích, na kopcích a horách a zůstat nepozorována "
+"svými nepřáteli.\n"
+"    \n"
+"Nepřátelské jednotky nemohou tuto jednotku spatřit v lesích, na kopcích a "
+"horách, pouze jsou-li na sousedních polích.  Nepřátelská jednotka, která ji "
+"nalezne jako první, ztrácí všechny své zbývající body pohybu."
 
 #. [leadership]: id=guerrilla inspire
 #: Saga_of_James/macros/abilities.cfg:26
@@ -2737,6 +2778,11 @@ msgid ""
 "\n"
 "A unit sustained by this elementalist may heal up to 4 HP per turn."
 msgstr ""
+"Jednotka dokáže ošetřit spřátelené elementální konstrukty na sousedících "
+"polích na začátku tahu.\n"
+"\n"
+"Jednotka udržovaná tímto elementalistou se může za jeden tah vyléčit až o 4 "
+"životy."
 
 #. [heals]: id=healing
 #: Saga_of_James/macros/abilities.cfg:72
@@ -2756,6 +2802,11 @@ msgid ""
 "\n"
 "A unit sustained by this elementalist may heal up to 8 HP per turn."
 msgstr ""
+"Jednotka dokáže ošetřit spřátelené elementální konstrukty na sousedících "
+"polích na začátku tahu.\n"
+"\n"
+"Jednotka udržovaná tímto elementalistou se může za jeden tah vyléčit až o 8 "
+"životů."
 
 #. [resistance]: id=hardiness
 #: Saga_of_James/macros/abilities.cfg:92
