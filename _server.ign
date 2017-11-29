@@ -22,9 +22,3 @@ Thumbs.db
 *.wesnoth
 *.project
 build.xml
-/demons
-/volume2
-/volume3
-/volume4
-/test
-demon*.*
