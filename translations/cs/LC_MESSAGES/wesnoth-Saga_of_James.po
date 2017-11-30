@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Saga_of_James-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-11-29 13:16+0100\n"
+"POT-Creation-Date: 2017-11-30 14:08+0100\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Jakub Konečný <jakub.konecny2@centrum.cz>\n"
 "Language-Team: \n"
@@ -1352,7 +1352,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Aleixo
-#: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:170
+#: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:174
 msgid ""
 "No! An army of orcs is coming to us. The nagas must've sent a messenger to "
 "them. We can't handle them, everything is lost."
@@ -1934,12 +1934,12 @@ msgid ""
 msgstr ""
 
 #. [unit_type]: id=Guerrilla Warrior
-#: Saga_of_James/units/human-outlaws/guerrilla.cfg:43
+#: Saga_of_James/units/human-outlaws/guerrilla.cfg:30
 msgid "Guerrilla Warrior"
 msgstr "Partyzán válečník"
 
 #. [unit_type]: id=Guerrilla Warrior
-#: Saga_of_James/units/human-outlaws/guerrilla.cfg:50
+#: Saga_of_James/units/human-outlaws/guerrilla.cfg:37
 msgid ""
 "All around the world, a sword is an expensive luxury what most of the people "
 "cannot afford and this is not different in wilderness of the Northlands. "
@@ -1948,17 +1948,17 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=impact
-#: Saga_of_James/units/human-outlaws/guerrilla.cfg:74
+#: Saga_of_James/units/human-outlaws/guerrilla.cfg:49
 msgid "bolas"
 msgstr "bola"
 
 #. [unit_type]: id=Guerrilla Assassin
-#: Saga_of_James/units/human-outlaws/guerrilla.cfg:88
+#: Saga_of_James/units/human-outlaws/guerrilla.cfg:63
 msgid "Slayer"
 msgstr "Zabiják"
 
 #. [unit_type]: id=Guerrilla Assassin
-#: Saga_of_James/units/human-outlaws/guerrilla.cfg:101
+#: Saga_of_James/units/human-outlaws/guerrilla.cfg:76
 msgid ""
 "Some partisans found themselves liking fighting under mask of night and "
 "striking their enemies from behind. They replaced their bows with knives "
@@ -1966,12 +1966,12 @@ msgid ""
 msgstr ""
 
 #. [unit_type]: id=Guerrilla Leader
-#: Saga_of_James/units/human-outlaws/guerrilla.cfg:131
+#: Saga_of_James/units/human-outlaws/guerrilla.cfg:89
 msgid "Guerrilla Leader"
 msgstr "Vůdce partyzánů"
 
 #. [unit_type]: id=Guerrilla Leader
-#: Saga_of_James/units/human-outlaws/guerrilla.cfg:149
+#: Saga_of_James/units/human-outlaws/guerrilla.cfg:107
 msgid ""
 "Leaders of partisans do not raise from the strongest ones, rather from the "
 "wisest ones with natural ability to lead. And this is their task - they plan "
@@ -1980,7 +1980,7 @@ msgid ""
 msgstr ""
 
 #. [unit_type]: id=Guerrilla Leader
-#: Saga_of_James/units/human-outlaws/guerrilla.cfg:149
+#: Saga_of_James/units/human-outlaws/guerrilla.cfg:107
 msgid ""
 " The leadership of this unit enables adjacent units of the same side to deal "
 "more damage in combat, though this only applies to fellow partisans."
@@ -2002,18 +2002,8 @@ msgstr ""
 "magii. Přestože jsou slabší než ostatní trollové, jejich výrazná dovednost s "
 "ohnivou magií by neměla být podceňována."
 
-#. [attack]: type=impact
-#: Saga_of_James/units/trolls/Mystic.cfg:32
-msgid "fist"
-msgstr "pěst"
-
-#. [attack]: type=fire
-#: Saga_of_James/units/trolls/Mystic.cfg:42
-msgid "flame blast"
-msgstr ""
-
-#. [attack]: type=impact
-#: Saga_of_James/units/monsters/Dragon_Lord.cfg:26
+#. [attack]
+#: Saga_of_James/units/monsters/Dragon_Lord.cfg:19
 msgid "snap"
 msgstr ""
 
@@ -2037,16 +2027,14 @@ msgid ""
 msgstr ""
 
 #. [advancement]: id=lightbeam
-#. [advancement]: id=magic
 #: Saga_of_James/units/heroes/Celestial_Messenger.cfg:198
-#: Saga_of_James/units/heroes/Mystic.cfg:397
-msgid "better with magic"
-msgstr "lepší s magií"
+msgid "doing more damage with lightbeam"
+msgstr "způsobující větší škodu paprskem světla"
 
 #. [advancement]: id=mace
 #: Saga_of_James/units/heroes/Celestial_Messenger.cfg:213
-msgid "better with mace"
-msgstr "lepší s řemdlichem"
+msgid "doing more damage with mace"
+msgstr "způsobující větší škodu řemdlichem"
 
 #. [advancement]: id=health
 #: Saga_of_James/units/heroes/Celestial_Messenger.cfg:228
@@ -2097,29 +2085,29 @@ msgstr ""
 
 #. [advancement]: id=fireball
 #: Saga_of_James/units/heroes/Mage_Elder.cfg:108
-msgid "better with fireball"
-msgstr "lepší s ohnivou koulí"
+msgid "doing more damage with fireball"
+msgstr "způsobující větší škodu ohnivou koulí"
 
 #. [advancement]: id=lightning
 #: Saga_of_James/units/heroes/Mage_Elder.cfg:123
-msgid "better with lightning"
-msgstr "lepší s bleskem"
+msgid "doing more damage with lightning"
+msgstr "způsobující větší škodu bleskem"
 
 #. [advancement]: id=staff
 #: Saga_of_James/units/heroes/Mage_Elder.cfg:138
 #: Saga_of_James/units/heroes/Mystic.cfg:521
-msgid "better with staff"
-msgstr "lepší s holí"
+msgid "doing more damage with staff"
+msgstr "způsobující větší škodu holí"
 
 #. [advancement]: id=ethereal storm
 #: Saga_of_James/units/heroes/Elvish_Avatar.cfg:50
-msgid "better with ethereal storm"
-msgstr "lepší s éterickou bouří"
+msgid "doing more damage with ethereal storm"
+msgstr "způsobující větší škodu éterickou bouří"
 
 #. [advancement]: id=gossamer
 #: Saga_of_James/units/heroes/Elvish_Avatar.cfg:65
-msgid "better with gossamer"
-msgstr "lepší s pavučinkou"
+msgid "doing more damage with gossamer"
+msgstr "způsobující větší škodu pavučinkou"
 
 #. [advancement]: id=faerie touch
 #: Saga_of_James/units/heroes/Elvish_Avatar.cfg:80
@@ -2152,8 +2140,8 @@ msgstr "Lovkyně Mistr"
 
 #. [advancement]: id=bow
 #: Saga_of_James/units/heroes/Woodswoman.cfg:426
-msgid "better with bow"
-msgstr "lepší s lukem"
+msgid "doing more damage with bow"
+msgstr "způsobující větší škodu lukem"
 
 #. [advancement]: id=bow_speed
 #: Saga_of_James/units/heroes/Woodswoman.cfg:441
@@ -2167,8 +2155,8 @@ msgstr "přesnější s lukem"
 
 #. [advancement]: id=sword
 #: Saga_of_James/units/heroes/Woodswoman.cfg:474
-msgid "better with sword"
-msgstr "lepší s mečem"
+msgid "doing more damage with sword"
+msgstr "způsobující větší škodu mečem"
 
 #. [advancement]: id=sword_speed
 #: Saga_of_James/units/heroes/Woodswoman.cfg:489
@@ -2182,7 +2170,7 @@ msgstr "houževnatější"
 
 #. [advancement]: id=block
 #: Saga_of_James/units/heroes/Woodswoman.cfg:518
-msgid "better at defending"
+msgid "female^better at defending"
 msgstr "lépe se bránící"
 
 #. [unit_type]: id=Elemental Wizard, race=human
@@ -2295,10 +2283,15 @@ msgid ""
 "highly resistant to non-physical damage."
 msgstr "Mystici mají vysokou odolnost proti mnoha formám magie."
 
+#. [advancement]: id=magic
+#: Saga_of_James/units/heroes/Mystic.cfg:397
+msgid "doing more damage with spells"
+msgstr "způsobující větší škodu kouzly"
+
 #. [advancement]: id=magic_speed
 #: Saga_of_James/units/heroes/Mystic.cfg:415
-msgid "faster with magic"
-msgstr "rychlejší s magií"
+msgid "casting spells faster"
+msgstr "sesílající kouzla rychleji"
 
 #. [advancement]: id=magic_theory
 #: Saga_of_James/units/heroes/Mystic.cfg:434
@@ -2318,7 +2311,7 @@ msgstr "ještě více obeznámený s magickými teoriemi"
 
 #. [advancement]: id=fireball
 #: Saga_of_James/units/heroes/Mystic.cfg:456
-#: Saga_of_James/units/heroes/Mystic.cfg:957
+#: Saga_of_James/units/heroes/Mystic.cfg:923
 msgid "able to cast fireball"
 msgstr "schopný seslat ohnivou kouli"
 
@@ -2329,7 +2322,7 @@ msgstr ""
 
 #. [advancement]: id=chill
 #: Saga_of_James/units/heroes/Mystic.cfg:488
-#: Saga_of_James/units/heroes/Mystic.cfg:905
+#: Saga_of_James/units/heroes/Mystic.cfg:888
 msgid "able to cast chill tempest"
 msgstr "schopný seslat mrazivou bouři"
 
@@ -2368,8 +2361,8 @@ msgstr "schopný použít kouzelný oheň"
 #. [advancement]: id=faerie_fire3
 #: Saga_of_James/units/heroes/Mystic.cfg:612
 #: Saga_of_James/units/heroes/Mystic.cfg:627
-msgid "better with faerie fire"
-msgstr "lepší s kouzelným ohňem"
+msgid "doing more damage with faerie fire"
+msgstr "způsobující více škody s kouzelným ohňem"
 
 #. [advancement]: id=forests
 #: Saga_of_James/units/heroes/Mystic.cfg:642
@@ -2441,12 +2434,12 @@ msgid "Fireball"
 msgstr "Ohnivá koule"
 
 #. [variation]
-#: Saga_of_James/units/heroes/Mystic.cfg:918
+#: Saga_of_James/units/heroes/Mystic.cfg:901
 msgid "Chill"
 msgstr "Mrazivá bouře"
 
 #. [variation]
-#: Saga_of_James/units/heroes/Mystic.cfg:970
+#: Saga_of_James/units/heroes/Mystic.cfg:936
 msgid "Fireball + Chill"
 msgstr "Ohnivá koule + Mrazivá bouře"
 
@@ -2910,6 +2903,45 @@ msgstr ""
 "\n"
 "\n"
 "Verze:"
+
+#~ msgid "fist"
+#~ msgstr "pěst"
+
+#~ msgid "better with magic"
+#~ msgstr "lepší s magií"
+
+#~ msgid "better with mace"
+#~ msgstr "lepší s řemdlichem"
+
+#~ msgid "better with fireball"
+#~ msgstr "lepší s ohnivou koulí"
+
+#~ msgid "better with lightning"
+#~ msgstr "lepší s bleskem"
+
+#~ msgid "better with staff"
+#~ msgstr "lepší s holí"
+
+#~ msgid "better with ethereal storm"
+#~ msgstr "lepší s éterickou bouří"
+
+#~ msgid "better with gossamer"
+#~ msgstr "lepší s pavučinkou"
+
+#~ msgid "better with bow"
+#~ msgstr "lepší s lukem"
+
+#~ msgid "better with sword"
+#~ msgstr "lepší s mečem"
+
+#~ msgid "better at defending"
+#~ msgstr "lépe se bránící"
+
+#~ msgid "faster with magic"
+#~ msgstr "rychlejší s magií"
+
+#~ msgid "better with faerie fire"
+#~ msgstr "lepší s kouzelným ohňem"
 
 #~ msgid ""
 #~ "Once the trolls and wolf riders were defeated, the party wasted no time "

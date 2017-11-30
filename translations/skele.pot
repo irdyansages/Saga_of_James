@@ -2,8 +2,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Saga_of_James-1.12\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-11-29 12:15 UTC\n"
+"POT-Creation-Date: 2017-11-30 13:07 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1014,7 +1016,7 @@ msgid "What issss that? Humanssss? Look like ssssome hunterssss and magesss. The
 msgstr ""
 
 #. [message]: speaker=Aleixo
-#: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:170
+#: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:174
 msgid "No! An army of orcs is coming to us. The nagas must've sent a messenger to them. We can't handle them, everything is lost."
 msgstr ""
 
@@ -1390,42 +1392,42 @@ msgid "When the orcs came into humans' lands, not all people gave up. Some ones,
 msgstr ""
 
 #. [unit_type]: id=Guerrilla Warrior
-#: Saga_of_James/units/human-outlaws/guerrilla.cfg:43
+#: Saga_of_James/units/human-outlaws/guerrilla.cfg:30
 msgid "Guerrilla Warrior"
 msgstr ""
 
 #. [unit_type]: id=Guerrilla Warrior
-#: Saga_of_James/units/human-outlaws/guerrilla.cfg:50
+#: Saga_of_James/units/human-outlaws/guerrilla.cfg:37
 msgid "All around the world, a sword is an expensive luxury what most of the people cannot afford and this is not different in wilderness of the Northlands. Because of this fact, only the strongest partisans who gained enough experiences are given this weapon."
 msgstr ""
 
 #. [attack]: type=impact
-#: Saga_of_James/units/human-outlaws/guerrilla.cfg:74
+#: Saga_of_James/units/human-outlaws/guerrilla.cfg:49
 msgid "bolas"
 msgstr ""
 
 #. [unit_type]: id=Guerrilla Assassin
-#: Saga_of_James/units/human-outlaws/guerrilla.cfg:88
+#: Saga_of_James/units/human-outlaws/guerrilla.cfg:63
 msgid "Slayer"
 msgstr ""
 
 #. [unit_type]: id=Guerrilla Assassin
-#: Saga_of_James/units/human-outlaws/guerrilla.cfg:101
+#: Saga_of_James/units/human-outlaws/guerrilla.cfg:76
 msgid "Some partisans found themselves liking fighting under mask of night and striking their enemies from behind. They replaced their bows with knives impregnated with poison. Their task is to poison strong orcs and run away."
 msgstr ""
 
 #. [unit_type]: id=Guerrilla Leader
-#: Saga_of_James/units/human-outlaws/guerrilla.cfg:131
+#: Saga_of_James/units/human-outlaws/guerrilla.cfg:89
 msgid "Guerrilla Leader"
 msgstr ""
 
 #. [unit_type]: id=Guerrilla Leader
-#: Saga_of_James/units/human-outlaws/guerrilla.cfg:149
+#: Saga_of_James/units/human-outlaws/guerrilla.cfg:107
 msgid "Leaders of partisans do not raise from the strongest ones, rather from the wisest ones with natural ability to lead. And this is their task - they plan raids on the orcs and coordinate the actions. If a commander falls, the war is lost."
 msgstr ""
 
 #. [unit_type]: id=Guerrilla Leader
-#: Saga_of_James/units/human-outlaws/guerrilla.cfg:149
+#: Saga_of_James/units/human-outlaws/guerrilla.cfg:107
 msgid " The leadership of this unit enables adjacent units of the same side to deal more damage in combat, though this only applies to fellow partisans."
 msgstr ""
 
@@ -1439,18 +1441,8 @@ msgstr ""
 msgid "Troll Mystics are trolls, who are gifted with the ability to use magic. Though weak than other trolls, their considerable skill with their fire magic is not to be underestimated."
 msgstr ""
 
-#. [attack]: type=impact
-#: Saga_of_James/units/trolls/Mystic.cfg:32
-msgid "fist"
-msgstr ""
-
-#. [attack]: type=fire
-#: Saga_of_James/units/trolls/Mystic.cfg:42
-msgid "flame blast"
-msgstr ""
-
-#. [attack]: type=impact
-#: Saga_of_James/units/monsters/Dragon_Lord.cfg:26
+#. [attack]
+#: Saga_of_James/units/monsters/Dragon_Lord.cfg:19
 msgid "snap"
 msgstr ""
 
@@ -1468,15 +1460,13 @@ msgid ""
 msgstr ""
 
 #. [advancement]: id=lightbeam
-#. [advancement]: id=magic
 #: Saga_of_James/units/heroes/Celestial_Messenger.cfg:198
-#: Saga_of_James/units/heroes/Mystic.cfg:397
-msgid "better with magic"
+msgid "doing more damage with lightbeam"
 msgstr ""
 
 #. [advancement]: id=mace
 #: Saga_of_James/units/heroes/Celestial_Messenger.cfg:213
-msgid "better with mace"
+msgid "doing more damage with mace"
 msgstr ""
 
 #. [advancement]: id=health
@@ -1522,28 +1512,28 @@ msgstr ""
 
 #. [advancement]: id=fireball
 #: Saga_of_James/units/heroes/Mage_Elder.cfg:108
-msgid "better with fireball"
+msgid "doing more damage with fireball"
 msgstr ""
 
 #. [advancement]: id=lightning
 #: Saga_of_James/units/heroes/Mage_Elder.cfg:123
-msgid "better with lightning"
+msgid "doing more damage with lightning"
 msgstr ""
 
 #. [advancement]: id=staff
 #: Saga_of_James/units/heroes/Mage_Elder.cfg:138
 #: Saga_of_James/units/heroes/Mystic.cfg:521
-msgid "better with staff"
+msgid "doing more damage with staff"
 msgstr ""
 
 #. [advancement]: id=ethereal storm
 #: Saga_of_James/units/heroes/Elvish_Avatar.cfg:50
-msgid "better with ethereal storm"
+msgid "doing more damage with ethereal storm"
 msgstr ""
 
 #. [advancement]: id=gossamer
 #: Saga_of_James/units/heroes/Elvish_Avatar.cfg:65
-msgid "better with gossamer"
+msgid "doing more damage with gossamer"
 msgstr ""
 
 #. [advancement]: id=faerie touch
@@ -1573,7 +1563,7 @@ msgstr ""
 
 #. [advancement]: id=bow
 #: Saga_of_James/units/heroes/Woodswoman.cfg:426
-msgid "better with bow"
+msgid "doing more damage with bow"
 msgstr ""
 
 #. [advancement]: id=bow_speed
@@ -1588,7 +1578,7 @@ msgstr ""
 
 #. [advancement]: id=sword
 #: Saga_of_James/units/heroes/Woodswoman.cfg:474
-msgid "better with sword"
+msgid "doing more damage with sword"
 msgstr ""
 
 #. [advancement]: id=sword_speed
@@ -1603,7 +1593,7 @@ msgstr ""
 
 #. [advancement]: id=block
 #: Saga_of_James/units/heroes/Woodswoman.cfg:518
-msgid "better at defending"
+msgid "female^better at defending"
 msgstr ""
 
 #. [unit_type]: id=Elemental Wizard, race=human
@@ -1702,9 +1692,14 @@ msgstr ""
 msgid "SPECIAL_NOTE^Mystics are well-attuned to their magical natures and are highly resistant to non-physical damage."
 msgstr ""
 
+#. [advancement]: id=magic
+#: Saga_of_James/units/heroes/Mystic.cfg:397
+msgid "doing more damage with spells"
+msgstr ""
+
 #. [advancement]: id=magic_speed
 #: Saga_of_James/units/heroes/Mystic.cfg:415
-msgid "faster with magic"
+msgid "casting spells faster"
 msgstr ""
 
 #. [advancement]: id=magic_theory
@@ -1722,7 +1717,7 @@ msgstr ""
 
 #. [advancement]: id=fireball
 #: Saga_of_James/units/heroes/Mystic.cfg:456
-#: Saga_of_James/units/heroes/Mystic.cfg:957
+#: Saga_of_James/units/heroes/Mystic.cfg:923
 msgid "able to cast fireball"
 msgstr ""
 
@@ -1733,7 +1728,7 @@ msgstr ""
 
 #. [advancement]: id=chill
 #: Saga_of_James/units/heroes/Mystic.cfg:488
-#: Saga_of_James/units/heroes/Mystic.cfg:905
+#: Saga_of_James/units/heroes/Mystic.cfg:888
 msgid "able to cast chill tempest"
 msgstr ""
 
@@ -1769,7 +1764,7 @@ msgstr ""
 #. [advancement]: id=faerie_fire3
 #: Saga_of_James/units/heroes/Mystic.cfg:612
 #: Saga_of_James/units/heroes/Mystic.cfg:627
-msgid "better with faerie fire"
+msgid "doing more damage with faerie fire"
 msgstr ""
 
 #. [advancement]: id=forests
@@ -1835,12 +1830,12 @@ msgid "Fireball"
 msgstr ""
 
 #. [variation]
-#: Saga_of_James/units/heroes/Mystic.cfg:918
+#: Saga_of_James/units/heroes/Mystic.cfg:901
 msgid "Chill"
 msgstr ""
 
 #. [variation]
-#: Saga_of_James/units/heroes/Mystic.cfg:970
+#: Saga_of_James/units/heroes/Mystic.cfg:936
 msgid "Fireball + Chill"
 msgstr ""
 
