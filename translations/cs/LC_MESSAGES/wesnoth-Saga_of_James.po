@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Saga_of_James-1.12\n"
+"Project-Id-Version: Saga_of_James-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-11-30 14:08+0100\n"
+"POT-Creation-Date: 2018-03-31 15:57+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Jakub Konečný <jakub.konecny2@centrum.cz>\n"
 "Language-Team: \n"
@@ -115,6 +115,8 @@ msgid ""
 "They probably know how to walk without leaving too much signs of their "
 "journey but we can look a bit farther if we'll see something else."
 msgstr ""
+"Nejspíš ví, jak se pohybovat bez toho, aby zanechali příliš mnoho stop po "
+"své pouti, ale můžeme se trochu dál, jestli uvidíme něco jiného."
 
 #. [message]: role=Supporter
 #: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:208
@@ -229,6 +231,8 @@ msgid ""
 "Intruders! Get out of our wood right now! Your kind already caused lot of "
 "damage here."
 msgstr ""
+"Vetřelci! Zmizte okamžitě z našeho lesa! Vaši lidé už tu způsobili velkou "
+"škodu."
 
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:323
@@ -245,6 +249,8 @@ msgid ""
 "You may tell the truth and you did not come to cause harm here but we do not "
 "want you to roam our home. So, please, leave us."
 msgstr ""
+"Možná říkáš pravdu a nepřišli jste škodit, ale my nechceme, abyste "
+"procházeli naším domovem. Takže, prosím, odejděte."
 
 #. [message]: role=ranger
 #: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:331
@@ -263,6 +269,10 @@ msgid ""
 "now this forest belongs to my chieftain. Surrender and you may serve him. "
 "Oppose and we'll kill you all without mercy!</b>"
 msgstr ""
+"Hezkou, velkou hromadu dřeva jste tu nanosili, pěšáci. Jsem si jistý, že to "
+"upoutalo pozornost, elfů. A teď to zapalte! ... Dobře! <b>Slyšte má slova, "
+"mrňavý elfové: tenhle les teď patří mému náčelníkovi. Vzdejte se a můžete mu "
+"sloužit. Vzdorujte a všechny vás bez milosti zabijeme.</b>"
 
 #. [message]: speaker=elf
 #: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:361
@@ -369,6 +379,8 @@ msgid ""
 "Their leader is dead at last and our wood is safe once again. But we could "
 "not make it without help of these humans. Please, accept our warm thanks."
 msgstr ""
+"Jejich vůdce je mrtvý a náš les je opět bezpečný. Ale nedokázali bychom to "
+"bez vaší pomoci, lidé. Prosím, příjměte naše vřelé díky."
 
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:452
@@ -404,7 +416,7 @@ msgstr ""
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:468
 msgid "Very well. Let us move on, everyone."
-msgstr ""
+msgstr "Dobrá. Všichni, pojďme dál."
 
 #. [message]: speaker=Belinda
 #: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:472
@@ -1335,12 +1347,12 @@ msgstr ""
 #. [message]: speaker=Aleixo
 #: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:118
 msgid "So it's decided. Let the battle begin."
-msgstr ""
+msgstr "Takže je rozhodnuto. Nechť bitva započne."
 
 #. [message]: speaker=second_unit
 #: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:148
 msgid "I think that I have been spotted."
-msgstr ""
+msgstr "Myslím, že si mě všimli."
 
 #. [message]: speaker=naga
 #: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:152
@@ -1353,6 +1365,35 @@ msgstr ""
 
 #. [message]: speaker=Aleixo
 #: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:174
+msgid "And that's it, the nagas are a history now. Excellent work, people."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:178
+msgid "Indeed. Your idea worked out really well, Belinda."
+msgstr ""
+
+#. [message]: speaker=Belinda
+#: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:182
+msgid "Oh, that was nothing, really."
+msgstr "Ále, to nic nebylo. Vážně."
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:186
+msgid "Anyway, where are we going now, Aleixo? Back to your village?"
+msgstr "Každopádně kam půjdeme teď, Aleixo? Zpět do vaší vesnice?"
+
+#. [message]: speaker=Aleixo
+#: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:190
+msgid ""
+"Yes, as we got rid of trolls, goblins and nagas, we can fight the orcs now. "
+"So get ready, everyone, we're leaving."
+msgstr ""
+"Ano. Když jsme se zbavili trollů, goblinů a nag, můžeme bojovat se skřety. "
+"Takže všichni se připravte, odcházíme."
+
+#. [message]: speaker=Aleixo
+#: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:198
 msgid ""
 "No! An army of orcs is coming to us. The nagas must've sent a messenger to "
 "them. We can't handle them, everything is lost."
@@ -1985,6 +2026,8 @@ msgid ""
 " The leadership of this unit enables adjacent units of the same side to deal "
 "more damage in combat, though this only applies to fellow partisans."
 msgstr ""
+"Schopnost velení této jednotky umožňuje sousedícím jednotkám stejné strany "
+"způsobit více poškození v souboji, ale vztahuje se to jen na další partyzány."
 
 #. [unit_type]: id=Troll Mystic, race=troll
 #: Saga_of_James/units/trolls/Mystic.cfg:5
@@ -2552,14 +2595,8 @@ msgid "curse"
 msgstr "prokletí"
 
 #. [unstore_unit]
-#: Saga_of_James/macros/abilities_events.cfg:150
-#: Saga_of_James/macros/abilities_events.cfg:180
-msgid "poisoned"
-msgstr "otrávený"
-
-#. [unstore_unit]
-#: Saga_of_James/macros/abilities_events.cfg:216
-#: Saga_of_James/macros/abilities_events.cfg:249
+#: Saga_of_James/macros/abilities_events.cfg:222
+#: Saga_of_James/macros/abilities_events.cfg:255
 msgid "$damage_dealt"
 msgstr "$damage_dealt"
 
@@ -2580,65 +2617,74 @@ msgid ""
 msgstr "Jaký druh elementála chceš vyvolat? Máš ještě $mana many."
 
 #. [option]
-#: Saga_of_James/macros/summoning.cfg:61
-msgid "&units/elementals/wisp.png=Wisp (level 0 unit) for 1 mana"
+#: Saga_of_James/macros/summoning.cfg:62
+msgid "Wisp (level 0 unit)"
 msgstr ""
 
 #. [option]
-#: Saga_of_James/macros/summoning.cfg:64
-msgid ""
-"&units/elementals/brazier-whelpling.png=Brazier Whelpling (level 0 fire "
-"elemental) for 1 mana"
-msgstr ""
+#: Saga_of_James/macros/summoning.cfg:63 Saga_of_James/macros/summoning.cfg:68
+msgid "for 1 mana"
+msgstr "za 1 manu"
 
 #. [option]
 #: Saga_of_James/macros/summoning.cfg:67
-msgid ""
-"&units/elementals/brazier-imp.png=Brazier Imp (fire elemental) for 2 mana"
+msgid "Brazier Whelpling (level 0 fire elemental)"
 msgstr ""
 
 #. [option]
-#: Saga_of_James/macros/summoning.cfg:70
-msgid "&units/elementals/kobold.png=Kobold (earth elemental) for 2 mana"
+#: Saga_of_James/macros/summoning.cfg:72
+msgid "Brazier Imp (fire elemental)"
 msgstr ""
 
 #. [option]
-#: Saga_of_James/macros/summoning.cfg:73
-msgid "&units/elementals/thunderbird.png=Razorbird for 2 mana"
-msgstr ""
+#: Saga_of_James/macros/summoning.cfg:73 Saga_of_James/macros/summoning.cfg:78
+#: Saga_of_James/macros/summoning.cfg:83 Saga_of_James/macros/summoning.cfg:88
+#: Saga_of_James/macros/summoning.cfg:93 Saga_of_James/macros/summoning.cfg:98
+msgid "for 2 mana"
+msgstr "za 2 many"
 
 #. [option]
-#: Saga_of_James/macros/summoning.cfg:76
-msgid "&units/elementals/sylph.png=Sylph (air elemental) for 2 mana"
-msgstr ""
-
-#. [option]
-#: Saga_of_James/macros/summoning.cfg:79
-msgid "&units/elementals/tidal.png=Tidal (water elemental) for 2 mana"
+#: Saga_of_James/macros/summoning.cfg:77
+msgid "Kobold (earth elemental)"
 msgstr ""
 
 #. [option]
 #: Saga_of_James/macros/summoning.cfg:82
-msgid "&units/elementals/vine-beast.png=Vine Beast for 2 mana"
+msgid "Razorbird"
 msgstr ""
 
 #. [option]
-#: Saga_of_James/macros/summoning.cfg:85
+#: Saga_of_James/macros/summoning.cfg:87
+msgid "Sylph (air elemental)"
+msgstr ""
+
+#. [option]
+#: Saga_of_James/macros/summoning.cfg:92
+msgid "Tidal (water elemental)"
+msgstr ""
+
+#. [option]
+#: Saga_of_James/macros/summoning.cfg:97
+msgid "Vine Beast"
+msgstr ""
+
+#. [option]
+#: Saga_of_James/macros/summoning.cfg:101
 msgid "None"
 msgstr "Žádný"
 
 #. [literal]: speaker=narrator
-#: Saga_of_James/macros/summoning.cfg:104
+#: Saga_of_James/macros/summoning.cfg:120
 msgid "Which unit would you like to recall?"
 msgstr "Kterou jednotku by jsi chtěl přivolat?"
 
 #. [event]
-#: Saga_of_James/macros/summoning.cfg:107
+#: Saga_of_James/macros/summoning.cfg:123
 msgid "unit_to_recall^None"
 msgstr "Žádnou"
 
 #. [value]
-#: Saga_of_James/macros/summoning.cfg:113
+#: Saga_of_James/macros/summoning.cfg:129
 msgid ""
 "&$recall_list[$i].image=$recall_list[$i].name - $recall_list[$i]."
 "language_name"
@@ -2819,6 +2865,8 @@ msgid ""
 "This unit can inspire own lawful units that are next to it, making them "
 "fight better. Adjacent own lawful units will do 15% more damage."
 msgstr ""
+"Tato jednotka dokáže inspirovat vlastní zákonné jednotky vedle sebe, takže "
+"bojují lépe. Sousedící vlastní zákonné jednotky způsobí o 15% více poškození."
 
 #. [leadership]: id=song_of_hope
 #: Saga_of_James/macros/abilities.cfg:163
@@ -2857,7 +2905,7 @@ msgstr ""
 "Když je tento útok použit, všechny jednotky sousedící s cílem utrží 75% "
 "poškození."
 
-#. [dummy]: id=poison_g
+#. [poison]: id=poison_g
 #: Saga_of_James/macros/abilities.cfg:215
 msgid ""
 "This attack poisons not only the living but also the undead. Poisoned units "
@@ -2903,6 +2951,9 @@ msgstr ""
 "\n"
 "\n"
 "Verze:"
+
+#~ msgid "poisoned"
+#~ msgstr "otrávený"
 
 #~ msgid "fist"
 #~ msgstr "pěst"

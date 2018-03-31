@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Saga_of_James-1.12\n"
+"Project-Id-Version: Saga_of_James-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2017-11-30 13:07 UTC\n"
+"POT-Creation-Date: 2018-03-31 13:56 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1017,6 +1017,31 @@ msgstr ""
 
 #. [message]: speaker=Aleixo
 #: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:174
+msgid "And that's it, the nagas are a history now. Excellent work, people."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:178
+msgid "Indeed. Your idea worked out really well, Belinda."
+msgstr ""
+
+#. [message]: speaker=Belinda
+#: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:182
+msgid "Oh, that was nothing, really."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:186
+msgid "Anyway, where are we going now, Aleixo? Back to your village?"
+msgstr ""
+
+#. [message]: speaker=Aleixo
+#: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:190
+msgid "Yes, as we got rid of trolls, goblins and nagas, we can fight the orcs now. So get ready, everyone, we're leaving."
+msgstr ""
+
+#. [message]: speaker=Aleixo
+#: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:198
 msgid "No! An army of orcs is coming to us. The nagas must've sent a messenger to them. We can't handle them, everything is lost."
 msgstr ""
 
@@ -1920,14 +1945,8 @@ msgid "curse"
 msgstr ""
 
 #. [unstore_unit]
-#: Saga_of_James/macros/abilities_events.cfg:150
-#: Saga_of_James/macros/abilities_events.cfg:180
-msgid "poisoned"
-msgstr ""
-
-#. [unstore_unit]
-#: Saga_of_James/macros/abilities_events.cfg:216
-#: Saga_of_James/macros/abilities_events.cfg:249
+#: Saga_of_James/macros/abilities_events.cfg:222
+#: Saga_of_James/macros/abilities_events.cfg:255
 msgid "$damage_dealt"
 msgstr ""
 
@@ -1947,62 +1966,78 @@ msgid "What kind of elemental would you like to summon? You have $mana mana left
 msgstr ""
 
 #. [option]
-#: Saga_of_James/macros/summoning.cfg:61
-msgid "&units/elementals/wisp.png=Wisp (level 0 unit) for 1 mana"
+#: Saga_of_James/macros/summoning.cfg:62
+msgid "Wisp (level 0 unit)"
 msgstr ""
 
 #. [option]
-#: Saga_of_James/macros/summoning.cfg:64
-msgid "&units/elementals/brazier-whelpling.png=Brazier Whelpling (level 0 fire elemental) for 1 mana"
+#: Saga_of_James/macros/summoning.cfg:63
+#: Saga_of_James/macros/summoning.cfg:68
+msgid "for 1 mana"
 msgstr ""
 
 #. [option]
 #: Saga_of_James/macros/summoning.cfg:67
-msgid "&units/elementals/brazier-imp.png=Brazier Imp (fire elemental) for 2 mana"
+msgid "Brazier Whelpling (level 0 fire elemental)"
 msgstr ""
 
 #. [option]
-#: Saga_of_James/macros/summoning.cfg:70
-msgid "&units/elementals/kobold.png=Kobold (earth elemental) for 2 mana"
+#: Saga_of_James/macros/summoning.cfg:72
+msgid "Brazier Imp (fire elemental)"
 msgstr ""
 
 #. [option]
 #: Saga_of_James/macros/summoning.cfg:73
-msgid "&units/elementals/thunderbird.png=Razorbird for 2 mana"
+#: Saga_of_James/macros/summoning.cfg:78
+#: Saga_of_James/macros/summoning.cfg:83
+#: Saga_of_James/macros/summoning.cfg:88
+#: Saga_of_James/macros/summoning.cfg:93
+#: Saga_of_James/macros/summoning.cfg:98
+msgid "for 2 mana"
 msgstr ""
 
 #. [option]
-#: Saga_of_James/macros/summoning.cfg:76
-msgid "&units/elementals/sylph.png=Sylph (air elemental) for 2 mana"
-msgstr ""
-
-#. [option]
-#: Saga_of_James/macros/summoning.cfg:79
-msgid "&units/elementals/tidal.png=Tidal (water elemental) for 2 mana"
+#: Saga_of_James/macros/summoning.cfg:77
+msgid "Kobold (earth elemental)"
 msgstr ""
 
 #. [option]
 #: Saga_of_James/macros/summoning.cfg:82
-msgid "&units/elementals/vine-beast.png=Vine Beast for 2 mana"
+msgid "Razorbird"
 msgstr ""
 
 #. [option]
-#: Saga_of_James/macros/summoning.cfg:85
+#: Saga_of_James/macros/summoning.cfg:87
+msgid "Sylph (air elemental)"
+msgstr ""
+
+#. [option]
+#: Saga_of_James/macros/summoning.cfg:92
+msgid "Tidal (water elemental)"
+msgstr ""
+
+#. [option]
+#: Saga_of_James/macros/summoning.cfg:97
+msgid "Vine Beast"
+msgstr ""
+
+#. [option]
+#: Saga_of_James/macros/summoning.cfg:101
 msgid "None"
 msgstr ""
 
 #. [literal]: speaker=narrator
-#: Saga_of_James/macros/summoning.cfg:104
+#: Saga_of_James/macros/summoning.cfg:120
 msgid "Which unit would you like to recall?"
 msgstr ""
 
 #. [event]
-#: Saga_of_James/macros/summoning.cfg:107
+#: Saga_of_James/macros/summoning.cfg:123
 msgid "unit_to_recall^None"
 msgstr ""
 
 #. [value]
-#: Saga_of_James/macros/summoning.cfg:113
+#: Saga_of_James/macros/summoning.cfg:129
 msgid "&$recall_list[$i].image=$recall_list[$i].name - $recall_list[$i].language_name"
 msgstr ""
 
@@ -2166,7 +2201,7 @@ msgstr ""
 msgid "When this attack is used, all units adjacent to the target take 75% of the damage."
 msgstr ""
 
-#. [dummy]: id=poison_g
+#. [poison]: id=poison_g
 #: Saga_of_James/macros/abilities.cfg:215
 msgid "This attack poisons not only the living but also the undead. Poisoned units lose 8 HP every turn until they are cured or are reduced to 1 HP. Poison cannot, of itself, kill a unit."
 msgstr ""
