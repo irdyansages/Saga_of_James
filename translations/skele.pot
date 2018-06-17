@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Saga_of_James-1.14\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-04-28 13:38 UTC\n"
+"POT-Creation-Date: 2018-06-17 11:27 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1949,9 +1949,21 @@ msgstr ""
 msgid "curse"
 msgstr ""
 
+#. [effect]
+#. [object]: id=hope_rod
+#: Saga_of_James/macros/misc.cfg:80
+#: Saga_of_James/macros/misc.cfg:63
+msgid "Rod of Hope"
+msgstr ""
+
+#. [object]: id=hope_rod
+#: Saga_of_James/macros/misc.cfg:66
+msgid "This rod is told to be made in ancient times, yet it looks like just some ten years old. It is certain that its magic protects it from rotting. A trained eye can easily tell its magical properties: it makes its bearer tougher and radiates an aura which increases nearby allies' courage so they do more damage. It is also made from a stronger tree than usual mages' staves so it does a bit more damage."
+msgstr ""
+
 #. [unstore_unit]
-#: Saga_of_James/macros/abilities_events.cfg:222
-#: Saga_of_James/macros/abilities_events.cfg:255
+#: Saga_of_James/macros/abilities_events.cfg:210
+#: Saga_of_James/macros/abilities_events.cfg:243
 msgid "$damage_dealt"
 msgstr ""
 
@@ -2044,6 +2056,26 @@ msgstr ""
 #. [value]
 #: Saga_of_James/macros/summoning.cfg:129
 msgid "&$recall_list[$i].image=$recall_list[$i].name - $recall_list[$i].language_name"
+msgstr ""
+
+#. [trait]: id=asexual
+#: Saga_of_James/macros/traits.cfg:6
+msgid "asexual"
+msgstr ""
+
+#. [trait]: id=asexual
+#: Saga_of_James/macros/traits.cfg:7
+msgid "female^asexual"
+msgstr ""
+
+#. [trait]: id=asexual
+#: Saga_of_James/macros/traits.cfg:8
+msgid "Immune to seduction"
+msgstr ""
+
+#. [trait]: id=asexual
+#: Saga_of_James/macros/traits.cfg:9
+msgid "Asexual units are not sexually attracted to others and as such are immune to any kind of seduction."
 msgstr ""
 
 #. [hides]: id=guerrilla warfare
