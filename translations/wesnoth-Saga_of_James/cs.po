@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Saga_of_James-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-10-15 15:40 UTC\n"
+"POT-Creation-Date: 2018-10-20 13:51 UTC\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Jakub Konečný <jakub.konecny2@centrum.cz>\n"
 "Language-Team: \n"
@@ -665,8 +665,8 @@ msgstr "Les elfů"
 #: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:20
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:21
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:48
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:21
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:70
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:22
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:71
 #: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:21
 msgid "team_name^Villagers"
 msgstr "Vesničané"
@@ -676,7 +676,7 @@ msgstr "Vesničané"
 #: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:24
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:25
 #: Saga_of_James/volume1/scenarios/06_Freedom.cfg:32
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:25
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:26
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:49
 #: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:25
 msgid "James"
@@ -715,7 +715,7 @@ msgstr "Poraz skřetího vůdce"
 #: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:72
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:112
 #: Saga_of_James/volume1/scenarios/06_Freedom.cfg:171
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:114
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:125
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:141
 #: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:105
 msgid "Death of James"
@@ -725,7 +725,7 @@ msgstr "James zemře"
 #: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:152
 #: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:76
 #: Saga_of_James/volume1/scenarios/06_Freedom.cfg:175
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:124
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:135
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:145
 msgid "Death of Belinda"
 msgstr "Belinda zemře"
@@ -1132,7 +1132,7 @@ msgstr "Aleixo zemře"
 #. [objective]: condition=lose
 #: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:84
 #: Saga_of_James/volume1/scenarios/06_Freedom.cfg:183
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:134
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:145
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:153
 msgid "Death of any village hunter"
 msgstr "Kterýkoliv vesnický lovec zemře"
@@ -1241,7 +1241,7 @@ msgstr "Nájezd"
 
 #. [side]: type=Lieutenant, id=Ligwyn
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:52
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:74
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:75
 msgid "Ligwyn"
 msgstr "Ligwyn"
 
@@ -1687,19 +1687,20 @@ msgid "Return"
 msgstr ""
 
 #. [side]: type=Death Baron, id=DeathBaron
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:45
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:46
 msgid "team_name^Undead"
 msgstr "Nemrtví"
 
 #. [objective]: condition=win
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:100
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:102
 msgid "Enter the village with a village hunter"
 msgstr "Vstup do vesnice s kterýmkoliv vesnickým lovcem"
 
 #. [objective]: condition=win
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:104
-msgid "and defeat all enemies"
-msgstr "a poraz všechny nepřátele"
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:112
+#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:122
+msgid "Defeat all enemies"
+msgstr "Poraz všechny nepřátele"
 
 #. [scenario]: id=04_Resistance
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:29
@@ -1710,11 +1711,6 @@ msgstr "Odboj"
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:72
 msgid "team_name^Occupiers"
 msgstr "Okupanti"
-
-#. [objective]: condition=win
-#: Saga_of_James/volume1/scenarios/04_Resistance.cfg:122
-msgid "Defeat all enemies"
-msgstr "Poraz všechny nepřátele"
 
 #. [objective]: condition=win
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:131
@@ -3058,6 +3054,9 @@ msgstr ""
 #: Saga_of_James/_main.cfg:24
 msgid "Version:"
 msgstr "Verze:"
+
+#~ msgid "and defeat all enemies"
+#~ msgstr "a poraz všechny nepřátele"
 
 #~ msgid "poisoned"
 #~ msgstr "otrávený"
