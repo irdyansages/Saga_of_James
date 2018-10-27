@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Saga_of_James-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-10-20 13:51 UTC\n"
+"POT-Creation-Date: 2018-10-27 15:17 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1107,7 +1107,7 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:193
-msgid "The protagonist of this campaign advances into a Silver Mage a then into an unique level 4 unit. He may seem weaker than your other units but at his maximum level he will be able to take quite a lot of advancements which will improve his stats and learn his new abilities and attacks (though some of them will become available in later chapters). The abilities and spells what he can learn are very various and some of them may be useful only under certain circumstances."
+msgid "The protagonist of this campaign advances into a Silver Mage a then into an unique level 4 unit. He may seem weaker than your other units but at his maximum level he will be able to take quite a lot of advancements which will improve his stats and teach him new abilities and attacks (though some of them will become available in later chapters). The abilities and spells that he can learn are very various and some of them may be useful only under certain circumstances."
 msgstr ""
 
 #. [message]: speaker=narrator
@@ -1960,12 +1960,22 @@ msgid "Hard"
 msgstr ""
 
 #. [campaign]: id=SagaI
-#: Saga_of_James/volume1/_main.cfg:22
+#: Saga_of_James/volume1/_main.cfg:19
+msgid "Demigod"
+msgstr ""
+
+#. [campaign]: id=SagaI
+#: Saga_of_James/volume1/_main.cfg:19
+msgid "Nightmare"
+msgstr ""
+
+#. [campaign]: id=SagaI
+#: Saga_of_James/volume1/_main.cfg:23
 msgid "Let me tell you the tale of the greatest sage of the Northlands, James of Penrhyn. It began in his home village which lied near the frontiers of the earldom and was often threatened by bandits. But much stronger and darker enemies were about to leave the shadows and start performing their schemes. Also powers of past times should be awaken from their slumber ... James may just completed his studies of magic arts but he was the only one who could save his fellow villagers from all these dangers ... Watch his great battles and his path to power and wisdom."
 msgstr ""
 
 #. [campaign]: id=SagaI
-#: Saga_of_James/volume1/_main.cfg:22
+#: Saga_of_James/volume1/_main.cfg:23
 msgid ""
 "\n"
 "\n"
@@ -1973,12 +1983,12 @@ msgid ""
 msgstr ""
 
 #. [campaign]: id=SagaI
-#: Saga_of_James/volume1/_main.cfg:28
+#: Saga_of_James/volume1/_main.cfg:29
 msgid "To be continued ..."
 msgstr ""
 
 #. [about]
-#: Saga_of_James/volume1/_main.cfg:30
+#: Saga_of_James/volume1/_main.cfg:31
 msgid "Campaign Design"
 msgstr ""
 

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Saga_of_James-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-10-20 13:51 UTC\n"
+"POT-Creation-Date: 2018-10-27 15:17 UTC\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Jakub Konečný <jakub.konecny2@centrum.cz>\n"
 "Language-Team: \n"
@@ -1388,8 +1388,8 @@ msgid ""
 "The protagonist of this campaign advances into a Silver Mage a then into an "
 "unique level 4 unit. He may seem weaker than your other units but at his "
 "maximum level he will be able to take quite a lot of advancements which will "
-"improve his stats and learn his new abilities and attacks (though some of "
-"them will become available in later chapters). The abilities and spells what "
+"improve his stats and teach him new abilities and attacks (though some of "
+"them will become available in later chapters). The abilities and spells that "
 "he can learn are very various and some of them may be useful only under "
 "certain circumstances."
 msgstr ""
@@ -2629,7 +2629,17 @@ msgid "Hard"
 msgstr "Těžká"
 
 #. [campaign]: id=SagaI
-#: Saga_of_James/volume1/_main.cfg:22
+#: Saga_of_James/volume1/_main.cfg:19
+msgid "Demigod"
+msgstr "Polobůh"
+
+#. [campaign]: id=SagaI
+#: Saga_of_James/volume1/_main.cfg:19
+msgid "Nightmare"
+msgstr "Nehratelná"
+
+#. [campaign]: id=SagaI
+#: Saga_of_James/volume1/_main.cfg:23
 msgid ""
 "Let me tell you the tale of the greatest sage of the Northlands, James of "
 "Penrhyn. It began in his home village which lied near the frontiers of the "
@@ -2642,7 +2652,7 @@ msgid ""
 msgstr ""
 
 #. [campaign]: id=SagaI
-#: Saga_of_James/volume1/_main.cfg:22
+#: Saga_of_James/volume1/_main.cfg:23
 msgid ""
 "\n"
 "\n"
@@ -2653,12 +2663,12 @@ msgstr ""
 "(Obtížnost: pokročilý hráč, 5 scénářů, ve vývoji)"
 
 #. [campaign]: id=SagaI
-#: Saga_of_James/volume1/_main.cfg:28
+#: Saga_of_James/volume1/_main.cfg:29
 msgid "To be continued ..."
 msgstr "Pokračování příště ..."
 
 #. [about]
-#: Saga_of_James/volume1/_main.cfg:30
+#: Saga_of_James/volume1/_main.cfg:31
 msgid "Campaign Design"
 msgstr "Návrh tažení"
 
