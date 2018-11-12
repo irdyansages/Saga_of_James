@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Saga_of_James-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-10-27 15:17 UTC\n"
+"POT-Creation-Date: 2018-11-12 08:30 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1856,7 +1856,7 @@ msgstr ""
 
 #. [part]
 #: Saga_of_James/volume1/utils/story.cfg:81
-msgid "Once the nagas were a history, the party started their march back to the vilage. This time, they did not have to watch out for enemies so James had some time to chat with Belinda. He could fully take notice of how she was different from anyone he has met before. She was used to figthing but also genuinely kind (at least to him). He was starting to like this woman."
+msgid "Once the nagas were a history, the party started their march back to the village. This time, they did not have to watch out for enemies so James had some time to chat with Belinda. He could fully take notice of how she was different from anyone he has met before. She was used to fighting but also genuinely kind (at least to him). He was starting to like this woman."
 msgstr ""
 
 #. [part]
