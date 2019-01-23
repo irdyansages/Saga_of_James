@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Saga_of_James-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-11-12 08:30 UTC\n"
+"POT-Creation-Date: 2019-01-23 13:27 UTC\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Jakub Konečný <jakub.konecny2@centrum.cz>\n"
 "Language-Team: \n"
@@ -64,18 +64,9 @@ msgstr "Křižák"
 #. [unit_type]: id=Mystic, race=human
 #: Saga_of_James/units/human-mages/Crusader.cfg:26
 #: Saga_of_James/units/human-mages/Abbot.cfg:25
-#: Saga_of_James/units/heroes/Mystic.cfg:107
+#: Saga_of_James/units/heroes/Mystic.cfg:47
 msgid "TODO."
 msgstr "TODO."
-
-#. [unit_type]: id=Crusader, race=human
-#: Saga_of_James/units/human-mages/Crusader.cfg:26
-msgid ""
-" The leadership of this unit enables adjacent lafwul units of the same side "
-"to deal more damage in combat."
-msgstr ""
-"Schopnost velení této jednotky umožňuje zákonným jednotkám stejné strany v "
-"její těsné blízkosti způsobovat v boji větší poškození."
 
 #. [attack]: type=fire
 #: Saga_of_James/units/human-mages/Crusader.cfg:61
@@ -91,15 +82,6 @@ msgstr "Křižačka"
 #: Saga_of_James/units/human-mages/Abbot.cfg:5
 msgid "Abbot"
 msgstr "Opat"
-
-#. [unit_type]: id=Abbot, race=human
-#: Saga_of_James/units/human-mages/Abbot.cfg:25
-msgid ""
-" Adjacent units of the same allegiance have their resistances increased by "
-"the sole presence of this unit."
-msgstr ""
-"Sousední jednotky stejné příslušnosti mají své odolnosti zvýšené díky pouhé "
-"přítomnosti této jednotky."
 
 #. [female]
 #: Saga_of_James/units/human-mages/Abbot.cfg:104
@@ -129,15 +111,15 @@ msgstr "způsobující větší škodu bleskem"
 
 #. [advancement]: id=staff
 #: Saga_of_James/units/heroes/Mage_Elder.cfg:138
-#: Saga_of_James/units/heroes/Mystic.cfg:522
+#: Saga_of_James/units/heroes/Mystic.cfg:462
 msgid "doing more damage with staff"
 msgstr "způsobující větší škodu holí"
 
 #. [advancement]: id=health
 #: Saga_of_James/units/heroes/Mage_Elder.cfg:153
 #: Saga_of_James/units/heroes/Elvish_Avatar.cfg:95
-#: Saga_of_James/units/heroes/Celestial_Messenger.cfg:228
-#: Saga_of_James/units/heroes/Mystic.cfg:687
+#: Saga_of_James/units/heroes/Celestial_Messenger.cfg:230
+#: Saga_of_James/units/heroes/Mystic.cfg:627
 msgid "more healthy"
 msgstr "zdravější"
 
@@ -145,8 +127,8 @@ msgstr "zdravější"
 #: Saga_of_James/units/heroes/Mage_Elder.cfg:167
 #: Saga_of_James/units/heroes/Woodswoman.cfg:548
 #: Saga_of_James/units/heroes/Elvish_Avatar.cfg:109
-#: Saga_of_James/units/heroes/Celestial_Messenger.cfg:304
-#: Saga_of_James/units/heroes/Mystic.cfg:748
+#: Saga_of_James/units/heroes/Celestial_Messenger.cfg:306
+#: Saga_of_James/units/heroes/Mystic.cfg:688
 msgid "faster"
 msgstr "rychlejší"
 
@@ -168,33 +150,28 @@ msgstr ""
 
 #. [attack]: type=fire
 #: Saga_of_James/units/heroes/Elementalist.cfg:58
-#: Saga_of_James/units/heroes/Elementalist.cfg:331
 msgid "infernal fire"
 msgstr "pekelný oheň"
 
 #. [heal_on_hit]: id=fire_heal_on_hit
 #: Saga_of_James/units/heroes/Elementalist.cfg:68
-#: Saga_of_James/units/heroes/Elementalist.cfg:341
 msgid "heal on hit"
 msgstr "léčení při zásahu"
 
 #. [heal_on_hit]: id=fire_heal_on_hit
 #: Saga_of_James/units/heroes/Elementalist.cfg:69
-#: Saga_of_James/units/heroes/Elementalist.cfg:342
 msgid "Whenever this attack hits, the attacker heals himself for 3 hitpoints."
 msgstr "Kdykoliv tento útok zasáhne, útočník si vyléčí 3 životy."
 
 #. [attack]: type=cold
 #: Saga_of_James/units/heroes/Elementalist.cfg:78
-#: Saga_of_James/units/heroes/Elementalist.cfg:351
 msgid "arctic tempest"
 msgstr "polární bouře"
 
 #. [attack]: type=arcane
 #. [effect]: type=arcane
 #: Saga_of_James/units/heroes/Elementalist.cfg:91
-#: Saga_of_James/units/heroes/Elementalist.cfg:364
-#: Saga_of_James/units/heroes/Mystic.cfg:841
+#: Saga_of_James/units/heroes/Mystic.cfg:781
 msgid "ethereal storm"
 msgstr "éterická bouře"
 
@@ -229,13 +206,13 @@ msgid "Any unit that attacks this unit suffers two points of fire damage."
 msgstr ""
 "Kterákoliv jednotka, která napadne tuto, utrpí 2 body ohnivého poškození."
 
-#. [unit_type]: id=Dark Elementalist, race=human
+#. [unit_type]: id=Dark Elementalist
 #: Saga_of_James/units/heroes/Elementalist.cfg:299
 msgid "Dark Elementalist"
 msgstr "Temný elementalista"
 
-#. [unit_type]: id=Dark Elementalist, race=human
-#: Saga_of_James/units/heroes/Elementalist.cfg:312
+#. [unit_type]: id=Dark Elementalist
+#: Saga_of_James/units/heroes/Elementalist.cfg:305
 msgid ""
 "This man have mastered elemental magic but decided to use his powers in "
 "services of an evil master. He is his most trusted servant and now was asked "
@@ -319,12 +296,12 @@ msgid "better at melee combat"
 msgstr "lepší v souboji na blízko"
 
 #. [unit_type]: id=Cateline_Celestial_Messenger, race=human
-#: Saga_of_James/units/heroes/Celestial_Messenger.cfg:29
+#: Saga_of_James/units/heroes/Celestial_Messenger.cfg:31
 msgid "female^Celestial Messenger"
 msgstr ""
 
 #. [unit_type]: id=Cateline_Celestial_Messenger, race=human
-#: Saga_of_James/units/heroes/Celestial_Messenger.cfg:57
+#: Saga_of_James/units/heroes/Celestial_Messenger.cfg:59
 msgid ""
 "Elves are known to walk occasionally the path of faerie, that transforms "
 "their bodies and gives them power. Humans have a similar heritage, tied to "
@@ -338,59 +315,59 @@ msgid ""
 msgstr ""
 
 #. [advancement]: id=lightbeam
-#: Saga_of_James/units/heroes/Celestial_Messenger.cfg:198
+#: Saga_of_James/units/heroes/Celestial_Messenger.cfg:200
 msgid "doing more damage with lightbeam"
 msgstr "způsobující větší škodu paprskem světla"
 
 #. [advancement]: id=mace
-#: Saga_of_James/units/heroes/Celestial_Messenger.cfg:213
+#: Saga_of_James/units/heroes/Celestial_Messenger.cfg:215
 msgid "doing more damage with mace"
 msgstr "způsobující větší škodu řemdlichem"
 
 #. [advancement]: id=shield
-#: Saga_of_James/units/heroes/Celestial_Messenger.cfg:242
+#: Saga_of_James/units/heroes/Celestial_Messenger.cfg:244
 msgid ""
 "female^able to make allies resist damage better\n"
 "(15% to resistances)"
 msgstr ""
 
 #. [advancement]: id=shield2
-#: Saga_of_James/units/heroes/Celestial_Messenger.cfg:259
+#: Saga_of_James/units/heroes/Celestial_Messenger.cfg:261
 msgid ""
 "female^able to make allies resist damage better\n"
 "(20% to resistances)"
 msgstr ""
 
 #. [advancement]: id=healing
-#: Saga_of_James/units/heroes/Celestial_Messenger.cfg:282
+#: Saga_of_James/units/heroes/Celestial_Messenger.cfg:284
 msgid "female^able to heal allies more"
 msgstr "schopná léčit více spojence"
 
 #. [unit_type]: id=Mystic, race=human
 #. [campaign]: id=SagaI
-#: Saga_of_James/units/heroes/Mystic.cfg:87 Saga_of_James/volume1/_main.cfg:18
+#: Saga_of_James/units/heroes/Mystic.cfg:27 Saga_of_James/volume1/_main.cfg:18
 msgid "Mystic"
 msgstr "Mystik"
 
 #. [unit_type]: id=Mystic, race=human
-#: Saga_of_James/units/heroes/Mystic.cfg:107
+#: Saga_of_James/units/heroes/Mystic.cfg:47
 msgid ""
 "SPECIAL_NOTE^Mystics are well-attuned to their magical natures and are "
 "highly resistant to non-physical damage."
 msgstr "Mystici mají vysokou odolnost proti mnoha formám magie."
 
 #. [advancement]: id=magic
-#: Saga_of_James/units/heroes/Mystic.cfg:398
+#: Saga_of_James/units/heroes/Mystic.cfg:338
 msgid "doing more damage with spells"
 msgstr "způsobující větší škodu kouzly"
 
 #. [advancement]: id=magic_speed
-#: Saga_of_James/units/heroes/Mystic.cfg:416
+#: Saga_of_James/units/heroes/Mystic.cfg:356
 msgid "casting spells faster"
 msgstr "sesílající kouzla rychleji"
 
 #. [advancement]: id=magic_theory
-#: Saga_of_James/units/heroes/Mystic.cfg:435
+#: Saga_of_James/units/heroes/Mystic.cfg:375
 msgid ""
 "more familiar with magical theories\n"
 "(allows learning new spells and\n"
@@ -401,44 +378,44 @@ msgstr ""
 "nějaká vylepšení k nim)"
 
 #. [advancement]: id=magic_theory2
-#: Saga_of_James/units/heroes/Mystic.cfg:447
+#: Saga_of_James/units/heroes/Mystic.cfg:387
 msgid "even more familiar with magical theories"
 msgstr "ještě více obeznámený s magickými teoriemi"
 
 #. [advancement]: id=fireball
-#: Saga_of_James/units/heroes/Mystic.cfg:457
-#: Saga_of_James/units/heroes/Mystic.cfg:924
+#: Saga_of_James/units/heroes/Mystic.cfg:397
+#: Saga_of_James/units/heroes/Mystic.cfg:864
 msgid "able to cast fireball"
 msgstr "schopný seslat ohnivou kouli"
 
 #. [advancement]: id=fireball_range
-#: Saga_of_James/units/heroes/Mystic.cfg:471
+#: Saga_of_James/units/heroes/Mystic.cfg:411
 msgid "using fireballs with explosive range"
 msgstr ""
 
 #. [advancement]: id=chill
-#: Saga_of_James/units/heroes/Mystic.cfg:489
-#: Saga_of_James/units/heroes/Mystic.cfg:889
+#: Saga_of_James/units/heroes/Mystic.cfg:429
+#: Saga_of_James/units/heroes/Mystic.cfg:829
 msgid "able to cast chill tempest"
 msgstr "schopný seslat mrazivou bouři"
 
 #. [advancement]: id=chill_slow
-#: Saga_of_James/units/heroes/Mystic.cfg:503
+#: Saga_of_James/units/heroes/Mystic.cfg:443
 msgid "slowing enemies with chill tempest"
 msgstr "zpomalující nepřátele mrazivou bouří"
 
 #. [advancement]: id=staff_precision
-#: Saga_of_James/units/heroes/Mystic.cfg:537
+#: Saga_of_James/units/heroes/Mystic.cfg:477
 msgid "more habituated to his staff"
 msgstr "více zvyklý na svou hůl"
 
 #. [advancement]: id=staff_speed
-#: Saga_of_James/units/heroes/Mystic.cfg:555
+#: Saga_of_James/units/heroes/Mystic.cfg:495
 msgid "faster with staff"
 msgstr "rychlejší s holí"
 
 #. [advancement]: id=elven_path1
-#: Saga_of_James/units/heroes/Mystic.cfg:571
+#: Saga_of_James/units/heroes/Mystic.cfg:511
 msgid ""
 "friend of the elves\n"
 "(better defense in forests\n"
@@ -449,19 +426,19 @@ msgstr ""
 "umožní učení kouzelného ohně)"
 
 #. [advancement]: id=faerie_fire
-#: Saga_of_James/units/heroes/Mystic.cfg:590
+#: Saga_of_James/units/heroes/Mystic.cfg:530
 msgid "capable to use faerie fire"
 msgstr "schopný použít kouzelný oheň"
 
 #. [advancement]: id=faerie_fire2
 #. [advancement]: id=faerie_fire3
-#: Saga_of_James/units/heroes/Mystic.cfg:613
-#: Saga_of_James/units/heroes/Mystic.cfg:628
+#: Saga_of_James/units/heroes/Mystic.cfg:553
+#: Saga_of_James/units/heroes/Mystic.cfg:568
 msgid "doing more damage with faerie fire"
 msgstr "způsobující více škody s kouzelným ohňem"
 
 #. [advancement]: id=forests
-#: Saga_of_James/units/heroes/Mystic.cfg:643
+#: Saga_of_James/units/heroes/Mystic.cfg:583
 msgid ""
 "more attuned to the woods\n"
 "(better defense and movement in forests)"
@@ -470,7 +447,7 @@ msgstr ""
 "(lepší obrana a pohyblivost v lesích)"
 
 #. [advancement]: id=dwarven_path1
-#: Saga_of_James/units/heroes/Mystic.cfg:668
+#: Saga_of_James/units/heroes/Mystic.cfg:608
 msgid ""
 "friend of the dwarves\n"
 "(better defense in caves\n"
@@ -481,17 +458,17 @@ msgstr ""
 "odemkne víc rozvojů týkající se zdraví)"
 
 #. [advancement]: id=steadfast
-#: Saga_of_James/units/heroes/Mystic.cfg:701
+#: Saga_of_James/units/heroes/Mystic.cfg:641
 msgid "able to take more physical damage in defense"
 msgstr "schopný vydržet více fyzického poškození v obraně"
 
 #. [advancement]: id=regeneration
-#: Saga_of_James/units/heroes/Mystic.cfg:717
+#: Saga_of_James/units/heroes/Mystic.cfg:657
 msgid "able to heal own wounds during a battle"
 msgstr "schopný si léčit vlastní zranění během bitvy"
 
 #. [advancement]: id=drakes_path1
-#: Saga_of_James/units/heroes/Mystic.cfg:733
+#: Saga_of_James/units/heroes/Mystic.cfg:673
 msgid ""
 "friend of the drakes\n"
 "(unlocks more movement related advancements)"
@@ -500,42 +477,42 @@ msgstr ""
 "(odemkne více rozvojů týkající se pohybu)"
 
 #. [advancement]: id=movement2
-#: Saga_of_James/units/heroes/Mystic.cfg:762
+#: Saga_of_James/units/heroes/Mystic.cfg:702
 msgid "faster in mountains and water"
 msgstr "rychlejší v horách a ve vodě"
 
 #. [advancement]: id=fire_resistance
-#: Saga_of_James/units/heroes/Mystic.cfg:782
+#: Saga_of_James/units/heroes/Mystic.cfg:722
 msgid "more resistant to fire"
 msgstr "odolnější vůči ohni"
 
 #. [advancement]: id=elementals_repairing
-#: Saga_of_James/units/heroes/Mystic.cfg:799
+#: Saga_of_James/units/heroes/Mystic.cfg:739
 msgid "able to heal elementals"
 msgstr "schopný léčit elementály"
 
 #. [advancement]: id=elemental_resistance
-#: Saga_of_James/units/heroes/Mystic.cfg:815
+#: Saga_of_James/units/heroes/Mystic.cfg:755
 msgid "more resistant to all kinds of magic"
 msgstr "odolnější vůči všem druhům magie"
 
 #. [advancement]: id=ethereal_storm
-#: Saga_of_James/units/heroes/Mystic.cfg:834
+#: Saga_of_James/units/heroes/Mystic.cfg:774
 msgid "able to cast ethereal storm"
 msgstr "schopný seslat éterickou bouři"
 
 #. [variation]
-#: Saga_of_James/units/heroes/Mystic.cfg:867
+#: Saga_of_James/units/heroes/Mystic.cfg:807
 msgid "Fireball"
 msgstr "Ohnivá koule"
 
 #. [variation]
-#: Saga_of_James/units/heroes/Mystic.cfg:902
+#: Saga_of_James/units/heroes/Mystic.cfg:842
 msgid "Chill"
 msgstr "Mrazivá bouře"
 
 #. [variation]
-#: Saga_of_James/units/heroes/Mystic.cfg:937
+#: Saga_of_James/units/heroes/Mystic.cfg:877
 msgid "Fireball + Chill"
 msgstr "Ohnivá koule + Mrazivá bouře"
 
@@ -645,15 +622,6 @@ msgid ""
 "raids on the orcs and coordinate the actions. If a commander falls, the war "
 "is lost."
 msgstr ""
-
-#. [unit_type]: id=Guerrilla Leader
-#: Saga_of_James/units/human-outlaws/guerrilla.cfg:107
-msgid ""
-" The leadership of this unit enables adjacent units of the same side to deal "
-"more damage in combat, though this only applies to fellow partisans."
-msgstr ""
-"Schopnost velení této jednotky umožňuje sousedícím jednotkám stejné strany "
-"způsobit více poškození v souboji, ale vztahuje se to jen na další partyzány."
 
 #. [scenario]: id=03_Elves_Wood
 #: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:5
@@ -2515,8 +2483,8 @@ msgstr ""
 msgid ""
 "Both of them were so much absorbed in their conversation so they almost did "
 "not notice that they reached their destination. They immediately went to the "
-"rebels' headquaters. Once there, everyone lied down to rest a bit before the "
-"big battle. Everyone but James, Belinda and Aleixo. These three stayed "
+"rebels' headquarters. Once there, everyone lied down to rest a bit before "
+"the big battle. Everyone but James, Belinda and Aleixo. These three stayed "
 "before the building to discuss their strategy."
 msgstr ""
 "Oba byli tak zabraní do své konverzace, že si téměř nevšimli, že došli do "
@@ -2786,6 +2754,68 @@ msgid ""
 "do more damage. It is also made from a stronger tree than usual mages' "
 "staves so it does a bit more damage."
 msgstr ""
+
+#: Saga_of_James/macros/special-notes.cfg:9
+msgid ""
+" During battle, this unit can drain life force (or magic sustaining them) "
+"from victims to renew its own health."
+msgstr ""
+
+#: Saga_of_James/macros/special-notes.cfg:13
+msgid " This unit is capable of rapid healing of elementals."
+msgstr ""
+
+#: Saga_of_James/macros/special-notes.cfg:17
+msgid ""
+" The leadership of this unit enables adjacent lafwul units of the same side "
+"to deal more damage in combat."
+msgstr ""
+" Schopnost velení této jednotky umožňuje zákonným jednotkám stejné strany v "
+"její těsné blízkosti způsobovat v boji větší poškození."
+
+#: Saga_of_James/macros/special-notes.cfg:21
+msgid ""
+" Adjacent units of the same allegiance have their resistances increased by "
+"the sole presence of this unit."
+msgstr ""
+" Sousední jednotky stejné příslušnosti mají své odolnosti zvýšené díky pouhé "
+"přítomnosti této jednotky."
+
+#: Saga_of_James/macros/special-notes.cfg:25
+msgid " This unit’s attack deals tremendous damage to chaotic units."
+msgstr "Útok této jednotky způsobuje zničující zranění chaotickým jednotkám."
+
+#: Saga_of_James/macros/special-notes.cfg:29
+msgid ""
+" Enemy units of opposite gender cannot attack if they start their turn next "
+"to this unit."
+msgstr ""
+" Nepřátelské jednotky opačného pohlaví nemohou útočit, pokud začnou svůj tah "
+"vedle této jednotky."
+
+#: Saga_of_James/macros/special-notes.cfg:33
+msgid " One of this unit's attacks can hit multiple units."
+msgstr " Jeden z útoků této jednotky může zasáhnout více jednotek."
+
+#: Saga_of_James/macros/special-notes.cfg:37
+msgid " This unit is able to move after using certain attack(s)."
+msgstr " Tato jednotka se může pohybovat po použití některého útok(ů)."
+
+#: Saga_of_James/macros/special-notes.cfg:41
+msgid ""
+" This unit can hide in forests, hills and mountains, and remain undetected "
+"by its enemies, except by those standing next to it."
+msgstr ""
+" Jednotka se dokáže skrýt v lesích, na kopcích a horách a zůstat "
+"nepozorována svými nepřáteli."
+
+#: Saga_of_James/macros/special-notes.cfg:45
+msgid ""
+" The leadership of this unit enables adjacent units of the same side to deal "
+"more damage in combat, though this only applies to fellow partisans."
+msgstr ""
+" Schopnost velení této jednotky umožňuje sousedícím jednotkám stejné strany "
+"způsobit více poškození v souboji, ale vztahuje se to jen na další partyzány."
 
 #. [hides]: id=guerrilla warfare
 #: Saga_of_James/macros/abilities.cfg:6 Saga_of_James/macros/abilities.cfg:7
