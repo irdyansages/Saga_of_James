@@ -1652,7 +1652,7 @@ msgstr "Já ... se omlouvám."
 #. [scenario]: id=07_Return
 #: Saga_of_James/volume1/scenarios/07_Return.cfg:5
 msgid "Return"
-msgstr ""
+msgstr "Návrat"
 
 #. [side]: type=Death Baron, id=DeathBaron
 #: Saga_of_James/volume1/scenarios/07_Return.cfg:46
@@ -2004,6 +2004,9 @@ msgid ""
 "Anyway, thanks for saving us. Now we can return to the village. "
 "Unfortunately, we have no food with us, the orcs have taken it all."
 msgstr ""
+"James? ... Jó, ten divný mág! ... Ó, pardon, přemýšlel jsem nahlas. "
+"Každopádně díky za naši záchranu, teď se můžeme vrátit do vesnice. Bohužel "
+"nemáme žádné jídlo, skřeti nám ho všechno vzali."
 
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:532
@@ -2011,17 +2014,19 @@ msgid ""
 "That is not a problem. However we cannot just go back yet, this area is "
 "still occupied by the orcs. We have to defeat them before we can leave."
 msgstr ""
+"To nevadí. Avšak nemůžeme se jen tak vrátit zpět, tato oblast je stále "
+"okupována skřety. Než odejdeme, musíme je porazit."
 
 #. [message]: speaker=hunters_leader
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:536
 msgid "Is that so? Fine, we have some unfinished business actually."
-msgstr ""
+msgstr "Je to tak? Dobře, vlastně s nimi máme nevyřízené účty."
 
 #. [message]: speaker=hunter2
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:540
 msgid ""
 "That's right! We'll help you with them, they're going to feel our wrath."
-msgstr ""
+msgstr "Správně! Pomůžeme ti s nimi, pocítí náš hněv."
 
 #. [message]: speaker=Aleixo
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:582
@@ -2110,6 +2115,9 @@ msgid ""
 "scenarios it will be impossible (as you are getting too far from your "
 "village and will not have time to train them)."
 msgstr ""
+"V tomto scénáři můžeš naverbovat už jen jednoho nového mága. V následujících "
+"scénářích to už nepůjde (protože si stále dál od vesnice a nemáš čas je "
+"trénovat)."
 
 #. [message]: role=Supporter
 #: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:161
@@ -2117,6 +2125,8 @@ msgid ""
 "If I remember correctly there should lie some ruined castle here. Hold on! "
 "It seems someone is occupying it."
 msgstr ""
+"Pokud si dobře pamatuju, měla by tu být nějaká zřícenina. Počkat! Zdá se, že "
+"ji někdo obývá."
 
 #. [message]: speaker=Ryddry
 #: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:172
