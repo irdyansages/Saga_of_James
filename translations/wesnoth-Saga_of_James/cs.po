@@ -896,6 +896,8 @@ msgid ""
 "stop then, they would just want more. To arms, everyone! Drive those beasts "
 "off our place!"
 msgstr ""
+"Je jich příliš mnoho na boj, ale nesmíme se vzdát. Oni by se nezastavili, "
+"jen by chtěli více. Všichni do zbraně! Vyžeňte tyto bestie z našeho domova!"
 
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:366
@@ -904,6 +906,8 @@ msgid ""
 "will lose their lives for sure even if they somehow manage to defeat their "
 "enemies. We must aid them."
 msgstr ""
+"Souhlasím, že by se neměli vzdát, ale toto ... Mnoho z nich přijde o život, "
+"i když se jim nějak podaří porazit jejich nepřátele. Musíme jim pomoct."
 
 #. [message]: role=Supporter
 #: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:370
@@ -930,6 +934,8 @@ msgid ""
 "Me and my fellow ... villagers shall help you with these orcs if you permit "
 "us to do so, elven lord."
 msgstr ""
+"Já a mí spolu ... vesničané vám pomůže s těmito skřety, pokud nám to "
+"dovolíte, elfí pane."
 
 #. [message]: role=ranger
 #: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:382
@@ -1027,6 +1033,9 @@ msgid ""
 "then, do not hesitate and go to them. Now, as you greatly helped us, we do "
 "not mind your presence here ... as long as you cause no harm here."
 msgstr ""
+"Omlouvám se, zpočátku jsem tvým slovům nevěnoval příliš pozornost. Dobrá "
+"tedy, neváhejte a běžte za nimi. Teď když jste nám tak pomohli nám vaše "
+"přítomnost tady nevadí ... pokud neškodíte."
 
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:469
@@ -1316,6 +1325,9 @@ msgid ""
 "I want you to open the armoury, gather villagers and equip them with some "
 "weapons."
 msgstr ""
+"Jak víš, nemáme příliš mnoho vojáků a teď jsou dokonce naši lovci pryč. "
+"Potřebujeme, aby každý tělesně zdatný muž bojoval. A tady přicházíš ty. "
+"Chci, aby jsi otevřel zbrojnici, shromáždil vesničany a vybavil je zbraněmi."
 
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:173
@@ -1643,6 +1655,9 @@ msgid ""
 "we can't discover who exactly is doing it. Now return to your post, you "
 "coward!"
 msgstr ""
+"To není nic nového. Lidští červi nás už nějakou dobu otravují, ale "
+"nedokázali jsme přijít na to, kdo to je. A teď se vrať na svou pozici, ty "
+"zbabělče."
 
 #. [message]: speaker=unit
 #: Saga_of_James/volume1/scenarios/06_Freedom.cfg:331
@@ -1651,6 +1666,9 @@ msgid ""
 "brought even some mages with them and are marching towards your castle. I "
 "think they want to force us to leave this land."
 msgstr ""
+"Nerozumíte mi, šéfe. Spojili se s nějakými cizinci, dokonce přivedli sebou "
+"nějaké mágy a pochodují k Vašemu hradu. Myslím, že nás chtějí donutit "
+"opustit tuto zemi."
 
 #. [message]: speaker=orc
 #: Saga_of_James/volume1/scenarios/06_Freedom.cfg:341
@@ -2002,7 +2020,7 @@ msgstr "Dobrá práce. Teď prohledej jeho šaty, ten klíč musí někde být."
 #. [message]: speaker=second_unit
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:451
 msgid "On it. ... Yes, here we go. I will try it. ... It fits in."
-msgstr ""
+msgstr "Jdu na to. ... Ano, tady je. Vyzkouším ho. ... Pasuje."
 
 #. [message]: speaker=Aleixo
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:463
@@ -2831,6 +2849,8 @@ msgid ""
 " During battle, this unit can drain life force (or magic sustaining them) "
 "from victims to renew its own health."
 msgstr ""
+"  Během boje se dokáže tato jednotka léčit vysátím životní síly (či magie, "
+"která ho drží pohromadě) z nepřítele."
 
 #: Saga_of_James/macros/special-notes.cfg:13
 msgid " This unit is capable of rapid healing of elementals."
@@ -2921,16 +2941,19 @@ msgid ""
 "This unit can inspire its fellow fighters that are next to it, making them "
 "fight better. Adjacent partisans will do 25% more damage."
 msgstr ""
+"Tato jednotka dokáže inspirovat své spolubojovníky, kteří jsou vedle ní, "
+"takže bojují lépe. Partyzáni na sousedních polích způsobí v boji o 25% více "
+"poškození."
 
 #. [dummy]: id=temptation
 #: Saga_of_James/macros/abilities.cfg:43
 msgid "temptation"
-msgstr ""
+msgstr "pokušení"
 
 #. [dummy]: id=temptation
 #: Saga_of_James/macros/abilities.cfg:44
 msgid "female^temptation"
-msgstr ""
+msgstr "pokušení"
 
 #. [dummy]: id=temptation
 #: Saga_of_James/macros/abilities.cfg:45
@@ -3076,6 +3099,10 @@ msgid ""
 "better. Adjacent allied units on level 2 and 3 will do 15% more damage, "
 "units on level 0 and 1 30% more damage."
 msgstr ""
+"Tato jednotka dokáže inspirovat spřátelené jednotky, které jsou vedle ní, "
+"takže bojují lépe. Spřátelené jednotky na sousedních polích na úrovni 2 a 3 "
+"způsobí v boji o 15% více poškození, jednotky na úrovni 0 a 1 o 30% více "
+"poškození."
 
 #. [dummy]: id=hit and run
 #: Saga_of_James/macros/abilities.cfg:198
