@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Saga_of_James-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-01-27 20:46 UTC\n"
+"POT-Creation-Date: 2019-01-27 21:17 UTC\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Jakub Konečný <jakub.konecny2@centrum.cz>\n"
 "Language-Team: \n"
@@ -1666,7 +1666,7 @@ msgstr ""
 "dům a dát všem vědět, že konečná bitva začala."
 
 #. [message]: speaker=Aleixo
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:234
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:252
 msgid ""
 "Oh, the sun is already raising and the men are getting up. Looks like we're "
 "ready. <b>Let's fight! For our freedom!</b>"
@@ -1675,58 +1675,48 @@ msgstr ""
 "bojovat! Za naši svobodu.</b>"
 
 #. [message]: speaker=Aleixo
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:247
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:265
 msgid ""
 "Come out and help us fight the orcs! It's time to drive them out of here!"
 msgstr "Vylez ven a pomož nám bojovat se skřety! Přišel čas vyhnat je odtud!"
 
 #. [message]: speaker=unit
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:270
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:288
 msgid "Anyone here?"
 msgstr "Je tu někdo?"
 
 #. [message]: type=Huntress
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:277
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:295
 msgid "Yes, what's up?"
 msgstr "Jo, co se děje?"
 
 #. [message]: speaker=Aleixo
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:281
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:299
 msgid " Are you in?"
 msgstr ""
 
 #. [message]: type=Huntress
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:285
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:303
 msgid "Sure! We're ready to fight."
 msgstr "Jasně! Jsme připravení bojovat."
 
-#. [message]: speaker=unit
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:318
+#. [message]: type=Goblin Impaler
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:331
 msgid "Humans! They must be the rebels. We ought to tell the chief."
 msgstr "Lidi! To musí být ti rebelové. Měli bychom o tom říct šéfovi."
 
-#. [message]: speaker=unit
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:324
-msgid "Me see humans. Me wonder what are they up to."
-msgstr "Vidím lidi. Copak mají za lubem?"
-
-#. [message]: type=Goblin Impaler
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:328
-msgid "They must be the rebels. We should tell the chief."
-msgstr "Musí to být ti rebelové. Měli bychom o tom říct šéfovi."
-
 #. [message]: speaker=Aleixo
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:340
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:341
 msgid "Maybe we should try to stop them if we are not ready for him yet."
 msgstr "Možná bychom je měli zastavit, pokud na něj ještě nejsme připravení."
 
 #. [message]: speaker=unit
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:355
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:356
 msgid "Chief, chief! The humans have rebelled!"
 msgstr "Šéfe, šéfe! Lidi se vzbouřili!"
 
 #. [message]: speaker=orc
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:359
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:360
 msgid ""
 "That's nothing new. The human worms are pestering us for quite some time yet "
 "we can't discover who exactly is doing it. Now return to your post, you "
@@ -1737,7 +1727,7 @@ msgstr ""
 "zbabělče."
 
 #. [message]: speaker=unit
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:363
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:364
 msgid ""
 "You don't understand me, chief. They united with some outsiders, they "
 "brought even some mages with them and are marching towards your castle. I "
@@ -1748,7 +1738,7 @@ msgstr ""
 "opustit tuto zemi."
 
 #. [message]: speaker=orc
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:373
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:374
 msgid ""
 "Curse the humans! We can't let this happen! Men, to arms! Show them what "
 "fate awaits those who dare to rebel against the orcs!"
@@ -1757,28 +1747,28 @@ msgstr ""
 "čeká ty, kteří se odváží postavit skřetům!"
 
 #. [message]: speaker=orc
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:382
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:383
 msgid ""
 "Bah, I've been already informed of it! Go back and fight them, you coward!"
 msgstr "Pché, už mě o tom informovali! Běž zpátky a bojuj s nima, ty zbabělče!"
 
 #. [message]: speaker=orc
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:406
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:407
 msgid "Rebels here?! Why did you let them here?"
 msgstr "Rebelové tady?! Proč jste je tu pustili?"
 
 #. [message]: type=Orcish Warrior
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:410
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:411
 msgid "We're sorry, chieftain ..."
 msgstr "Omlouváme se, náčelníku ..."
 
 #. [message]: speaker=orc
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:414
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:415
 msgid "Shut up! I don't want to hear any excuses. Bring me their skulls!"
 msgstr "Sklapni! Nechci slyšet žádné výmluvy. Doneste mi jejich lebky!"
 
 #. [message]: speaker=orc
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:423
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:424
 msgid ""
 "So these are the rebels that caused us such troubles? We'll deal with you "
 "quickly. Guards, bring me their skulls!"
@@ -1787,7 +1777,7 @@ msgstr ""
 "rychle poradíme! Stráže, přineste mi jejich lebky!"
 
 #. [message]: speaker=Aleixo
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:429
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:430
 msgid ""
 "The moment we've all been waiting for is here. Show them their stay here "
 "came to its end."
@@ -1796,12 +1786,12 @@ msgstr ""
 "pobyt tu právě skončil."
 
 #. [message]: speaker=Aleixo
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:464
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:465
 msgid "James! Don't die yet, we need still you."
 msgstr "Jamesi! Neumírej, ještě tě potřebujeme."
 
 #. [message]: speaker=unit
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:468
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:469
 msgid "I am ... sorry."
 msgstr "Já ... se omlouvám."
 
@@ -3269,6 +3259,12 @@ msgstr ""
 #: Saga_of_James/_main.cfg:24
 msgid "Version:"
 msgstr "Verze:"
+
+#~ msgid "Me see humans. Me wonder what are they up to."
+#~ msgstr "Vidím lidi. Copak mají za lubem?"
+
+#~ msgid "They must be the rebels. We should tell the chief."
+#~ msgstr "Musí to být ti rebelové. Měli bychom o tom říct šéfovi."
 
 #~ msgid "and defeat all enemies"
 #~ msgstr "a poraz všechny nepřátele"
