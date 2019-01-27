@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Saga_of_James-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-01-25 13:06 UTC\n"
+"POT-Creation-Date: 2019-01-27 20:46 UTC\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Jakub Konečný <jakub.konecny2@centrum.cz>\n"
 "Language-Team: \n"
@@ -89,7 +89,7 @@ msgid "Abbess"
 msgstr "Abatyše"
 
 #. [unit_type]: id=Guiscard Elder Mage
-#: Saga_of_James/units/heroes/Mage_Elder.cfg:41
+#: Saga_of_James/units/heroes/Mage_Elder.cfg:39
 msgid ""
 "Great Magi spread rumours that only several mages per century are given the "
 "title of a great mage, but the truth is quite different. They are speaking "
@@ -100,23 +100,23 @@ msgid ""
 msgstr ""
 
 #. [advancement]: id=fireball
-#: Saga_of_James/units/heroes/Mage_Elder.cfg:108
+#: Saga_of_James/units/heroes/Mage_Elder.cfg:97
 msgid "doing more damage with fireball"
 msgstr "způsobující větší škodu ohnivou koulí"
 
 #. [advancement]: id=lightning
-#: Saga_of_James/units/heroes/Mage_Elder.cfg:123
+#: Saga_of_James/units/heroes/Mage_Elder.cfg:112
 msgid "doing more damage with lightning"
 msgstr "způsobující větší škodu bleskem"
 
 #. [advancement]: id=staff
-#: Saga_of_James/units/heroes/Mage_Elder.cfg:138
+#: Saga_of_James/units/heroes/Mage_Elder.cfg:127
 #: Saga_of_James/units/heroes/Mystic.cfg:462
 msgid "doing more damage with staff"
 msgstr "způsobující větší škodu holí"
 
 #. [advancement]: id=health
-#: Saga_of_James/units/heroes/Mage_Elder.cfg:153
+#: Saga_of_James/units/heroes/Mage_Elder.cfg:142
 #: Saga_of_James/units/heroes/Elvish_Avatar.cfg:95
 #: Saga_of_James/units/heroes/Celestial_Messenger.cfg:230
 #: Saga_of_James/units/heroes/Mystic.cfg:627
@@ -124,7 +124,7 @@ msgid "more healthy"
 msgstr "zdravější"
 
 #. [advancement]: id=movement
-#: Saga_of_James/units/heroes/Mage_Elder.cfg:167
+#: Saga_of_James/units/heroes/Mage_Elder.cfg:156
 #: Saga_of_James/units/heroes/Woodswoman.cfg:548
 #: Saga_of_James/units/heroes/Elvish_Avatar.cfg:109
 #: Saga_of_James/units/heroes/Celestial_Messenger.cfg:306
@@ -1151,12 +1151,14 @@ msgstr "Takže je rozhodnuto. Nechť bitva započne."
 
 #. [message]: speaker=unit
 #: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:129
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:284
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:595
 msgid "Farewell, the world."
 msgstr "Sbohem, světe."
 
 #. [message]: speaker=Belinda
 #: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:133
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:288
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:599
 msgid "James, no! I think ... I'll miss you."
 msgstr "Jamesi, ne! Myslím, ... že mi budeš chybět."
@@ -1560,6 +1562,7 @@ msgstr "Ne, Jamesi, bez tebe to nedokážeme!"
 
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:405
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:300
 msgid "Without the Captain, we all are as good as dead."
 msgstr "Bez kapitána jsme všichni mrtví."
 
@@ -1592,64 +1595,138 @@ msgstr "Svoboda"
 #. [message]: speaker=Aleixo
 #: Saga_of_James/volume1/scenarios/06_Freedom.cfg:202
 msgid ""
-"We should also visit every house to let everyone know the final battle has "
-"begun. And by the way, the prison where you hunters are being captive is to "
-"north-west here. ... <b>Let's fight! For our freedom!</b>"
+"So in the morning the big battle begins. We longed so much to regain our "
+"lost freedom but before I met you, James, I wasn't sure this day will "
+"actually come. You really are a godsend to us."
 msgstr ""
+"Takže ráno začne ta velká bitva. Tak dlouho jsme toužili znovu získat naši "
+"ztracenou svobodu, ale než jsem tě potkal, Jamesi, nebyl jsem si jistý, zda "
+"tento den opravdu nastane. Jsi pro nás opravdu požehnání."
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:206
+msgid "Oh thank you but I did not really ..."
+msgstr "Ó, děkuji, ale já jsem nic ..."
+
+#. [message]: speaker=Belinda
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:210
+msgid ""
+"It's cute but you really did a good job here, James. You <b>are</b> a good "
+"tactician and leader. Well and you also look like a good person. I'm very "
+"glad we met."
+msgstr ""
+"To je roztomilé, ale opravdu jsi tu odvedl dobrou práci, Jamesi. Ty <b>jsi</"
+"b> dobrý taktik a vůdce. No a taky vypadáš jako dobrý člověk. Jsem opravdu "
+"ráda, že jsme se potkali."
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:214
+msgid ""
+"Oh, you really think so? I am flattered. And I too like having you around. "
+"Maybe we ... oh, nothing, forget it. ... Well, as you said, Aleixo, we have "
+"got a big battle ahead of us. We should discuss our strategy before others "
+"wake up."
+msgstr ""
+"Ó, opravdu si to myslíš? Jsem polichocen. I já tě mám rád poblíž. Možná "
+"bychom ... ale, nic, zapomeň na to. ... No, jak jsi říkal, Aleixo, máme před "
+"sebou velkou bitvu. Měli bychom probrat naši strategii, než se ostatní "
+"probudí."
 
 #. [message]: speaker=Aleixo
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:215
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:218
+msgid ""
+"Mmmm, right. So let's see ... after the sun raises, the orcs will get into "
+"their positions. They are divided into small group and each of them patrols "
+"one area. And there is our main target - the castle where their chieftain "
+"with his bodyguards is. They don't usually go out unless they have to so "
+"they won't intervene until <b>we</b> decide to take the fight there."
+msgstr ""
+"Mmmm, pravda. Tak se podívejme ... jakmile vyjde slunce, skřeti se postaví "
+"do svých pozic. Jsou rozděleni do malých skupin a každá z nich hlídá jednu "
+"oblast. A pak je tu náš hlavní cíl - hrad, kde je jejich náčelník se svou "
+"tělesnou stráží. Ti obvykle nechodí ven, pokud nemusí, takže nebudou "
+"zasahovat, dokud se <b>my</b> nerozhodne tam přesunout boj."
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:222
+msgid ""
+"So it would be best to take out one group after the other and then attack "
+"the castle."
+msgstr ""
+"Takže by bylo nejlepší zlikvidovat jednu skupinu po druhé a pak zaútočit na "
+"hrad."
+
+#. [message]: speaker=Aleixo
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:226
+msgid ""
+"Yes, that is the best thing to do. And we should also visit every house to "
+"let everyone know the final battle has begun."
+msgstr ""
+"Ano, to je to nejlepší, co můžeme udělat. A taky bychom měli navštívit každý "
+"dům a dát všem vědět, že konečná bitva začala."
+
+#. [message]: speaker=Aleixo
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:234
+msgid ""
+"Oh, the sun is already raising and the men are getting up. Looks like we're "
+"ready. <b>Let's fight! For our freedom!</b>"
+msgstr ""
+"Ó, slunce už vychází a muži vstávají. Zdá se, že jsme připraveni. <b>Pojďme "
+"bojovat! Za naši svobodu.</b>"
+
+#. [message]: speaker=Aleixo
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:247
 msgid ""
 "Come out and help us fight the orcs! It's time to drive them out of here!"
 msgstr "Vylez ven a pomož nám bojovat se skřety! Přišel čas vyhnat je odtud!"
 
 #. [message]: speaker=unit
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:238
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:270
 msgid "Anyone here?"
 msgstr "Je tu někdo?"
 
 #. [message]: type=Huntress
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:245
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:277
 msgid "Yes, what's up?"
 msgstr "Jo, co se děje?"
 
 #. [message]: speaker=Aleixo
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:249
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:281
 msgid " Are you in?"
 msgstr ""
 
 #. [message]: type=Huntress
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:253
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:285
 msgid "Sure! We're ready to fight."
 msgstr "Jasně! Jsme připravení bojovat."
 
 #. [message]: speaker=unit
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:286
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:318
 msgid "Humans! They must be the rebels. We ought to tell the chief."
 msgstr "Lidi! To musí být ti rebelové. Měli bychom o tom říct šéfovi."
 
 #. [message]: speaker=unit
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:292
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:324
 msgid "Me see humans. Me wonder what are they up to."
 msgstr "Vidím lidi. Copak mají za lubem?"
 
 #. [message]: type=Goblin Impaler
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:296
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:328
 msgid "They must be the rebels. We should tell the chief."
 msgstr "Musí to být ti rebelové. Měli bychom o tom říct šéfovi."
 
 #. [message]: speaker=Aleixo
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:308
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:340
 msgid "Maybe we should try to stop them if we are not ready for him yet."
 msgstr "Možná bychom je měli zastavit, pokud na něj ještě nejsme připravení."
 
 #. [message]: speaker=unit
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:323
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:355
 msgid "Chief, chief! The humans have rebelled!"
 msgstr "Šéfe, šéfe! Lidi se vzbouřili!"
 
 #. [message]: speaker=orc
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:327
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:359
 msgid ""
 "That's nothing new. The human worms are pestering us for quite some time yet "
 "we can't discover who exactly is doing it. Now return to your post, you "
@@ -1660,7 +1737,7 @@ msgstr ""
 "zbabělče."
 
 #. [message]: speaker=unit
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:331
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:363
 msgid ""
 "You don't understand me, chief. They united with some outsiders, they "
 "brought even some mages with them and are marching towards your castle. I "
@@ -1671,7 +1748,7 @@ msgstr ""
 "opustit tuto zemi."
 
 #. [message]: speaker=orc
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:341
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:373
 msgid ""
 "Curse the humans! We can't let this happen! Men, to arms! Show them what "
 "fate awaits those who dare to rebel against the orcs!"
@@ -1680,28 +1757,28 @@ msgstr ""
 "čeká ty, kteří se odváží postavit skřetům!"
 
 #. [message]: speaker=orc
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:350
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:382
 msgid ""
 "Bah, I've been already informed of it! Go back and fight them, you coward!"
 msgstr "Pché, už mě o tom informovali! Běž zpátky a bojuj s nima, ty zbabělče!"
 
 #. [message]: speaker=orc
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:374
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:406
 msgid "Rebels here?! Why did you let them here?"
 msgstr "Rebelové tady?! Proč jste je tu pustili?"
 
 #. [message]: type=Orcish Warrior
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:378
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:410
 msgid "We're sorry, chieftain ..."
 msgstr "Omlouváme se, náčelníku ..."
 
 #. [message]: speaker=orc
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:382
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:414
 msgid "Shut up! I don't want to hear any excuses. Bring me their skulls!"
 msgstr "Sklapni! Nechci slyšet žádné výmluvy. Doneste mi jejich lebky!"
 
 #. [message]: speaker=orc
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:391
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:423
 msgid ""
 "So these are the rebels that caused us such troubles? We'll deal with you "
 "quickly. Guards, bring me their skulls!"
@@ -1710,7 +1787,7 @@ msgstr ""
 "rychle poradíme! Stráže, přineste mi jejich lebky!"
 
 #. [message]: speaker=Aleixo
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:397
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:429
 msgid ""
 "The moment we've all been waiting for is here. Show them their stay here "
 "came to its end."
@@ -1719,12 +1796,12 @@ msgstr ""
 "pobyt tu právě skončil."
 
 #. [message]: speaker=Aleixo
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:432
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:464
 msgid "James! Don't die yet, we need still you."
 msgstr "Jamesi! Neumírej, ještě tě potřebujeme."
 
 #. [message]: speaker=unit
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:436
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:468
 msgid "I am ... sorry."
 msgstr "Já ... se omlouvám."
 

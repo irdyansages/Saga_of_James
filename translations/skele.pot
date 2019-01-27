@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Saga_of_James-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-01-25 13:06 UTC\n"
+"POT-Creation-Date: 2019-01-27 20:46 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -70,28 +70,28 @@ msgid "Abbess"
 msgstr ""
 
 #. [unit_type]: id=Guiscard Elder Mage
-#: Saga_of_James/units/heroes/Mage_Elder.cfg:41
+#: Saga_of_James/units/heroes/Mage_Elder.cfg:39
 msgid "Great Magi spread rumours that only several mages per century are given the title of a great mage, but the truth is quite different. They are speaking about Elder Magi, and misuse the similarity of the rarity of them. Elder Magi are the real masters of magic, the ones who make new spells and truly understand the magic. Even if they are not trained for battle, their powerful magic can destroy most enemies."
 msgstr ""
 
 #. [advancement]: id=fireball
-#: Saga_of_James/units/heroes/Mage_Elder.cfg:108
+#: Saga_of_James/units/heroes/Mage_Elder.cfg:97
 msgid "doing more damage with fireball"
 msgstr ""
 
 #. [advancement]: id=lightning
-#: Saga_of_James/units/heroes/Mage_Elder.cfg:123
+#: Saga_of_James/units/heroes/Mage_Elder.cfg:112
 msgid "doing more damage with lightning"
 msgstr ""
 
 #. [advancement]: id=staff
-#: Saga_of_James/units/heroes/Mage_Elder.cfg:138
+#: Saga_of_James/units/heroes/Mage_Elder.cfg:127
 #: Saga_of_James/units/heroes/Mystic.cfg:462
 msgid "doing more damage with staff"
 msgstr ""
 
 #. [advancement]: id=health
-#: Saga_of_James/units/heroes/Mage_Elder.cfg:153
+#: Saga_of_James/units/heroes/Mage_Elder.cfg:142
 #: Saga_of_James/units/heroes/Elvish_Avatar.cfg:95
 #: Saga_of_James/units/heroes/Celestial_Messenger.cfg:230
 #: Saga_of_James/units/heroes/Mystic.cfg:627
@@ -99,7 +99,7 @@ msgid "more healthy"
 msgstr ""
 
 #. [advancement]: id=movement
-#: Saga_of_James/units/heroes/Mage_Elder.cfg:167
+#: Saga_of_James/units/heroes/Mage_Elder.cfg:156
 #: Saga_of_James/units/heroes/Woodswoman.cfg:548
 #: Saga_of_James/units/heroes/Elvish_Avatar.cfg:109
 #: Saga_of_James/units/heroes/Celestial_Messenger.cfg:306
@@ -929,12 +929,14 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:129
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:284
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:595
 msgid "Farewell, the world."
 msgstr ""
 
 #. [message]: speaker=Belinda
 #: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:133
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:288
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:599
 msgid "James, no! I think ... I'll miss you."
 msgstr ""
@@ -1219,6 +1221,7 @@ msgstr ""
 
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:405
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:300
 msgid "Without the Captain, we all are as good as dead."
 msgstr ""
 
@@ -1244,111 +1247,146 @@ msgstr ""
 
 #. [message]: speaker=Aleixo
 #: Saga_of_James/volume1/scenarios/06_Freedom.cfg:202
-msgid "We should also visit every house to let everyone know the final battle has begun. And by the way, the prison where you hunters are being captive is to north-west here. ... <b>Let's fight! For our freedom!</b>"
+msgid "So in the morning the big battle begins. We longed so much to regain our lost freedom but before I met you, James, I wasn't sure this day will actually come. You really are a godsend to us."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:206
+msgid "Oh thank you but I did not really ..."
+msgstr ""
+
+#. [message]: speaker=Belinda
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:210
+msgid "It's cute but you really did a good job here, James. You <b>are</b> a good tactician and leader. Well and you also look like a good person. I'm very glad we met."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:214
+msgid "Oh, you really think so? I am flattered. And I too like having you around. Maybe we ... oh, nothing, forget it. ... Well, as you said, Aleixo, we have got a big battle ahead of us. We should discuss our strategy before others wake up."
 msgstr ""
 
 #. [message]: speaker=Aleixo
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:215
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:218
+msgid "Mmmm, right. So let's see ... after the sun raises, the orcs will get into their positions. They are divided into small group and each of them patrols one area. And there is our main target - the castle where their chieftain with his bodyguards is. They don't usually go out unless they have to so they won't intervene until <b>we</b> decide to take the fight there."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:222
+msgid "So it would be best to take out one group after the other and then attack the castle."
+msgstr ""
+
+#. [message]: speaker=Aleixo
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:226
+msgid "Yes, that is the best thing to do. And we should also visit every house to let everyone know the final battle has begun."
+msgstr ""
+
+#. [message]: speaker=Aleixo
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:234
+msgid "Oh, the sun is already raising and the men are getting up. Looks like we're ready. <b>Let's fight! For our freedom!</b>"
+msgstr ""
+
+#. [message]: speaker=Aleixo
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:247
 msgid "Come out and help us fight the orcs! It's time to drive them out of here!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:238
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:270
 msgid "Anyone here?"
 msgstr ""
 
 #. [message]: type=Huntress
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:245
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:277
 msgid "Yes, what's up?"
 msgstr ""
 
 #. [message]: speaker=Aleixo
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:249
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:281
 msgid " Are you in?"
 msgstr ""
 
 #. [message]: type=Huntress
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:253
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:285
 msgid "Sure! We're ready to fight."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:286
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:318
 msgid "Humans! They must be the rebels. We ought to tell the chief."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:292
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:324
 msgid "Me see humans. Me wonder what are they up to."
 msgstr ""
 
 #. [message]: type=Goblin Impaler
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:296
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:328
 msgid "They must be the rebels. We should tell the chief."
 msgstr ""
 
 #. [message]: speaker=Aleixo
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:308
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:340
 msgid "Maybe we should try to stop them if we are not ready for him yet."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:323
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:355
 msgid "Chief, chief! The humans have rebelled!"
 msgstr ""
 
 #. [message]: speaker=orc
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:327
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:359
 msgid "That's nothing new. The human worms are pestering us for quite some time yet we can't discover who exactly is doing it. Now return to your post, you coward!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:331
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:363
 msgid "You don't understand me, chief. They united with some outsiders, they brought even some mages with them and are marching towards your castle. I think they want to force us to leave this land."
 msgstr ""
 
 #. [message]: speaker=orc
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:341
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:373
 msgid "Curse the humans! We can't let this happen! Men, to arms! Show them what fate awaits those who dare to rebel against the orcs!"
 msgstr ""
 
 #. [message]: speaker=orc
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:350
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:382
 msgid "Bah, I've been already informed of it! Go back and fight them, you coward!"
 msgstr ""
 
 #. [message]: speaker=orc
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:374
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:406
 msgid "Rebels here?! Why did you let them here?"
 msgstr ""
 
 #. [message]: type=Orcish Warrior
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:378
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:410
 msgid "We're sorry, chieftain ..."
 msgstr ""
 
 #. [message]: speaker=orc
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:382
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:414
 msgid "Shut up! I don't want to hear any excuses. Bring me their skulls!"
 msgstr ""
 
 #. [message]: speaker=orc
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:391
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:423
 msgid "So these are the rebels that caused us such troubles? We'll deal with you quickly. Guards, bring me their skulls!"
 msgstr ""
 
 #. [message]: speaker=Aleixo
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:397
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:429
 msgid "The moment we've all been waiting for is here. Show them their stay here came to its end."
 msgstr ""
 
 #. [message]: speaker=Aleixo
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:432
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:464
 msgid "James! Don't die yet, we need still you."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:436
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:468
 msgid "I am ... sorry."
 msgstr ""
 
