@@ -2,7 +2,7 @@ author="James_The_Invisible"
 description="Watch the adventures of a mage James. Watch his path from an unexceptional mage to the most powerful (human) magician who ever walked in the Northlands. How will his powers change him? Watch this as well with your own eyes.
 
 (Work in progress. Requires War of Legends to be installed.
-Chapter 1 - 5 playable scenarios)"
+Chapter 1 - 6 playable scenarios)"
 email="jakub.konecny2@centrum.cz"
 icon="misc/blank-hex.png~BLIT(units/human-magi/white-cleric+female-magic-1.png~FL()~RC(magenta>white)~SCALE(50,50),0,5)~BLIT(projectiles/fireball-impact-7.png~SCALE(50,50)~O(40%),12,0)~BLIT(units/elves-wood/sorceress-magic-2.png~TC(2,magenta)~CROP(0,0,52,52)~SCALE(40,40),20,4)~BLIT(units/human-magi/elder-mage-ranged2.png~TC(1,magenta)~SCALE(55,55),17,9)~BLIT(units/human-magi/silver-mage-attack-magic2.png~TC(3,magenta)~FL()~SCALE(60,60),0,9)~BLIT(halo/elven/elven-shield-halo-100pct.png~CROP(44,44,72,72)~O(80%))~BLIT(projectiles/fireball-nw.png~SCALE(35,40)~ROTATE(90)~O(80%),32,22)~BLIT(projectiles/icemissile-ne-3.png~SCALE(40,40)~ROTATE(180),4,17)"
 title="Saga of James of Penrhyn"

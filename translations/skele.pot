@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Saga_of_James-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-01-27 21:17 UTC\n"
+"POT-Creation-Date: 2019-02-26 17:43 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1266,82 +1266,82 @@ msgid "Oh, you really think so? I am flattered. And I too like having you around
 msgstr ""
 
 #. [message]: speaker=Aleixo
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:218
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:219
 msgid "Mmmm, right. So let's see ... after the sun raises, the orcs will get into their positions. They are divided into small group and each of them patrols one area. And there is our main target - the castle where their chieftain with his bodyguards is. They don't usually go out unless they have to so they won't intervene until <b>we</b> decide to take the fight there."
 msgstr ""
 
 #. [message]: speaker=James
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:222
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:223
 msgid "So it would be best to take out one group after the other and then attack the castle."
 msgstr ""
 
 #. [message]: speaker=Aleixo
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:226
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:227
 msgid "Yes, that is the best thing to do. And we should also visit every house to let everyone know the final battle has begun."
 msgstr ""
 
 #. [message]: speaker=Aleixo
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:252
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:253
 msgid "Oh, the sun is already raising and the men are getting up. Looks like we're ready. <b>Let's fight! For our freedom!</b>"
 msgstr ""
 
 #. [message]: speaker=Aleixo
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:265
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:266
 msgid "Come out and help us fight the orcs! It's time to drive them out of here!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:288
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:289
 msgid "Anyone here?"
 msgstr ""
 
 #. [message]: type=Huntress
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:295
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:296
 msgid "Yes, what's up?"
 msgstr ""
 
 #. [message]: speaker=Aleixo
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:299
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:300
 msgid " Are you in?"
 msgstr ""
 
 #. [message]: type=Huntress
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:303
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:304
 msgid "Sure! We're ready to fight."
 msgstr ""
 
 #. [message]: type=Goblin Impaler
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:331
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:332
 msgid "Humans! They must be the rebels. We ought to tell the chief."
 msgstr ""
 
 #. [message]: speaker=Aleixo
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:341
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:342
 msgid "Maybe we should try to stop them if we are not ready for him yet."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:356
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:357
 msgid "Chief, chief! The humans have rebelled!"
 msgstr ""
 
 #. [message]: speaker=orc
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:360
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:361
 msgid "That's nothing new. The human worms are pestering us for quite some time yet we can't discover who exactly is doing it. Now return to your post, you coward!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:364
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:365
 msgid "You don't understand me, chief. They united with some outsiders, they brought even some mages with them and are marching towards your castle. I think they want to force us to leave this land."
 msgstr ""
 
 #. [message]: speaker=orc
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:374
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:375
 msgid "Curse the humans! We can't let this happen! Men, to arms! Show them what fate awaits those who dare to rebel against the orcs!"
 msgstr ""
 
 #. [message]: speaker=orc
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:383
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:384
 msgid "Bah, I've been already informed of it! Go back and fight them, you coward!"
 msgstr ""
 
@@ -1370,13 +1370,73 @@ msgstr ""
 msgid "The moment we've all been waiting for is here. Show them their stay here came to its end."
 msgstr ""
 
+#. [message]: speaker=narrator
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:452
+msgid "As the orcs' chieftain dead body falls to the ground, the remaining orcs start to flee the village in fear."
+msgstr ""
+
 #. [message]: speaker=Aleixo
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:465
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:463
+msgid "Yes, we did! The orcs are defeated. Thousands thanks, James, we really couldn't do it without you."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:467
+msgid "Oh, I ..."
+msgstr ""
+
+#. [message]: speaker=Belinda
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:471
+msgid "He is glad to help."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:475
+msgid "Right."
+msgstr ""
+
+#. [message]: speaker=Aleixo
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:479
+msgid "We'll hold a celebration of the victory now. Care to join?"
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:483
+msgid "I am sorry but we have to return to our village. Our folks have to be wondering what is taking us so long."
+msgstr ""
+
+#. [message]: speaker=Aleixo
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:487
+msgid "I see. So, it's time to say goodbye. Well, may the Lords of Light guide your path. And remember, you're always welcome here."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:491
+msgid "Thank you, Aleixo, and farewell."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:501
+msgid "And what about you, B-Belinda? What are you going to do now?"
+msgstr ""
+
+#. [message]: speaker=Belinda
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:505
+msgid "Well, I promised to guide you in this wood so I'll continue with that 'till you return to your village ... if you don't mind, of course."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:509
+msgid "Oh, that would be really nice, thank you. Alright, everyone, get ready. We are going home."
+msgstr ""
+
+#. [message]: speaker=Aleixo
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:521
 msgid "James! Don't die yet, we need still you."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:469
+#: Saga_of_James/volume1/scenarios/06_Freedom.cfg:525
 msgid "I am ... sorry."
 msgstr ""
 
@@ -2032,7 +2092,7 @@ msgstr ""
 msgid ""
 "\n"
 "\n"
-"(Intermediate level, 5 scenarios, work in progress)"
+"(Intermediate level, 6 scenarios, work in progress)"
 msgstr ""
 
 #. [campaign]: id=SagaI
