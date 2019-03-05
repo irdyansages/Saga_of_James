@@ -1,6 +1,6 @@
 story images:
 road1.jpg, trail3.jpg by Sgt. Groovy
-village.jpg, forestpath5.jpg by Heindal
+village.jpg, forestpath5.jpg, winterland3.jpg by Heindal
 temple1.jpg by Mille
 
 units:

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Saga_of_James-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-02-27 13:13 UTC\n"
+"POT-Creation-Date: 2019-03-05 16:12 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1992,6 +1992,11 @@ msgstr ""
 #. [part]
 #: Saga_of_James/volume1/utils/story.cfg:85
 msgid "Both of them were so much absorbed in their conversation so they almost did not notice that they reached their destination. They immediately went to the rebels' headquarters. Once there, everyone lied down to rest a bit before the big battle. Everyone but James, Belinda and Aleixo. These three stayed before the building to discuss their strategy."
+msgstr ""
+
+#. [part]
+#: Saga_of_James/volume1/utils/story.cfg:95
+msgid "The journey back to the James' village was very peaceful as no one dared to attack the party. James and Belinda once again used the opportunity to have some light-hearted conversation. They found out a few things which the other liked or disliked and make each other laugh a few times. They were enjoying themselves so much that they did not notice that it started to snow until they were almost in the village."
 msgstr ""
 
 #. [message]: speaker=unit

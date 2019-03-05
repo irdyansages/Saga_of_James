@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Saga_of_James-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-02-27 13:13 UTC\n"
+"POT-Creation-Date: 2019-03-05 16:12 UTC\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Jakub Konečný <jakub.konecny2@centrum.cz>\n"
 "Language-Team: \n"
@@ -2751,6 +2751,22 @@ msgstr ""
 "cíle. Okamžitě šli k velitelství rebelů. Jakmile tam byli, všichni se lehli, "
 "aby si trochu odpočinuli před velkou bitvou. Všichni až na Jamese, Belindu a "
 "Aleixa. Ti tři zůstali před budovou, aby probrali strategii."
+
+#. [part]
+#: Saga_of_James/volume1/utils/story.cfg:95
+msgid ""
+"The journey back to the James' village was very peaceful as no one dared to "
+"attack the party. James and Belinda once again used the opportunity to have "
+"some light-hearted conversation. They found out a few things which the other "
+"liked or disliked and make each other laugh a few times. They were enjoying "
+"themselves so much that they did not notice that it started to snow until "
+"they were almost in the village."
+msgstr ""
+"Zpáteční cesta do Jamesovi vesnice byla velmi poklidná, jelikož se nikdo "
+"neodvážil napadnout družinu. James a Belinda znovu využili příležitosti k "
+"nevázané konverzaci. Dozvěděli se o pár věcem, které ten druhý má či nemá "
+"rád a párkrát se navzájem rozesmáli. Tolik se bavili, že se nevšimli, že "
+"začalo sněžit, až když byli skoro ve vesnici."
 
 #. [message]: speaker=unit
 #: Saga_of_James/volume1/utils/deaths.cfg:11
