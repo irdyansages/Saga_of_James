@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Saga_of_James-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-03-08 19:47 UTC\n"
+"POT-Creation-Date: 2019-03-08 22:22 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -929,14 +929,14 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:129
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:416
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:460
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:595
 msgid "Farewell, the world."
 msgstr ""
 
 #. [message]: speaker=Belinda
 #: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:133
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:420
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:464
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:599
 msgid "James, no! I think ... I'll miss you."
 msgstr ""
@@ -1104,8 +1104,10 @@ msgstr ""
 
 #. [message]: speaker=hunter
 #. [message]: speaker=James
+#. [message]: speaker=unit
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:253
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:377
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:382
 msgid "As you say, Captain."
 msgstr ""
 
@@ -1221,7 +1223,7 @@ msgstr ""
 
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:405
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:432
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:476
 msgid "Without the Captain, we all are as good as dead."
 msgstr ""
 
@@ -1508,93 +1510,133 @@ msgstr ""
 msgid "Ah, yes, I feel better, thank you. Alright, let us go, everyone, we are almost there."
 msgstr ""
 
-#. [message]: speaker=James
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:224
-msgid "Lords of Light, this cannot be happening. I do not believe my eyes."
-msgstr ""
-
-#. [message]: speaker=Belinda
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:228
-msgid "What is wrong, James? ... Oh my, what are those things?"
-msgstr ""
-
-#. [message]: speaker=second_unit
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:234
-msgid "Lords of Light, what is going on here?"
-msgstr ""
-
-#. [message]: speaker=James
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:246
-msgid "This is our village's graveyard and it looks like our dead starting to come out of their graves. It has to be work of a necromancer but why would they be interested in our little village?"
-msgstr ""
-
-#. [message]: speaker=Ligwyn
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:268
-msgid "What's that, next undead? ... Oh, it's you, James. What took you so long? Well, I guess I can hear that later. For now, we need your help once again. You see, our dead have rised from their graves, we need to put them back. Will you help us, please?"
-msgstr ""
-
-#. [message]: speaker=James
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:272
-msgid "Of course, Captain. Actually, my magic could be put to good use here."
-msgstr ""
-
 #. [unit]: type=Warmaster, id=Edgar
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:279
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:221
 msgid "Edgar"
 msgstr ""
 
 #. [message]: speaker=James
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:293
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:239
+msgid "Lords of Light, this cannot be happening. I do not believe my eyes."
+msgstr ""
+
+#. [message]: speaker=Belinda
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:243
+msgid "What is wrong, James? ... Oh my, what are those things?"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:249
+msgid "Lords of Light, what is going on here?"
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:261
+msgid "This is our village's graveyard and it looks like our dead started to come out of their graves. It has to be work of a necromancer but why would they be interested in our little village?"
+msgstr ""
+
+#. [message]: speaker=Ligwyn
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:283
+msgid "What's that, next undead? ... Oh, it's you, James. What took you so long? Well, I guess I can hear that later. For now, we need your help once again. You see, our dead have risen from their graves, we need to put them back. Will you help us, please?"
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:287
+msgid "Of course, Captain. Actually, my magic could be put to good use here."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:297
 msgid "Oh, hail, Edgar. I see that you are still here."
 msgstr ""
 
 #. [message]: speaker=Edgar
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:297
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:301
 msgid "Hi, brother. Of course I'm here. My home village is under attack and I'm a soldier. Where else should I be?"
 msgstr ""
 
 #. [message]: speaker=James
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:301
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:305
 msgid "Sure, sure, I was just surprised to see you."
 msgstr ""
 
 #. [message]: speaker=Edgar
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:305
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:309
 msgid "Oh and I see you've brought a lady friend with you. What is her name?"
 msgstr ""
 
 #. [message]: speaker=James
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:309
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:313
 msgid "It is Belinda, Edgar. Belinda, this is my elder brother Edgar."
 msgstr ""
 
 #. [message]: speaker=Belinda
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:313
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:317
 msgid "Nice to meet you, Edgar."
 msgstr ""
 
 #. [message]: speaker=Edgar
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:317
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:321
 msgid "Pleased to meet you too. Maybe we could ..."
 msgstr ""
 
 #. [message]: speaker=Belinda
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:321
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:325
 msgid "Get back to the battle? Of course."
 msgstr ""
 
 #. [message]: speaker=Edgar
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:325
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:329
 msgid "That's not what I meant but sure. Let's fight these undead."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:444
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:355
+msgid "Ah, it's so nice to be in my village again. Thanks, James, for saving us and bringing us home."
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:359
+msgid "Oh, it was nothing, really."
+msgstr ""
+
+#. [message]: speaker=Ligwyn
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:369
+msgid "Excellent. James, please, come to me. We have something to talk about."
+msgstr ""
+
+#. [message]: speaker=Ligwyn
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:378
+msgid "It's nice to have you all back but there is still a battle to fight. Help us defeat these abominations."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:398
+msgid "And that was the last one, they are all back under the ground."
+msgstr ""
+
+#. [message]: speaker=Ligwyn
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:412
+msgid "Nice job, people. James, please, come to me. We have something to talk about."
+msgstr ""
+
+#. [message]: speaker=Ligwyn
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:421
+msgid "Nice job, people but where are the hunters, James?"
+msgstr ""
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:425
+msgid "They are on their way here, Captain. They should be in the village in a few minutes."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:488
 msgid "So this is the end of my journey. I hope you you'll take care of this undead menace, brother."
 msgstr ""
 
 #. [message]: speaker=James
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:448
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:492
 msgid "No, Edgar, do not die! I cannot continue without you."
 msgstr ""
 
