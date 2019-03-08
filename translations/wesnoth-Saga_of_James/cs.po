@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Saga_of_James-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-03-05 16:12 UTC\n"
+"POT-Creation-Date: 2019-03-08 19:47 UTC\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Jakub Konečný <jakub.konecny2@centrum.cz>\n"
 "Language-Team: \n"
@@ -69,12 +69,12 @@ msgid "TODO."
 msgstr "TODO."
 
 #. [attack]: type=fire
-#: Saga_of_James/units/human-mages/Crusader.cfg:61
+#: Saga_of_James/units/human-mages/Crusader.cfg:58
 msgid "sacred fire"
 msgstr "posvátný oheň"
 
 #. [female]
-#: Saga_of_James/units/human-mages/Crusader.cfg:217
+#: Saga_of_James/units/human-mages/Crusader.cfg:214
 msgid "female^Crusader"
 msgstr "Křižačka"
 
@@ -683,7 +683,7 @@ msgstr "Poraz skřetího vůdce"
 #: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:72
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:112
 #: Saga_of_James/volume1/scenarios/06_Freedom.cfg:173
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:125
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:115
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:142
 #: Saga_of_James/volume1/scenarios/02_In_the_Woods.cfg:106
 msgid "Death of James"
@@ -693,7 +693,7 @@ msgstr "James zemře"
 #: Saga_of_James/volume1/scenarios/03_Elves_Wood.cfg:153
 #: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:76
 #: Saga_of_James/volume1/scenarios/06_Freedom.cfg:177
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:135
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:125
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:146
 msgid "Death of Belinda"
 msgstr "Belinda zemře"
@@ -1151,14 +1151,14 @@ msgstr "Takže je rozhodnuto. Nechť bitva započne."
 
 #. [message]: speaker=unit
 #: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:129
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:284
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:416
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:595
 msgid "Farewell, the world."
 msgstr "Sbohem, světe."
 
 #. [message]: speaker=Belinda
 #: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:133
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:288
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:420
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:599
 msgid "James, no! I think ... I'll miss you."
 msgstr "Jamesi, ne! Myslím, ... že mi budeš chybět."
@@ -1562,7 +1562,7 @@ msgstr "Ne, Jamesi, bez tebe to nedokážeme!"
 
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:405
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:300
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:432
 msgid "Without the Captain, we all are as good as dead."
 msgstr "Bez kapitána jsme všichni mrtví."
 
@@ -1823,7 +1823,7 @@ msgid ""
 "couldn't do it without you."
 msgstr ""
 "Ano, dokázali jsme to! Skřeti jsou jsou poražení. Tisíceré díky, Jamesi, bez "
-"tebe bychom to vážně nezvádli."
+"tebe bychom to vážně nezvládli."
 
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/06_Freedom.cfg:483
@@ -1905,20 +1905,178 @@ msgid "Return"
 msgstr "Návrat"
 
 #. [side]: type=Death Baron, id=DeathBaron
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:74
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:70
 msgid "team_name^Undead"
 msgstr "Nemrtví"
 
 #. [objective]: condition=win
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:102
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:92
 msgid "Enter the village with a village hunter"
 msgstr "Vstup do vesnice s kterýmkoliv vesnickým lovcem"
 
 #. [objective]: condition=win
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:112
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:102
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:123
 msgid "Defeat all enemies"
 msgstr "Poraz všechny nepřátele"
+
+#. [objective]: condition=lose
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:135
+msgid "Death of Edgar"
+msgstr "Edgar zemře"
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:179
+msgid ""
+"Uh, uh. I could use a little break, I am not really used to long treks. ... "
+"Oh, it looks like it started to snow, I did not notice it."
+msgstr ""
+"Uch, uch, musím si na chvíli odpočinout, nejsem zvyklý na dlouhé túry. ... "
+"Ó, vypadá to, že začalo sněžit, vůbec jsem si nevšiml."
+
+#. [message]: speaker=Belinda
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:183
+msgid ""
+"Oh, you're right, I didn't notice either. And by the way, how long is it to "
+"your village, James?"
+msgstr ""
+"Ó, máš pravdu, ani já jsem si nevšimla. A mimochodem, jak daleko je tvá "
+"vesnice, Jamesi?"
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:187
+msgid ""
+"Let me see ... well, we are quite close, we should reach it in less than two "
+"hours."
+msgstr ""
+"Podívejme se ... no, jsme docela blízko, měli bychom se do ní dostat ani ne "
+"za dvě hodiny."
+
+#. [message]: speaker=Belinda
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:191
+msgid "Good, good. And how are you feeling now, James? Can you continue?"
+msgstr "Dobře. A jak ti je teď, Jamesi? Můžeš pokračovat?"
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:195
+msgid ""
+"Ah, yes, I feel better, thank you. Alright, let us go, everyone, we are "
+"almost there."
+msgstr ""
+"Ó, ano, cítím se lépe, děkuji. Dobrá tedy, pojďme, všichni, už jsme skoro "
+"tam."
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:224
+msgid "Lords of Light, this cannot be happening. I do not believe my eyes."
+msgstr "Bohové světla, toto se nemůže dít. Nevěřím svým očím."
+
+#. [message]: speaker=Belinda
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:228
+msgid "What is wrong, James? ... Oh my, what are those things?"
+msgstr "Co se děje, Jamesi? ... Ale ne, co jsou ty věci zač?"
+
+#. [message]: speaker=second_unit
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:234
+msgid "Lords of Light, what is going on here?"
+msgstr "Bohové světla, co se to tu děje?"
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:246
+msgid ""
+"This is our village's graveyard and it looks like our dead starting to come "
+"out of their graves. It has to be work of a necromancer but why would they "
+"be interested in our little village?"
+msgstr ""
+"Toto je hřbitov naší vesnice a vypadá to, že naši mrtvý začali vstávat ze "
+"svých hrobů. Musí to být práce nějakého nekromanta, ale proč by se zajímal o "
+"naši malou vesničku?"
+
+#. [message]: speaker=Ligwyn
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:268
+msgid ""
+"What's that, next undead? ... Oh, it's you, James. What took you so long? "
+"Well, I guess I can hear that later. For now, we need your help once again. "
+"You see, our dead have rised from their graves, we need to put them back. "
+"Will you help us, please?"
+msgstr ""
+"Co to je, další nemrtví? ... Ó, to jsi ty, Jamesi. Co ti tak dlouho trvalo? "
+"No, hádám, že to můžu slyšet později. Právě teď potřebujeme znovu tvou "
+"pomoc. Jak vidíš, naši mrtví začali vstávat ze svých hrobů. Potřebujeme je "
+"dostat zpátky. Pomůžeš nám, prosím?"
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:272
+msgid "Of course, Captain. Actually, my magic could be put to good use here."
+msgstr "Samozřejmě, kapitáne. Vlastně má magie by tu mohla být dobře využitá."
+
+#. [unit]: type=Warmaster, id=Edgar
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:279
+msgid "Edgar"
+msgstr "Edgar"
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:293
+msgid "Oh, hail, Edgar. I see that you are still here."
+msgstr "Ó, zdravím, Edgare. Vidím, že jsi stále tady."
+
+#. [message]: speaker=Edgar
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:297
+msgid ""
+"Hi, brother. Of course I'm here. My home village is under attack and I'm a "
+"soldier. Where else should I be?"
+msgstr ""
+"Ahoj, bratře. Ovšem že jsem tady. Má domovská vesnice je pod útokem a já "
+"jsem voják. Kde jinde bych měl být?"
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:301
+msgid "Sure, sure, I was just surprised to see you."
+msgstr "Jistě, jistě. Jen jsem byl překvapený, že tě vidím."
+
+#. [message]: speaker=Edgar
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:305
+msgid "Oh and I see you've brought a lady friend with you. What is her name?"
+msgstr "Ó a vidím, že jsi sis přivedl sebou kamarádku. Jak se jmenuje?"
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:309
+msgid "It is Belinda, Edgar. Belinda, this is my elder brother Edgar."
+msgstr "Toto je Belinda, Edgare. Belindo, toto je můj starší bratr, Edgar."
+
+#. [message]: speaker=Belinda
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:313
+msgid "Nice to meet you, Edgar."
+msgstr "Ráda tě poznávám, Edgare."
+
+#. [message]: speaker=Edgar
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:317
+msgid "Pleased to meet you too. Maybe we could ..."
+msgstr "Také je mi potěšením. Možná bychom mohli ..."
+
+#. [message]: speaker=Belinda
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:321
+msgid "Get back to the battle? Of course."
+msgstr "Se vrátit k bitvě? Samozřejmě."
+
+#. [message]: speaker=Edgar
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:325
+msgid "That's not what I meant but sure. Let's fight these undead."
+msgstr "To jsem nemyslel, ale jistě. Bojujme s těmito nemrtvými."
+
+#. [message]: speaker=unit
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:444
+msgid ""
+"So this is the end of my journey. I hope you you'll take care of this undead "
+"menace, brother."
+msgstr ""
+"Takže tady končí má cesta. Doufám, že se postaráš o tuto hrozbu nemrtvých, "
+"bratře."
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:448
+msgid "No, Edgar, do not die! I cannot continue without you."
+msgstr "Ne, Edgare, neumírej! Nemohu pokračovat bez tebe."
 
 #. [scenario]: id=04_Resistance
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:29
