@@ -20,4 +20,22 @@
     <exec command="git tag ${version} --message='Version ${version}' --sign" logoutput="true" passthru="true" checkreturn="true"/>
     <echo message="Created tag."/>
   </target>
+  <target name="potUpdate">
+    <dirname property="directory" file="_main.cfg"/>
+    <php function="basename" returnProperty="addonName">
+      <param value="${directory}"/>
+    </php>
+    <property name="wesnothVersion" value="1.14"/>
+    <property name="projectName" value="${addonName}-${wesnothVersion}"/>
+    <property name="textdomain" value="wesnoth-${addonName}"/>
+    <exec executable="wmlxgettext" logoutput="true" passthru="true" checkreturn="true">
+      <arg value="--domain=${textdomain}"/>
+      <arg value="--directory=${directory}"/>
+      <arg value="--recursive"/>
+      <arg value="--warnall"/>
+      <arg value="--package-version=${projectName}"/>
+      <arg value="-o"/>
+      <arg value="translations/skeleton.pot"/>
+    </exec>
+  </target>
 </project>
