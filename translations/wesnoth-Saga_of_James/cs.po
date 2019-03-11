@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Saga_of_James-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-03-08 22:22 UTC\n"
+"POT-Creation-Date: 2019-03-11 20:36 UTC\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Jakub Konečný <jakub.konecny2@centrum.cz>\n"
 "Language-Team: \n"
@@ -1151,14 +1151,14 @@ msgstr "Takže je rozhodnuto. Nechť bitva započne."
 
 #. [message]: speaker=unit
 #: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:129
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:460
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:470
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:595
 msgid "Farewell, the world."
 msgstr "Sbohem, světe."
 
 #. [message]: speaker=Belinda
 #: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:133
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:464
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:474
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:599
 msgid "James, no! I think ... I'll miss you."
 msgstr "Jamesi, ne! Myslím, ... že mi budeš chybět."
@@ -1564,7 +1564,7 @@ msgstr "Ne, Jamesi, bez tebe to nedokážeme!"
 
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:405
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:476
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:486
 msgid "Without the Captain, we all are as good as dead."
 msgstr "Bez kapitána jsme všichni mrtví."
 
@@ -1696,8 +1696,12 @@ msgstr "Jo, co se děje?"
 
 #. [message]: speaker=Aleixo
 #: Saga_of_James/volume1/scenarios/06_Freedom.cfg:300
-msgid " Are you in?"
+msgid ""
+"It is the time, we're launching an all-out attack on the orcs to drive them "
+"out of our village once and for all. Are you in?"
 msgstr ""
+"Je to tady, zahájili jsme totální útok na skřety, abychom je jednou provždy "
+"vyhnali z naší vesnice. Jste s námi?"
 
 #. [message]: type=Huntress
 #: Saga_of_James/volume1/scenarios/06_Freedom.cfg:304
@@ -1812,7 +1816,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: Saga_of_James/volume1/scenarios/06_Freedom.cfg:468
 msgid ""
-"As the orcs' chieftain dead body falls to the ground, the remaining orcs "
+"As the orcs' chieftain's dead body falls to the ground, the remaining orcs "
 "start to flee the village in fear."
 msgstr ""
 "Jakmile mrtvé tělo skřetího náčelníka dopadlo k zemi, zbývající skřeti "
@@ -2120,7 +2124,7 @@ msgid ""
 msgstr "Jsou na cestě, kapitáne. Měli by být ve vesnici do pár minut."
 
 #. [message]: speaker=unit
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:488
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:498
 msgid ""
 "So this is the end of my journey. I hope you you'll take care of this undead "
 "menace, brother."
@@ -2129,7 +2133,7 @@ msgstr ""
 "bratře."
 
 #. [message]: speaker=James
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:492
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:502
 msgid "No, Edgar, do not die! I cannot continue without you."
 msgstr "Ne, Edgare, neumírej! Nemohu pokračovat bez tebe."
 
