@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Saga_of_James-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-03-12 18:13 UTC\n"
+"POT-Creation-Date: 2019-03-14 10:22 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1094,7 +1094,7 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:199
-msgid "On this difficulty level, only 6 peasants and woodsmen can die else you lose. To make their survival a bit easier, they get back all their movement after their every performed attack."
+msgid "You have chosen to play this campaign on the `Nightmare` difficulty level. Both you and enemies have exactly the same gold and income as on `Hard` but it introduces additional challanges. One of them applies to the whole campaign: you recall level 0 units for 20 gold (as opposed to 10 on lower difficulty levels). In this scenario you are allowed to lose only 6 peasants and woodsmen, losing more results in defeat. But to make their survival a bit easier, they get back all their movement after their every performed attack. In later scenarios enemies may get more units at special occasions or you may get special units on lower levels on this difficulty level."
 msgstr ""
 
 #. [message]: speaker=Ligwyn
