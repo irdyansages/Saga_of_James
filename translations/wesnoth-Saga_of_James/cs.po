@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Saga_of_James-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-03-14 10:22 UTC\n"
+"POT-Creation-Date: 2019-03-17 19:13 UTC\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Jakub Konečný <jakub.konecny2@centrum.cz>\n"
 "Language-Team: \n"
@@ -1151,14 +1151,14 @@ msgstr "Takže je rozhodnuto. Nechť bitva započne."
 
 #. [message]: speaker=unit
 #: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:129
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:470
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:555
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:595
 msgid "Farewell, the world."
 msgstr "Sbohem, světe."
 
 #. [message]: speaker=Belinda
 #: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:133
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:474
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:559
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:599
 msgid "James, no! I think ... I'll miss you."
 msgstr "Jamesi, ne! Myslím, ... že mi budeš chybět."
@@ -1379,26 +1379,25 @@ msgstr ""
 #. [message]: speaker=narrator
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:199
 msgid ""
-"You have chosen to play this campaign on the `Nightmare` difficulty level. "
-"Both you and enemies have exactly the same gold and income as on `Hard` but "
-"it introduces additional challanges. One of them applies to the whole "
-"campaign: you recall level 0 units for 20 gold (as opposed to 10 on lower "
-"difficulty levels). In this scenario you are allowed to lose only 6 peasants "
-"and woodsmen, losing more results in defeat. But to make their survival a "
-"bit easier, they get back all their movement after their every performed "
-"attack. In later scenarios enemies may get more units at special occasions "
-"or you may get special units on lower levels on this difficulty level."
+"You have chosen to play this campaign on the Nightmare difficulty level. "
+"Both you and enemies have exactly the same gold and income as on Hard but it "
+"introduces additional challenges. One of them applies to the whole campaign: "
+"you recall level 0 units for 20 gold (as opposed to 10 on lower difficulty "
+"levels). In this scenario you are allowed to lose only 6 peasants and "
+"woodsmen, losing more results in defeat. But to make their survival a bit "
+"easier, they get back all their movement after their every performed attack. "
+"In later scenarios enemies may get more units at special occasions or you "
+"may get special units on lower levels on this difficulty level."
 msgstr ""
-"Rozhodl jsi se hrát toto tažení na `Nehratelné` obtížnosti. Ty i nepřátelé "
-"máte úplně stejné zlato a příjem jako na `Těžké` obtížnosti, ale tato "
-"přináší dodatečné výzvy. Jedna z nich se vztahuje na celé tažení: jednotky "
-"na úrovni 0 přivoláváš za 20 zlaťáků (v protikladu k 10 na nižších "
-"obtížnostech). V tomto scénáři smíš ztratit jen 6 sedláků a lesníků, další "
-"ztráta způsobí porážku. Ale aby bylo jejich přežití trochu lehčí, po každém "
-"svém provedeném útoku dostanou zpět všechny své body pohybu. V pozdějších "
-"scénářích mohou nepřátelé dostat více jednotek při zvláštních příležitostech "
-"nebo ty můžeš dostat zvláštní jednotky na nižších úrovních na této "
-"obtížnosti."
+"Rozhodl jsi se hrát toto tažení na nehratelné obtížnosti. Ty i nepřátelé "
+"máte úplně stejné zlato a příjem jako na těžké obtížnosti, ale tato přináší "
+"dodatečné výzvy. Jedna z nich se vztahuje na celé tažení: jednotky na úrovni "
+"0 přivoláváš za 20 zlaťáků (v protikladu k 10 na nižších obtížnostech). V "
+"tomto scénáři smíš ztratit jen 6 sedláků a lesníků, další ztráta způsobí "
+"porážku. Ale aby bylo jejich přežití trochu lehčí, po každém svém provedeném "
+"útoku dostanou zpět všechny své body pohybu. V pozdějších scénářích mohou "
+"nepřátelé dostat více jednotek při zvláštních příležitostech nebo ty můžeš "
+"dostat zvláštní jednotky na nižších úrovních na této obtížnosti."
 
 #. [message]: speaker=Ligwyn
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:249
@@ -1580,7 +1579,7 @@ msgstr "Ne, Jamesi, bez tebe to nedokážeme!"
 
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:405
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:486
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:571
 msgid "Without the Captain, we all are as good as dead."
 msgstr "Bez kapitána jsme všichni mrtví."
 
@@ -2140,8 +2139,170 @@ msgid ""
 "minutes."
 msgstr "Jsou na cestě, kapitáne. Měli by být ve vesnici do pár minut."
 
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:445
+msgid "I am here, Captain. What did you want to talk about?"
+msgstr "Jsem tady, kapitáne. O čem jste chtěl mluvit?"
+
+#. [message]: speaker=Ligwyn
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:449
+msgid ""
+"I want a report on your previous mission, James. Especially I want to know "
+"what took you so long and who is that woman who arrived with you."
+msgstr ""
+"Chci zprávu z tvé předchozí mise, Jamesi. Hlavně chci vědět, co ti trvalo "
+"tak dlouho a kdo je ta žena, která přišla s tebou."
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:453
+msgid ""
+"Ah, yes, of course. Well, the road was not as clear as we expected. There "
+"were more bandits in the woods, from the band that attacked us. They were "
+"led by the former leader's brother. With some luck we eventually defeated "
+"them. But as we went further, we encountered some elves who were attacked by "
+"orcs."
+msgstr ""
+"Á ano, jistě. Cesta nebyla tak čistá, jak jsme čekali. V lese bylo více "
+"banditů, z té bandy, která nás napadla. Vedl je bratr předchozího vůdce. S "
+"trochou štěstí jsme je nakonec porazili. Ale jak jsme šli dál, narazili jsme "
+"na nějaké elfy, které napadli skřeti."
+
+#. [message]: speaker=Ligwyn
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:457
+msgid ""
+"So you were right about the bandits. Sorry for not believing you back then. "
+"And about the orcs, well, I know that they too make raids on our settlements "
+"but it seems that they go still deeper into our lands."
+msgstr ""
+"Takže jsi měl pravdu o těch banditech. Promiň že jsem ti tehdy nevěřil. A co "
+"se týče skřetů, no, vím, že také podnikají nájezdy na naše osady, ale zdá "
+"se, že postupují stále více do našich zemí."
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:461
+msgid ""
+"And that is not the whole story. Not only they make raids, they even "
+"conquered some villages. Like the one which our hunters visited."
+msgstr ""
+"A to není celý příběh. Nejen že podnikají nájezdy, dokonce obsadili nějaké "
+"vesnice. Jako tu, kterou naši lovci navštívili."
+
+#. [message]: speaker=Ligwyn
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:465
+msgid "Lords of Light! This is really bad. How did you make it out alive?"
+msgstr "Bohové světla! To je opravdu zlé. Jak jste se od tama dostali živý?"
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:469
+msgid ""
+"Well, we did not run out, we actually helped their hunters to drive them "
+"out. It was a really big and long battle but we actually emerged victorious."
+msgstr ""
+"No, neutekli jsme, vlastně jsme jejich lovcům pomohli je vyhnat. Byla to "
+"opravdu velká a dlouhá bitva, ale nakonec jsme zvítězili."
+
+#. [message]: speaker=Ligwyn
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:473
+msgid ""
+"Wow, just wow. I wouldn't think you'd fight them, let alone win. "
+"Congratulation. But I don't think they'll just give up, they'll probably "
+"just try harder. Maybe we should start preparing for their attack. Well, "
+"that was one thing. Now, who is that woman?"
+msgstr ""
+"Páni, prostě páni. Nemyslel bych si, že by jsi s nimi bojoval, natož vyhrál. "
+"Blahopřeji. Ale nemyslím si, že jen tak vzdají. Nejspíš se jen budou víc "
+"snažit. Možná bychom se měli začít připravovat na jejich útok. No, to bychom "
+"měli jednu věc. Teď kdo je ta žena?"
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:477
+msgid ""
+"Oh, it is Belinda. She helped us a lot. She not only guided us in the woods "
+"but she is actually a really good fighter."
+msgstr ""
+"Ó, to je Belinda, hodně nám pomohla. Nejen že nás provedla lesem, ale také "
+"je velmi dobrá bojovnice."
+
+#. [message]: speaker=Ligwyn
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:481
+msgid ""
+"Well, then, she's welcome in our village. Now, if you excuse me, I got to go."
+msgstr ""
+"No v tom případě je vítaná v naší vesnice. A teď když mě omluvíš, musím jít."
+
+#. [message]: speaker=Belinda
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:496
+msgid "So you all are home again."
+msgstr "Takže jste všichni opět doma."
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:500
+msgid ""
+"Ah, yes. Thank you, B-Belinda, for helping us. It was nice having you around."
+msgstr ""
+"Á, ano. Děkuji ti, B-Belindo, že jsi nám pomohla. Bylo příjemné tě mít "
+"poblíž."
+
+#. [message]: speaker=Belinda
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:504
+msgid ""
+"I enjoyed it too. Actually, I don't want to leave now, I' d miss you so "
+"much. You're a good man and companion. I love you, James."
+msgstr ""
+"Taky jsem si to užila. Vlastně nechci odejít, moc by jsi mi chyběl. Jsi "
+"dobrý člověk a společník. Miluji tě, Jamesi."
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:508
+msgid ""
+"You lo- ... Am I dreaming? ... Everything looks real. ... Well ... I-I ... "
+"love you too, Belinda. I want to stay with you for the rest of my days."
+msgstr ""
+"Ty mně ... Sním? ... Všechno vypadá skutečně. ... No ... J-já ... tě taky "
+"miluji, Belindo. Chci s tebou zůstat až do konce svých dní."
+
+#. [message]: speaker=Edgar
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:512
+msgid ""
+"Damn it, I never had a chance with this girl, did I? But I should probably "
+"be happy for James, I thought he's going to die like an old hermit."
+msgstr ""
+"Sakra, u téhle holky jsem nikdy neměl šanci, že? Ale nejspíš bych měl mít z "
+"Jamese radost. Myslel jsem si, že umře jako starý poustevník."
+
+#. [message]: speaker=Belinda
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:516
+msgid ""
+"Oh, James ... I'll never leave you. I'll always love and honour you and "
+"stand by your side. Even after death do us part. (tooks him by the hand and "
+"kisses him)"
+msgstr ""
+"Ó, Jamesi ... Nikdy tě neopustím. Vždy tě budu milovat a ctít a stát po tvém "
+"boku. I poté co nás smrt rozdělí. (vezme ho za ruku a políbí ho)"
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:520
+msgid "... (blushing deeply)"
+msgstr "... (hluboce se červená)"
+
+#. [message]: speaker=Edgar
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:524
+msgid ""
+"I'm happy for you two. I wish I could stay but my vacation is officially "
+"long over. I'm just going to drop by our sister and parents, say my goodbyes "
+"and I'm on my way. So best of luck to you two and see you later."
+msgstr ""
+"Mám z vás dvou radost. Přál bych si, abych mohl zůstat, ale má dovolená už "
+"dávno oficiálně skončila. Jen se zastavím u naší sestry a rodiče, rozloučím "
+"se a už jsem pryč. Takže hodně štěstí vám dvěma a uvidíme se později."
+
+#. [message]: speaker=James
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:528
+msgid "Thank you, Edgar and goodbye."
+msgstr "Děkuji, Edgare a sbohem."
+
 #. [message]: speaker=unit
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:498
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:583
 msgid ""
 "So this is the end of my journey. I hope you you'll take care of this undead "
 "menace, brother."
@@ -2150,7 +2311,7 @@ msgstr ""
 "bratře."
 
 #. [message]: speaker=James
-#: Saga_of_James/volume1/scenarios/07_Return.cfg:502
+#: Saga_of_James/volume1/scenarios/07_Return.cfg:587
 msgid "No, Edgar, do not die! I cannot continue without you."
 msgstr "Ne, Edgare, neumírej! Nemohu pokračovat bez tebe."
 
@@ -3134,11 +3295,11 @@ msgstr ""
 msgid ""
 "\n"
 "\n"
-"(Intermediate level, 6 scenarios, work in progress)"
+"(Intermediate level, 7 scenarios, work in progress)"
 msgstr ""
 "\n"
 "\n"
-"(Obtížnost: pokročilý hráč, 6 scénářů, ve vývoji)"
+"(Obtížnost: pokročilý hráč, 7 scénářů, ve vývoji)"
 
 #. [campaign]: id=SagaI
 #: Saga_of_James/volume1/_main.cfg:29
