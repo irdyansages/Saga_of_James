@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Saga_of_James-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-03-17 19:13 UTC\n"
+"POT-Creation-Date: 2019-03-17 19:32 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1708,7 +1708,7 @@ msgstr ""
 
 #. [message]: speaker=Belinda
 #: Saga_of_James/volume1/scenarios/07_Return.cfg:516
-msgid "Oh, James ... I'll never leave you. I'll always love and honour you and stand by your side. Even after death do us part. (tooks him by the hand and kisses him)"
+msgid "Oh, James ... I'll never leave you. I'll always love and honour you and stand by your side. Even after death do us part. (takes him by the hand and kisses him)"
 msgstr ""
 
 #. [message]: speaker=James
