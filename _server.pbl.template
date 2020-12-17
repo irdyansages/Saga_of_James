@@ -11,3 +11,12 @@ type="campaign"
 version="XXX"
 passphrase="XXX"
 dependencies=War_of_Legends
+[translation]
+  language="cs"
+  title="Sága o Jamesi z Penrhynu"
+  description="Sleduj dobrodružství mága Jamese. Sleduj jeho cestu z obyčejného mága v nejmocnějšího (lidského) čaroděje, který kdy chodil po Severních zemích. Jak jej jeho síly změny? Sleduj i toto vlastníma očima.
+
+(Ve vývoji. Vyžaduje nainstalované rozšíření War of Legends.
+Kapitola 1 - 7 hratelných scénářů)
+git repositář: https://github.com/irdyansages/Saga_of_James"
+[/translation]
