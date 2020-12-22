@@ -1,0 +1,28 @@
+# Project Management
+/.github/               @irdyansages/project-management
+/README.md              @irdyansages/project-management
+/COPYING.txt            @irdyansages/project-management
+.gitignore              @irdyansages/project-management
+
+# Release Management
+/_server.pbl.template   @irdyansages/release-managers-saga-of-james
+/CHANGELOG.md           @irdyansages/release-managers-saga-of-james
+/build.xml              @irdyansages/release-managers-saga-of-james
+/dist/                  @irdyansages/release-managers-saga-of-james
+/_server.ign            @irdyansages/release-managers-saga-of-james
+.gitattributes          @irdyansages/release-managers-saga-of-james
+
+# Continous integeration
+/.gitlab-ci.yml         @konecnyjakub
+
+# Translations
+/translations/          @irdyansages/translations-masters
+
+# WML
+*.cfg                   @irdyansages/wml-wizards
+story.cfg               @irdyansages/wml-wizards @irdyansages/lore-masters
+deaths.cfg              @irdyansages/wml-wizards @irdyansages/lore-masters
+scenarios/              @irdyansages/wml-wizards @irdyansages/lore-masters
+
+# Maps
+*.map                   @irdyansages/map-makers
