@@ -51,7 +51,7 @@ msgstr ""
 #. [leadership]: id=guerrilla inspire
 #: Saga_of_James/macros/abilities.cfg:27
 msgid "inspire"
-msgstr "inspirace"
+msgstr "inspiruje"
 
 #. [leadership]: id=guerrilla inspire
 #: Saga_of_James/macros/abilities.cfg:30
@@ -102,12 +102,12 @@ msgstr ""
 #. [heals]: id=healing
 #: Saga_of_James/macros/abilities.cfg:55
 msgid "female^sustains +4"
-msgstr "údržba +4"
+msgstr "údržuje +4"
 
 #. [heals]: id=healing
 #: Saga_of_James/macros/abilities.cfg:56
 msgid "sustains +4"
-msgstr "údržba +4"
+msgstr "údržuje +4"
 
 #. [heals]: id=healing
 #: Saga_of_James/macros/abilities.cfg:57
@@ -126,12 +126,12 @@ msgstr ""
 #. [heals]: id=healing
 #: Saga_of_James/macros/abilities.cfg:75
 msgid "sustains +8"
-msgstr "údržba +8"
+msgstr "údržuje +8"
 
 #. [heals]: id=healing
 #: Saga_of_James/macros/abilities.cfg:76
 msgid "female^sustains +8"
-msgstr "údržba +8"
+msgstr "údržuje +8"
 
 #. [heals]: id=healing
 #: Saga_of_James/macros/abilities.cfg:77
@@ -169,12 +169,12 @@ msgstr ""
 #. [heals]: id=healing
 #: Saga_of_James/macros/abilities.cfg:109
 msgid "heals +12"
-msgstr "léčení +12"
+msgstr "léčí +12"
 
 #. [heals]: id=healing
 #: Saga_of_James/macros/abilities.cfg:110
 msgid "female^heals +12"
-msgstr "léčení +12"
+msgstr "léčí +12"
 
 #. [heals]: id=healing
 #: Saga_of_James/macros/abilities.cfg:111
@@ -484,7 +484,7 @@ msgid ""
 "Asexual units are not sexually attracted to others and as such are immune to "
 "any kind of seduction."
 msgstr ""
-"Asexuální jednotky nejsou sexuálně přitahovány ostatní a proto jsou immnuní "
+"Asexuální jednotky nejsou sexuálně přitahovány ostatními a proto jsou imunní "
 "vůči jakékoliv formě svádění."
 
 #. [unit_type]: id=Cateline_Celestial_Messenger, race=human
@@ -576,7 +576,7 @@ msgstr "pekelný oheň"
 #. [heal_on_hit]: id=fire_heal_on_hit
 #: Saga_of_James/units/heroes/Elementalist.cfg:66
 msgid "heal on hit"
-msgstr "léčení při zásahu"
+msgstr "léč při zásahu"
 
 #. [heal_on_hit]: id=fire_heal_on_hit
 #: Saga_of_James/units/heroes/Elementalist.cfg:67
@@ -640,6 +640,11 @@ msgid ""
 "the knowledge what he passed to you. You must defeat him to make sure that "
 "the artifact will not fall to the wrong hands."
 msgstr ""
+"Tento muž ovládl elementální magii, ale rozhodl se své síly používat ve "
+"službách zlého mistra. Je jeho nejdůvěryhodnějším služebníkem a nyní dostal "
+"za úkol získat artefakt. Oklamal tě a přiměl tě udělat jeho úkol za něj s "
+"použitím znalostí, které ti předal. Musíš ho porazit, aby jsi zajistil, že "
+"artefakt nepadne do špatných rukou."
 
 #. [advancement]: id=ethereal storm
 #: Saga_of_James/units/heroes/Elvish_Avatar.cfg:50
@@ -1455,12 +1460,12 @@ msgstr ""
 #. [message]: speaker=Ligwyn
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:306
 msgid "Anyhow tell me right now where is the rest of the party."
-msgstr ""
+msgstr "Každopádně, teď hned mi řekni, kde je zbytek party."
 
 #. [message]: speaker=Ligwyn
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:312
 msgid "But where is the hunting party, by the way?"
-msgstr ""
+msgstr "A mimochodem, kde je zbytek lovecké party?"
 
 #. [message]: speaker=Ligwyn
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:319
@@ -2764,7 +2769,7 @@ msgstr ""
 #. [message]: speaker=Aleixo
 #: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:178
 msgid "And that's it, the nagas are a history now. Excellent work, people."
-msgstr ""
+msgstr "A je to. Nagy jsou minulostí. Skvělá práce, lidi."
 
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:182
