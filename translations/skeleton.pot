@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Saga_of_James-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-02-13 21:50 UTC\n"
+"POT-Creation-Date: 2022-02-14 17:28 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -568,7 +568,7 @@ msgstr ""
 
 #. [special_note]
 #: Saga_of_James/units/heroes/Mystic.cfg:47
-msgid "SPECIAL_NOTE^Mystics are well-attuned to their magical natures and are highly resistant to non-physical damage."
+msgid "Mystics are well-attuned to their magical natures and are highly resistant to non-physical damage."
 msgstr ""
 
 #. [advancement]: id=magic
@@ -799,12 +799,12 @@ msgid "female^Crusader"
 msgstr ""
 
 #. [unit_type]: id=Gold Mage, race=human
-#: Saga_of_James/units/human-mages/Mage_Gold.cfg:5
+#: Saga_of_James/units/human-mages/Mage_Gold.cfg:6
 msgid "Gold Mage"
 msgstr ""
 
 #. [unit_type]: id=Gold Mage, race=human
-#: Saga_of_James/units/human-mages/Mage_Gold.cfg:20
+#: Saga_of_James/units/human-mages/Mage_Gold.cfg:21
 msgid ""
 "Amongst the various Magi orders, the Silver one is certain the most enigmatic, surpassed in its mysteriousity only by the Gold order. Only the best Silver Magi could aspire to become Gold Magi, and being one of them is perhaps an even greater honor than being a Great Mage.\n"
 "Instead of focusing their studies on the brute force of their missiles, they follow a secret path of training, that leads them to learning better protection spells and improving their fighting technique, not forgetting their teleport spells.\n"
@@ -814,12 +814,12 @@ msgid ""
 msgstr ""
 
 #. [special_note]
-#: Saga_of_James/units/human-mages/Mage_Gold.cfg:26
-msgid "SPECIAL_NOTE^Gold Magi are well-attuned to their magical natures and are highly resistant to non-physical damage."
+#: Saga_of_James/units/human-mages/Mage_Gold.cfg:27
+msgid "Gold Magi are well-attuned to their magical natures and are highly resistant to non-physical damage."
 msgstr ""
 
 #. [female]
-#: Saga_of_James/units/human-mages/Mage_Gold.cfg:272
+#: Saga_of_James/units/human-mages/Mage_Gold.cfg:273
 msgid "female^Gold Mage"
 msgstr ""
 
