@@ -25,7 +25,7 @@
     <php function="basename" returnProperty="addonName">
       <param value="${directory}"/>
     </php>
-    <property name="wesnothVersion" value="1.14"/>
+    <property name="wesnothVersion" value="1.16"/>
     <property name="projectName" value="${addonName}-${wesnothVersion}"/>
     <property name="textdomain" value="wesnoth-${addonName}"/>
     <exec executable="wmlxgettext" logoutput="true" passthru="true" checkreturn="true">
