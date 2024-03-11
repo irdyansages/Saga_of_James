@@ -5,8 +5,8 @@ stages:
   stage: test
   
   script:
-    - /usr/share/games/wesnoth/1.14/data/tools/wmllint --dryrun /usr/share/games/wesnoth/1.14/data/core .
+    - /usr/share/games/wesnoth/1.16/data/tools/wmllint --dryrun /usr/share/games/wesnoth/1.16/data/core .
 
 test:default:           
   <<: *test_job                        
-  image: konecnyjakub/wesnoth:1.14 
+  image: konecnyjakub/wesnoth:1.16 
