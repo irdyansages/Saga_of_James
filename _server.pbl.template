@@ -11,7 +11,7 @@ type="campaign"
 version="XXX"
 passphrase="XXX"
 dependencies=War_of_Legends
-tags=northlands,mage protagonist,mages,militia,bandits,orcs
+tags="northlands,mage protagonist,mages,militia,bandits,orcs"
 [translation]
   language="cs"
   title="Sága o Jamesi z Penrhynu"
