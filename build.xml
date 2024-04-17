@@ -35,7 +35,7 @@
       <arg value="--warnall"/>
       <arg value="--package-version=${projectName}"/>
       <arg value="-o"/>
-      <arg value="translations/skeleton.pot"/>
+      <arg value="translations/wesnoth-Saga_of_James.pot"/>
     </exec>
   </target>
 </project>
