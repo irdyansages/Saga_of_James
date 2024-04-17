@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Saga_of_James-1.16\n"
+"Project-Id-Version: Saga_of_James-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-02-14 17:28 UTC\n"
 "PO-Revision-Date: \n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #: Saga_of_James/_main.cfg:24
 msgid "Version:"
