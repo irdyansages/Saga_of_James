@@ -5,11 +5,10 @@
 .gitignore              @irdyansages/project-management
 
 # Release Management
-/_server.pbl.template   @irdyansages/release-managers-saga-of-james
+/_server.pbl		@irdyansages/release-managers-saga-of-james
 /CHANGELOG.md           @irdyansages/release-managers-saga-of-james
 /build.xml              @irdyansages/release-managers-saga-of-james
 /dist/                  @irdyansages/release-managers-saga-of-james
-/_server.ign            @irdyansages/release-managers-saga-of-james
 .gitattributes          @irdyansages/release-managers-saga-of-james
 
 # Continous integeration
