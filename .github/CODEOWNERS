@@ -7,12 +7,12 @@
 # Release Management
 /_server.pbl		@irdyansages/release-managers-saga-of-james
 /CHANGELOG.md           @irdyansages/release-managers-saga-of-james
-/build.xml              @irdyansages/release-managers-saga-of-james
 /dist/                  @irdyansages/release-managers-saga-of-james
 .gitattributes          @irdyansages/release-managers-saga-of-james
 
 # Continous integeration
-/.gitlab-ci.yml         @konecnyjakub
+/.gitlab-ci.yml         @irdyansages/devops
+/.github/workflows/	@irdyansages/devops
 
 # Translations
 /translations/          @irdyansages/translations-masters
