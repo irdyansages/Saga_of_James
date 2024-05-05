@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Saga_of_James-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-04-17 18:01 UTC\n"
+"POT-Creation-Date: 2024-05-05 15:39 UTC\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Jakub Konečný <jakub.konecny2@centrum.cz>\n"
 "Language-Team: \n"
@@ -738,7 +738,7 @@ msgstr "ještě více obeznámený s magickými teoriemi"
 
 #. [advancement]: id=fireball
 #: Saga_of_James/units/heroes/Mystic.cfg:398
-#: Saga_of_James/units/heroes/Mystic.cfg:865
+#: Saga_of_James/units/heroes/Mystic.cfg:856
 msgid "able to cast fireball"
 msgstr "schopný seslat ohnivou kouli"
 
@@ -749,7 +749,7 @@ msgstr ""
 
 #. [advancement]: id=chill
 #: Saga_of_James/units/heroes/Mystic.cfg:430
-#: Saga_of_James/units/heroes/Mystic.cfg:830
+#: Saga_of_James/units/heroes/Mystic.cfg:821
 msgid "able to cast chill tempest"
 msgstr "schopný seslat mrazivou bouři"
 
@@ -856,17 +856,17 @@ msgid "able to cast ethereal storm"
 msgstr "schopný seslat éterickou bouři"
 
 #. [variation]
-#: Saga_of_James/units/heroes/Mystic.cfg:808
+#: Saga_of_James/units/heroes/Mystic.cfg:799
 msgid "Fireball"
 msgstr "Ohnivá koule"
 
 #. [variation]
-#: Saga_of_James/units/heroes/Mystic.cfg:843
+#: Saga_of_James/units/heroes/Mystic.cfg:834
 msgid "Chill"
 msgstr "Mrazivá bouře"
 
 #. [variation]
-#: Saga_of_James/units/heroes/Mystic.cfg:878
+#: Saga_of_James/units/heroes/Mystic.cfg:869
 msgid "Fireball + Chill"
 msgstr "Ohnivá koule + Mrazivá bouře"
 
@@ -878,16 +878,24 @@ msgstr "Lesní žena"
 #. [unit_type]: id=Woodswoman, race=human, gender=female
 #: Saga_of_James/units/heroes/Woodswoman.cfg:39
 msgid ""
-"Either too rebellious or too adventurous, some women leave their villages "
-"and settle down in nearby woods. But they just cannot stay at one place all "
-"the time, so they often wander woods and hunt animals for food with daggers "
-"and bows what they made themselves."
+"Either too adventurous or just dissatisfied with their lives in a village, "
+"some women leave their villages and settle down in nearby woods. But they "
+"just cannot stay at one place all the time, so they often wander woods and "
+"hunt animals for food with daggers and bows what they made themselves."
 msgstr ""
 
 #. [unit_type]: id=Hunteress, race=human, gender=female
 #: Saga_of_James/units/heroes/Woodswoman.cfg:149
 msgid "Hunteress"
 msgstr "Lovkyně"
+
+#. [unit_type]: id=Hunteress, race=human, gender=female
+#: Saga_of_James/units/heroes/Woodswoman.cfg:163
+msgid ""
+"After spending some time in the wilderness, these women got better at "
+"protecting themselves from wild animals and are called hunteresses by passer-"
+"byes."
+msgstr ""
 
 #. [unit_type]: id=Master_Hunteress, race=human, gender=female
 #: Saga_of_James/units/heroes/Woodswoman.cfg:274
@@ -3567,7 +3575,7 @@ msgid "I shouldn't have joined this expedition."
 msgstr "Neměl jsem se připojit k téhle výpravě."
 
 #. [part]
-#: Saga_of_James/volume1/utils/story.cfg:6
+#: Saga_of_James/volume1/utils/story.cfg:8
 msgid ""
 "The year is 362. Haldric IV., king of Wesnoth has died a few years ago and "
 "left no heir and various noblemen started to fight each other to claim the "
@@ -3586,7 +3594,7 @@ msgstr ""
 "na obou stranách."
 
 #. [part]
-#: Saga_of_James/volume1/utils/story.cfg:10
+#: Saga_of_James/volume1/utils/story.cfg:12
 msgid ""
 "The Northlands are not either so safe to live in. Local earldoms are not "
 "very strong and the orcs frequently test their defenses. As if that was not "
@@ -3602,7 +3610,7 @@ msgstr ""
 "silnějšími a bitvou protřelí. Takže tyto útoky jsou stále méně častější."
 
 #. [part]
-#: Saga_of_James/volume1/utils/story.cfg:14
+#: Saga_of_James/volume1/utils/story.cfg:16
 msgid ""
 "In one such village about three decades years ago, a boy named James was "
 "born. He was not exceptional in any way, just an average child. Well, he was "
@@ -3621,7 +3629,7 @@ msgstr ""
 "magii na Velkou akademii na ostrově Alduin."
 
 #. [part]
-#: Saga_of_James/volume1/utils/story.cfg:18
+#: Saga_of_James/volume1/utils/story.cfg:20
 msgid ""
 "He did not belong to the best students at the island, his grades were just "
 "passing. Though he studied hard and at the end successfully graduated. After "
@@ -3638,7 +3646,7 @@ msgstr ""
 "poklidná."
 
 #. [part]
-#: Saga_of_James/volume1/utils/story.cfg:22
+#: Saga_of_James/volume1/utils/story.cfg:24
 msgid ""
 "But one day, when their hunting party was gone, a bigger group of bandits "
 "decided to plunder the village."
@@ -3647,7 +3655,7 @@ msgstr ""
 "banditů vyrabovat vesnici."
 
 #. [part]
-#: Saga_of_James/volume1/utils/story.cfg:31
+#: Saga_of_James/volume1/utils/story.cfg:33
 msgid ""
 "The following night was rather peaceful for James. Unlike usually, he have "
 "not read a book before going to his bed. He was thinking what could happen "
@@ -3658,7 +3666,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Saga_of_James/volume1/utils/story.cfg:34
+#: Saga_of_James/volume1/utils/story.cfg:36
 msgid ""
 "Next day, James woke up an hour before the sun rose. He quickly dressed up "
 "his mage's robe and had a breakfast. After that he decided to go to see his "
@@ -3671,14 +3679,14 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Saga_of_James/volume1/utils/story.cfg:37
+#: Saga_of_James/volume1/utils/story.cfg:39
 msgid ""
 "When the sun rose, James met the villagers by whose side he fought the "
 "bandits, to go with them to the woods to search for their hunting party."
 msgstr ""
 
 #. [part]
-#: Saga_of_James/volume1/utils/story.cfg:46
+#: Saga_of_James/volume1/utils/story.cfg:48
 msgid ""
 "The next day of their journey went without any conflict. The few bandits who "
 "saw the party going through the wood tried to avoid them because they heard "
@@ -3689,7 +3697,7 @@ msgstr ""
 "neboť slyšeli o nedávné bitvě."
 
 #. [part]
-#: Saga_of_James/volume1/utils/story.cfg:50
+#: Saga_of_James/volume1/utils/story.cfg:52
 msgid ""
 "The party found a few signs confirming that their village's hunting party "
 "was going through this area but they themselves were nowhere to see. But at "
@@ -3702,7 +3710,7 @@ msgstr ""
 "zkřížila cestu."
 
 #. [part]
-#: Saga_of_James/volume1/utils/story.cfg:59
+#: Saga_of_James/volume1/utils/story.cfg:61
 msgid ""
 "After defeating the orcs, the party traveled to north-east to continue in "
 "their search. For some time, footprints of the village hunters were very "
@@ -3714,7 +3722,7 @@ msgstr ""
 "zničehonic zmizely. Bylo to poblíž menší lidské osady."
 
 #. [part]
-#: Saga_of_James/volume1/utils/story.cfg:63
+#: Saga_of_James/volume1/utils/story.cfg:65
 msgid ""
 "It looked quite similar to their home village but some of the buildings bore "
 "signs of being damaged recently and its inhabitants were nowhere to see. It "
@@ -3729,7 +3737,7 @@ msgstr ""
 "kroky jejich lovců."
 
 #. [part]
-#: Saga_of_James/volume1/utils/story.cfg:72
+#: Saga_of_James/volume1/utils/story.cfg:74
 msgid ""
 "Once the trolls and wolf riders were defeated, the party wasted no time and "
 "moved towards the next enemy - nagas. Aleixo has led the party to the new "
@@ -3746,7 +3754,7 @@ msgstr ""
 "útok."
 
 #. [part]
-#: Saga_of_James/volume1/utils/story.cfg:81
+#: Saga_of_James/volume1/utils/story.cfg:83
 msgid ""
 "Once the nagas were a history, the party started their march back to the "
 "village. This time, they did not have to watch out for enemies so James had "
@@ -3761,7 +3769,7 @@ msgstr ""
 "Začínal mít rád tuto ženu."
 
 #. [part]
-#: Saga_of_James/volume1/utils/story.cfg:85
+#: Saga_of_James/volume1/utils/story.cfg:87
 msgid ""
 "Both of them were so much absorbed in their conversation so they almost did "
 "not notice that they reached their destination. They immediately went to the "
@@ -3775,7 +3783,7 @@ msgstr ""
 "Aleixa. Ti tři zůstali před budovou, aby probrali strategii."
 
 #. [part]
-#: Saga_of_James/volume1/utils/story.cfg:94
+#: Saga_of_James/volume1/utils/story.cfg:96
 msgid ""
 "The journey back to the James' village was very peaceful as no one dared to "
 "attack the party. James and Belinda once again used the opportunity to have "

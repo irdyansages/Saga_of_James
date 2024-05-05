@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Saga_of_James-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-04-17 18:01 UTC\n"
+"POT-Creation-Date: 2024-05-05 15:39 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -596,7 +596,7 @@ msgstr ""
 
 #. [advancement]: id=fireball
 #: Saga_of_James/units/heroes/Mystic.cfg:398
-#: Saga_of_James/units/heroes/Mystic.cfg:865
+#: Saga_of_James/units/heroes/Mystic.cfg:856
 msgid "able to cast fireball"
 msgstr ""
 
@@ -607,7 +607,7 @@ msgstr ""
 
 #. [advancement]: id=chill
 #: Saga_of_James/units/heroes/Mystic.cfg:430
-#: Saga_of_James/units/heroes/Mystic.cfg:830
+#: Saga_of_James/units/heroes/Mystic.cfg:821
 msgid "able to cast chill tempest"
 msgstr ""
 
@@ -704,17 +704,17 @@ msgid "able to cast ethereal storm"
 msgstr ""
 
 #. [variation]
-#: Saga_of_James/units/heroes/Mystic.cfg:808
+#: Saga_of_James/units/heroes/Mystic.cfg:799
 msgid "Fireball"
 msgstr ""
 
 #. [variation]
-#: Saga_of_James/units/heroes/Mystic.cfg:843
+#: Saga_of_James/units/heroes/Mystic.cfg:834
 msgid "Chill"
 msgstr ""
 
 #. [variation]
-#: Saga_of_James/units/heroes/Mystic.cfg:878
+#: Saga_of_James/units/heroes/Mystic.cfg:869
 msgid "Fireball + Chill"
 msgstr ""
 
@@ -725,12 +725,17 @@ msgstr ""
 
 #. [unit_type]: id=Woodswoman, race=human, gender=female
 #: Saga_of_James/units/heroes/Woodswoman.cfg:39
-msgid "Either too rebellious or too adventurous, some women leave their villages and settle down in nearby woods. But they just cannot stay at one place all the time, so they often wander woods and hunt animals for food with daggers and bows what they made themselves."
+msgid "Either too adventurous or just dissatisfied with their lives in a village, some women leave their villages and settle down in nearby woods. But they just cannot stay at one place all the time, so they often wander woods and hunt animals for food with daggers and bows what they made themselves."
 msgstr ""
 
 #. [unit_type]: id=Hunteress, race=human, gender=female
 #: Saga_of_James/units/heroes/Woodswoman.cfg:149
 msgid "Hunteress"
+msgstr ""
+
+#. [unit_type]: id=Hunteress, race=human, gender=female
+#: Saga_of_James/units/heroes/Woodswoman.cfg:163
+msgid "After spending some time in the wilderness, these women got better at protecting themselves from wild animals and are called hunteresses by passer-byes."
 msgstr ""
 
 #. [unit_type]: id=Master_Hunteress, race=human, gender=female
@@ -2674,82 +2679,82 @@ msgid "I shouldn't have joined this expedition."
 msgstr ""
 
 #. [part]
-#: Saga_of_James/volume1/utils/story.cfg:6
+#: Saga_of_James/volume1/utils/story.cfg:8
 msgid "The year is 362. Haldric IV., king of Wesnoth has died a few years ago and left no heir and various noblemen started to fight each other to claim the throne for themselves. Yet no one of them managed to secure it for good so the kingdom is burned with the civil war. The orcs feel an opportunity to their rise and domination all over the Great Continent. They are attacking the kingdom of Wesnoth relentlessly and numerously. Their attacks are always repelled but with huge losses on both sides."
 msgstr ""
 
 #. [part]
-#: Saga_of_James/volume1/utils/story.cfg:10
+#: Saga_of_James/volume1/utils/story.cfg:12
 msgid "The Northlands are not either so safe to live in. Local earldoms are not very strong and the orcs frequently test their defenses. As if that was not enough, human outlaws often make raids on small settlements. In most cases, a few militiamen lose their lives, though the rest of them are growing stronger and battle-hardened. So this attacks are becoming less and less frequent."
 msgstr ""
 
 #. [part]
-#: Saga_of_James/volume1/utils/story.cfg:14
+#: Saga_of_James/volume1/utils/story.cfg:16
 msgid "In one such village about three decades years ago, a boy named James was born. He was not exceptional in any way, just an average child. Well, he was quiet and not very gregarious. He spent a lot of time closed in his room, thinking about mysteries and reading books instead of playing outside with children of the same age. His parents, smaller traders, were a bit concern about it at first but later they decided to send their youngest descendant study magic at the Great Academy on the Isle of Alduin."
 msgstr ""
 
 #. [part]
-#: Saga_of_James/volume1/utils/story.cfg:18
+#: Saga_of_James/volume1/utils/story.cfg:20
 msgid "He did not belong to the best students at the island, his grades were just passing. Though he studied hard and at the end successfully graduated. After that he decided not to serve as an advisor of an earl but to return to his village and help its inhabitants with his newly gained knowledge and skills. Slowly, he was becoming a bit respected but was still lacking any real friend. The village was rather peaceful."
 msgstr ""
 
 #. [part]
-#: Saga_of_James/volume1/utils/story.cfg:22
+#: Saga_of_James/volume1/utils/story.cfg:24
 msgid "But one day, when their hunting party was gone, a bigger group of bandits decided to plunder the village."
 msgstr ""
 
 #. [part]
-#: Saga_of_James/volume1/utils/story.cfg:31
+#: Saga_of_James/volume1/utils/story.cfg:33
 msgid "The following night was rather peaceful for James. Unlike usually, he have not read a book before going to his bed. He was thinking what could happen to their hunting party. Images of some horrible scenes was coming to the mage's mind. But after half an hour he came to conclusion that they are just fine. That they just do not know that way back is safe now. He quickly fell asleep after that."
 msgstr ""
 
 #. [part]
-#: Saga_of_James/volume1/utils/story.cfg:34
+#: Saga_of_James/volume1/utils/story.cfg:36
 msgid "Next day, James woke up an hour before the sun rose. He quickly dressed up his mage's robe and had a breakfast. After that he decided to go to see his elder brother. He have not seen him since he went to the Isle of Alduin. After he returned to his home village, his parents told him that their eldest descendant proved himself to be a great help to their militia and after a few years he was recruited to the Earl's army. He was very busy but now he was set free of duty and he decided to visit his family. He praised James' behavior during the battle and wished him good luck in his task."
 msgstr ""
 
 #. [part]
-#: Saga_of_James/volume1/utils/story.cfg:37
+#: Saga_of_James/volume1/utils/story.cfg:39
 msgid "When the sun rose, James met the villagers by whose side he fought the bandits, to go with them to the woods to search for their hunting party."
 msgstr ""
 
 #. [part]
-#: Saga_of_James/volume1/utils/story.cfg:46
+#: Saga_of_James/volume1/utils/story.cfg:48
 msgid "The next day of their journey went without any conflict. The few bandits who saw the party going through the wood tried to avoid them because they heard about the recent battle."
 msgstr ""
 
 #. [part]
-#: Saga_of_James/volume1/utils/story.cfg:50
+#: Saga_of_James/volume1/utils/story.cfg:52
 msgid "The party found a few signs confirming that their village's hunting party was going through this area but they themselves were nowhere to see. But at the other hand, a woman, who seemed to live in the wilderness for a longer period of time, crossed their way."
 msgstr ""
 
 #. [part]
-#: Saga_of_James/volume1/utils/story.cfg:59
+#: Saga_of_James/volume1/utils/story.cfg:61
 msgid "After defeating the orcs, the party traveled to north-east to continue in their search. For some time, footprints of the village hunters were very clear but later, they just vanished. It was near some smaller human settlement."
 msgstr ""
 
 #. [part]
-#: Saga_of_James/volume1/utils/story.cfg:63
+#: Saga_of_James/volume1/utils/story.cfg:65
 msgid "It looked quite similar to their home village but some of the buildings bore signs of being damaged recently and its inhabitants were nowhere to see. It was an evening when they saw it but even for that time of day it was a bit unusual. The party decided to ignore it and rather look to the ground to find out where next steps of their hunters led."
 msgstr ""
 
 #. [part]
-#: Saga_of_James/volume1/utils/story.cfg:72
+#: Saga_of_James/volume1/utils/story.cfg:74
 msgid "Once the trolls and wolf riders were defeated, the party wasted no time and moved towards the next enemy - nagas. Aleixo has led the party to the new home of these enemies, a nearby river. It was less than an hour of walking from the village. They were moving very carefully to not notify any enemies of their actions. They were successful and caught the nagas unprepared for an attack."
 msgstr ""
 
 #. [part]
-#: Saga_of_James/volume1/utils/story.cfg:81
+#: Saga_of_James/volume1/utils/story.cfg:83
 msgid "Once the nagas were a history, the party started their march back to the village. This time, they did not have to watch out for enemies so James had some time to chat with Belinda. He could fully take notice of how she was different from anyone he has met before. She was used to fighting but also genuinely kind (at least to him). He was starting to like this woman."
 msgstr ""
 
 #. [part]
-#: Saga_of_James/volume1/utils/story.cfg:85
+#: Saga_of_James/volume1/utils/story.cfg:87
 msgid "Both of them were so much absorbed in their conversation so they almost did not notice that they reached their destination. They immediately went to the rebels' headquarters. Once there, everyone lied down to rest a bit before the big battle. Everyone but James, Belinda and Aleixo. These three stayed before the building to discuss their strategy."
 msgstr ""
 
 #. [part]
-#: Saga_of_James/volume1/utils/story.cfg:94
+#: Saga_of_James/volume1/utils/story.cfg:96
 msgid "The journey back to the James' village was very peaceful as no one dared to attack the party. James and Belinda once again used the opportunity to have some light-hearted conversation. They found out a few things which the other liked or disliked and make each other laugh a few times. They were enjoying themselves so much that they did not notice that it started to snow until they were almost in the village."
 msgstr ""
 
