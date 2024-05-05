@@ -89,6 +89,9 @@ msgid ""
 "of their turn, making them unable to attack, but able to break this charm by "
 "fleeing."
 msgstr ""
+"Tato jednotka způsobí, že nepřátelé opačného pohlaví jsou na začátku svého "
+"tahu poblouzněni, takže nemohou útočit, ale mohou se tohoto kouzla zbavit "
+"útěkem."
 
 #. [dummy]: id=temptation
 #: Saga_of_James/macros/abilities.cfg:48
@@ -1367,7 +1370,7 @@ msgstr "A dávej na ně pozor. Víš, že nemůže ztratit příliš mnoho vesni
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:181
 msgid "Yes, I know. I will do my best."
-msgstr ""
+msgstr "Ano, já vím. Udělám, co bude v mých silách."
 
 #. [message]: speaker=narrator
 #: Saga_of_James/volume1/scenarios/01_A_Raid.cfg:188
@@ -2522,7 +2525,7 @@ msgstr ""
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:308
 msgid "Once the orcs are alone they will not pose much of a threat, right?"
-msgstr ""
+msgstr "Jakmile budou skřeti sami, nebudou představovat velkou hrozbu, že?"
 
 #. [message]: speaker=Aleixo
 #: Saga_of_James/volume1/scenarios/04_Resistance.cfg:312
@@ -2782,7 +2785,7 @@ msgstr "A je to. Nagy jsou minulostí. Skvělá práce, lidi."
 #. [message]: speaker=James
 #: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:182
 msgid "Indeed. Your idea worked out really well, Belinda."
-msgstr ""
+msgstr "Vskutku. Tvůj nápad se opravdu povedl, Belindo."
 
 #. [message]: speaker=Belinda
 #: Saga_of_James/volume1/scenarios/05_Hostile_Waters.cfg:186
