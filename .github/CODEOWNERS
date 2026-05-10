@@ -5,14 +5,14 @@
 .gitignore              @irdyansages/project-management
 
 # Release Management
-/_server.pbl		@irdyansages/release-managers-saga-of-james
+/_server.pbl            @irdyansages/release-managers-saga-of-james
 /CHANGELOG.md           @irdyansages/release-managers-saga-of-james
 /dist/                  @irdyansages/release-managers-saga-of-james
 .gitattributes          @irdyansages/release-managers-saga-of-james
 
 # Continous integeration
 /.gitlab-ci.yml         @irdyansages/devops
-/.github/workflows/	@irdyansages/devops
+/.github/workflows/     @irdyansages/devops
 
 # Translations
 /translations/          @irdyansages/translations-masters
@@ -22,6 +22,9 @@
 story.cfg               @irdyansages/wml-wizards @irdyansages/lore-masters
 deaths.cfg              @irdyansages/wml-wizards @irdyansages/lore-masters
 scenarios/              @irdyansages/wml-wizards @irdyansages/lore-masters
+
+# Lore documents
+Storyline.md            @irdyansages/lore-masters
 
 # Maps
 *.map                   @irdyansages/map-makers
